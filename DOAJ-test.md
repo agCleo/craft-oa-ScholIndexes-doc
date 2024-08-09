@@ -4,8 +4,7 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 
 ## General information
 
-| Name | DOAJ (Directory of Open Access Journals) |
-| :---- | :---- |
+| **Name** | DOAJ (Directory of Open Access Journals) |
 | **Website** | [https://doaj.org/](https://doaj.org/)  |
 | **Owner** | Infrastructure Services for Open Access |
 | **Owner type** | Non profit organization |
