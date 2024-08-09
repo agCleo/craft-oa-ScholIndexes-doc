@@ -30,7 +30,7 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | **Full text** | link to the full text available |
 | **Index sources** | Journal |
 | **Supported standards** | Dublin Core, DOAJ and Crossref schemas |
-| **Additional services** | JASPER (project for open access journals preservation):  [https://doaj.org/preservation/](https://doaj.org/preservation/) <br />Transparency and best practice (guidelines): [https://doaj.org/apply/transparency/](https://doaj.org/apply/transparency/)<br /> Think. Check. Submit. (Trusted publisher identification for research): [https://thinkchecksubmit.org/](https://thinkchecksubmit.org/)<br /> Publishers Learning and Community Exchange (PLACE): [https://theplace.discourse.group/](https://theplace.discourse.group/)<br /> Open Access Journals Toolkit:  [https://www.oajournals-toolkit.org/fr](https://www.oajournals-toolkit.org/fr)  | 
+| **Additional services** | - JASPER (project for open access journals preservation):  [https://doaj.org/preservation/](https://doaj.org/preservation/) - Transparency and best practice (guidelines): [https://doaj.org/apply/transparency/](https://doaj.org/apply/transparency/) - Think. Check. Submit. (Trusted publisher identification for research): [https://thinkchecksubmit.org/](https://thinkchecksubmit.org/)<br /> Publishers Learning and Community Exchange (PLACE): [https://theplace.discourse.group/](https://theplace.discourse.group/)<br /> Open Access Journals Toolkit:  [https://www.oajournals-toolkit.org/fr](https://www.oajournals-toolkit.org/fr)  | 
 | **Bibliodiversity support** |  |
 | World-wide coverage of countries and languages in open access (Gold and Diamond OA) |  |
 
