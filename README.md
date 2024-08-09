@@ -1,7 +1,7 @@
-# Documentation about Scholarly Publications Indexes
+# Documentation about Academic Publications Indexes
 
 ## About 
-This repository contains the documentation catalogue about indexes for scholarly publications. It is meant to help publishers understand and select the appropriate index or aggregator for their publications, as well as the requirements they will have to meet.
+This repository contains the documentation catalogue about indexes for academic publications. It is meant to help publishers understand and select the appropriate index or aggregator for their publications, as well as the requirements they will have to meet.
    
 The catalogue has been established within the [CRAFT-OA](https://www.craft-oa.eu/) Horizon Europe project, as part of the WP5 lead by [Aix-Marseille University](https://www.univ-amu.fr/). 
 
@@ -10,7 +10,7 @@ CRAFT-OA is an [OPERAS RI](https://operas-eu.org/) project coordinated by the [U
 CRAFT-OA was funded in 2022 under the HORIZON-INFRA-2022-EOSC-01 framework with the Grant Agreement number 101094397.
 
 ## What contains the catalog?
-The catalog contains detailed, although not exhaustive, information about the main indexes in the field of scholarly publishing.  
+The catalog contains detailed, although not exhaustive, information about the main indexes in the field of academic publishing.  
 
 In order to facilitate the broadest dissemination of Diamond Open Access journals, the catalogue includes any type of index that might be useful for that purpose.
 
@@ -37,7 +37,7 @@ The third and final section “Requirements for Academic Publications” exposes
 ## How up-to-date is the catalogue?
 Each catalogue entry indicates the date of the last version.
 
-Furthermore, it was since the beginning the plan of CRAFT-OA to provide an easily updatable and scalable documentation about scholarly publications indexes. The independent files for each index, the consistent and robust structure of each entry will precisely facilitate the collaborative updates. The storage on a github will in addition allow to keep track of all the changes.
+Furthermore, it was since the beginning the plan of CRAFT-OA to provide an easily updatable and scalable documentation about academic publications indexes. The independent files for each index, the consistent and robust structure of each entry will precisely facilitate the collaborative updates. The storage on a github will in addition allow to keep track of all the changes.
 
 ## Are there other versions of the catalog?
 
