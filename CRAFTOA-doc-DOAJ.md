@@ -1,5 +1,7 @@
 # DOAJ
 
+*Last version: 2024-08-09*
+
 Community-curated list of peer-reviewed open access journals, maintained by Infrastructure Services for Open Access (IS4OA). DOAJ also allows for article metadata collection and display, and free distribution of journal and article metadata.
 
 ## General information
