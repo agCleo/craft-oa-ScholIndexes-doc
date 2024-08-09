@@ -29,7 +29,7 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 | **Indexing level for publications** | Articles |
 | **Full text** | link to the full text when available |
 | **Index sources** | Any website with scholarly articles and proper URL |
-| **Supported standards** | HTML meta tags supporting: \- Highwire Press tags \- BE Press tags \- PRISM tags \- Dublin Core tags |
+| **Supported standards** | HTML meta tags supporting: <br />\- Highwire Press tags <br />\- BE Press tags \- PRISM tags \- Dublin Core tags |
 | **Bibliodiversity support** | No limitation on the language of the content or the publishing business model |
 
 **Additional services:**
