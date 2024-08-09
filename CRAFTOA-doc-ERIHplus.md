@@ -1,5 +1,7 @@
 # ERIH+
 
+*Last version: 2024-08-09*
+
 ERIH PLUS is an online index holding bibliographic information on academic journals in the Social Sciences and Humanities (SSH), with a focus on quality journals across all European languages and countries. ERIH PLUS supports journals’ policies of openness and transparency in line with editorial best practices. Curation ensures that journals open access status and Plan S compliance is marked. ERIH PLUS offers an additional index of articles, which is an SSH subset of Dimensions collections, showing only articles having a DOI. Dimensions is a multidisciplinary database that brings together over 140 million publications.
 
 ## General Information
