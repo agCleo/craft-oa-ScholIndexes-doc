@@ -1,4 +1,4 @@
-# Documentation about Scholarly Publishing Indexes
+# Documentation about Scholarly Publications Indexes
 
 ## About 
 This repository contains the documentation catalogue about indexes for scholarly publications. It is meant to help publishers understand and select the appropriate index or aggregator for their publications, as well as the requirements they will have to meet.
@@ -32,7 +32,7 @@ The first section “General Information” gives a concise view of the global a
 
 The second section “Content and Service” explains which and how journal's information is displayed on the index. It describes the data selection and management. It also indicates, when available, some additional services of the index besides the indexing.
 
-The third and final section “Requirements for Academic Publications” exposes the requirements and criteria of the index. While some criteria will require a deeper look into the index own documentation, the catalogue gives sufficient information to evaluate the feasibility for a given journal to meet the requirements.
+The third and final section “Requirements for Academic Publications” exposes the requirements and criteria of the index. While some criteria will require a deeper look into the index own documentation, the catalogue intends to give sufficient information to evaluate the feasibility for a given journal to meet the requirements.
 
 ## How up-to-date is the catalogue?
 Each catalogue entry indicates the date of the last version.
