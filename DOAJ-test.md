@@ -1,4 +1,6 @@
-# DOAJ
+# DOAJ-test
+
+**result of direct import from Gdrive**
 
 Community-curated list of peer-reviewed open access journals, maintained by Infrastructure Services for Open Access (IS4OA). DOAJ also allows for article metadata collection and display, and free distribution of journal and article metadata.
 
