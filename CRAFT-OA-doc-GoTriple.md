@@ -30,7 +30,7 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 | **Full text** | Link to the full text if available |
 | **Index sources** | DOAJ DOAB Isidore OpenAIRE BASE Europeana Biblioteka Nauki |
 | **Supported standards** | Dublin Core OpenAIRE format Europeana Data Model (EDM) MARC21 (work in progress) Schema.org (internal use only) |
-| **Bibliodiversity support** | Go triple collects mostly metadata about open access resources, however the index contains records of some closed access contents. Multilingualism support: Automatic classification of the content in 27 SSH disciplines in 11 languages. Automatic annotation of the content with the [TRIPLE Vocabulary](https://www.semantics.gr/authorities/vocabularies/SSH-LCSH/?language=en) which provides a hierarchical set of over 3.300 SSH-related concepts in 12 languages. The user interface is localized in 9 languages.  |
+| **Bibliodiversity support** | Go triple collects mostly metadata about open access resources, however the index contains records of some closed access contents. <br />Multilingualism support: <br /> Automatic classification of the content in 27 SSH disciplines in 11 languages. <br /> Automatic annotation of the content with the [TRIPLE Vocabulary](https://www.semantics.gr/authorities/vocabularies/SSH-LCSH/?language=en) which provides a hierarchical set of over 3.300 SSH-related concepts in 12 languages.<br /> The user interface is localized in 9 languages.  |
 
 **Additional services:**
 
