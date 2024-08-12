@@ -28,7 +28,7 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | articles |
 | **Full text** | Link to the full text if available |
-| **Index sources** | Mainly Microsoft Academic Graph and CrossRef ORCID ROR DOAJ Unpaywall Pubmed Pubmed Central The ISSN International Centre Internet Archive  Web crawls Subject-area and institutional repositories from arXiv to Zenodo and many in between |
+| **Index sources** | Mainly Microsoft Academic Graph and CrossRef <br/>ORCID <br/>ROR <br/>DOAJ <br/>Unpaywall <br/>Pubmed <br/>Pubmed Central <br/>The ISSN International Centre <br/>Internet Archive  <br/>Web crawls <br/>Subject-area and institutional repositories from arXiv to Zenodo and many in between |
 | **Supported standards** |  |
 
 **Bibliodiversity support**  
