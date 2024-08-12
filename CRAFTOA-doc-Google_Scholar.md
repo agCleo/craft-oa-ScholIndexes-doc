@@ -62,7 +62,7 @@ HTML or PDF
 *Metadata mandatory fields*
 
 For PDF publications:  
-\- Title (large font)  
+- Title (large font)  
 - Authors (below title)  
 - Bibliographic citation of the paper (in first page footer)  
 - Bibliography (separate section)
