@@ -29,7 +29,7 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 | **Indexing level for publications** | Articles |
 | **Full text** | link to the full text when available |
 | **Index sources** | Any website with scholarly articles and proper URL |
-| **Supported standards** | HTML meta tags supporting: <br />\- Highwire Press tags <br />\- BE Press tags \- PRISM tags \- Dublin Core tags |
+| **Supported standards** | HTML meta tags supporting: <br />\- Highwire Press tags <br />\- BE Press tags <br />\- PRISM tags <br />\- Dublin Core tags |
 | **Bibliodiversity support** | No limitation on the language of the content or the publishing business model |
 
 **Additional services:**
@@ -55,24 +55,24 @@ Web crawling
 
 **Technical minimum requirements**
 
-#### *Data file format* 
+*Data file format* 
 
 HTML or PDF
 
-#### *Metadata mandatory fields*
+*Metadata mandatory fields*
 
 For PDF publications:  
-\- Title (large font)  
-\- Authors (below title)  
-\- Bibliographic citation of the paper (in first page footer)  
-\- Bibliography (separate section)
+- Title (large font)  
+- Authors (below title)  
+- Bibliographic citation of the paper (in first page footer)  
+- Bibliography (separate section)
 
 For HTML publications (metadata included in metatags of the HTML file):  
-\- Title  
-\- Authors  
-\- Publication date  
-\- Bibliographic citation of the paper  
-\- Bibliography
+- Title  
+- Authors  
+- Publication date  
+- Bibliographic citation of the paper  
+- Bibliography
 
 ### Additional criteria
 
