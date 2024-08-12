@@ -17,10 +17,8 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 | **Number of items** | Over 240M works (scholarly documents: journal, articles, conference papers, books and book chapters, datasets and theses) |
 | **Access for index users** | Free |
 | **Access for index data providers** | Free |
-| **Documentation** |  |
-| About technical informations: [https://docs.openalex.org/](https://docs.openalex.org/)  |  |
-| **Application form for providers** |  |
-| None |  |
+| **Documentation** | About technical informations: [https://docs.openalex.org/](https://docs.openalex.org/)  |
+| **Application form for providers** | None |
 
 ## Content and Service
 
