@@ -52,11 +52,11 @@ Acces governed by a 2-step process detailed here: [https://clarivate.com/product
 * 1st step: Creation of a user account with your institutional email address: [https://access.clarivate.com/register?app=wpp\&referrer=%2Fwpp%2Fhom](https://access.clarivate.com/register?app=wpp\&referrer=%2Fwpp%2Fhome)  
 * 2nd step: Request access to the publisher portal: [https://support.clarivate.com/ScientificandAcademicResearch/s/publisher-portal-access-request?language=en\_US](https://support.clarivate.com/ScientificandAcademicResearch/s/publisher-portal-access-request?language=en\_US)
 
-### Data Collection process
+**Data Collection process**
 
 Journals metadata is collected upon manual submission from the publishers. Articles metadata is regularly updated through the use of various databases.
 
-## Minimum Requirements
+### Minimum Requirements
 
 **Editorial Minimum Requirements**
 
@@ -92,7 +92,7 @@ Journals metadata is collected upon manual submission from the publishers. Artic
 * Journal publisher  
 * Abstract
 
-## Additional Criteria
+### Additional Criteria
 
 **Editorial Additional Specifications**
 
