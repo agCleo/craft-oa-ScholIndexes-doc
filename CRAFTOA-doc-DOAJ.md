@@ -47,7 +47,7 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 Publishers have to register and complete an online application form: [https://doaj.org/account/login?redirected=apply](https://doaj.org/account/login?redirected=apply)   
 The admission requires compliance with a set of editorial and technical requirements.
 
-**Data Collection**
+**Data Collection Process**
 
 Journal information is recorded during the submission process, through an online web form in the first place.
 
