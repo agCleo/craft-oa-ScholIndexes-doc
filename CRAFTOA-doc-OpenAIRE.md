@@ -63,7 +63,7 @@ If the publications are not already stored in OpenAIRE’s data source (full lis
 **Data Collection process**
 
 * Upon submission by OpenAire PROVIDE  
-* Automatic collection of metadata via OAI-PMH and rest APIs. The metadata provided need to follow OpenAIRE guidelines: [https://guidelines.openaire.eu/en/latest/](https://guidelines.openaire.eu/en/latest/)
+* Automatic collection of metadata via OAI-PMH and REST APIs. The metadata provided need to follow OpenAIRE guidelines: [https://guidelines.openaire.eu/en/latest/](https://guidelines.openaire.eu/en/latest/)
 
 ### Minimum Requirements
 
