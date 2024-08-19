@@ -37,7 +37,7 @@ The third and final section “Requirements for Academic Publications” exposes
 ## How up-to-date is the catalogue?
 Besides the automated version history integrated in Github, each catalogue entry indicates the date of the last version.
 
-Furthermore, it was since the beginning the plan of CRAFT-OA to provide an easily updatable and scalable documentation about academic publications indexes. The independent files for each index, the consistent and robust structure of each entry will precisely facilitate the collaborative updates. The storage on a github will in addition allow to keep track of all the changes.
+Furthermore, it was since the beginning the plan of CRAFT-OA to provide an easily updatable and scalable documentation about academic publications indexes. The independent files for each index, as well as the consistent and robust structure of each entry will precisely facilitate the collaborative updates. The storage on a github will in addition allow to keep track of all the changes.
 
 ## Are there other versions of the catalog?
 
