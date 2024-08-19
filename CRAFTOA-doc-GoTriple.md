@@ -17,7 +17,9 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 | **Number of items** | 15 M documents |
 | **Access for index users** | Free |
 | **Access for index data providers** | Free |
-| **Documentation** | About metadata requirements: [https://www.gotriple.eu/docs/gotriple-handbook-v1\_0.pdf](https://www.gotriple.eu/docs/gotriple-handbook-v1\_0.pdf) About data submission: [https://www.gotriple.eu/docs/your\_data\_in\_gotriple-v1\_0.pdf](https://www.gotriple.eu/docs/gotriple-handbook-v1\_0.pdf)  |
+| **Documentation** | About metadata requirements: [https://www.gotriple.eu/docs/gotriple-handbook-v1\_0.pdf](https://www.gotriple.eu/docs/gotriple-handbook-v1\_0.pdf) 
+
+About data submission: [https://www.gotriple.eu/docs/your\_data\_in\_gotriple-v1\_0.pdf](https://www.gotriple.eu/docs/gotriple-handbook-v1\_0.pdf)  |
 | **Application form for providers** | [https://pipeline.gotriple.eu/user/login?destination=/](https://pipeline.gotriple.eu/user/login?destination=/) |
 
 ## Content and Service
