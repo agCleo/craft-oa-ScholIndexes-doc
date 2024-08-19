@@ -76,7 +76,7 @@ Journals metadata is collected upon manual submission from the publishers. Artic
 
 * Presence of peer review and clear statement of the peer review policy  
 * Scholarly content (The journal must contain primarily original scholarly material)  
-* Articles titles and article abstracts in english  
+* Articles titles and article abstracts in English  
 * Bibliographic Information in Roman Script  
 * Clarity of language   
 * Presence of Ethics Statements   
