@@ -35,7 +35,7 @@ The second section “Content and Service” explains which and how journal's in
 The third and final section “Requirements for Academic Publications” exposes the requirements and criteria of the index. While some criteria will require a deeper look into the index own documentation, the catalogue intends to give sufficient information to evaluate the feasibility for a given journal to meet the requirements.
 
 ## How up-to-date is the catalogue?
-Each catalogue entry indicates the date of the last version.
+Besides the automated version history integrated in Github, each catalogue entry indicates the date of the last version.
 
 Furthermore, it was since the beginning the plan of CRAFT-OA to provide an easily updatable and scalable documentation about academic publications indexes. The independent files for each index, the consistent and robust structure of each entry will precisely facilitate the collaborative updates. The storage on a github will in addition allow to keep track of all the changes.
 
