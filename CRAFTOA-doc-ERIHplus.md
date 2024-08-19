@@ -46,7 +46,7 @@ New journals have to be submitted after creation of a user account:
 [https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action](https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action)   
 ERIH PLUS will not be evaluating journals submitted by publishers, members of the editorial board or others affiliated with a journal.
 
-**Data Collection**
+**Data Collection Process**
 
 * Journal metadata are collected upon manual submission  
 * Articles metadata indexing is automated and powered by Dimensions
