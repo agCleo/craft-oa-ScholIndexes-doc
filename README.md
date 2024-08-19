@@ -1,5 +1,7 @@
 # Documentation about Academic Publications Indexes
 
+!!WORK IN PROGRESS!!
+
 ## About 
 This repository contains the documentation catalogue about indexes for academic publications. It is meant to help publishers understand and select the appropriate index or aggregator for their publications, as well as the requirements they will have to meet.
    
