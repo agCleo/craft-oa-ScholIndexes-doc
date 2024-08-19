@@ -24,7 +24,7 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 
 | Content type | Journals, Articles, Books |
 | :---- | :---- |
-| **Content language** | Mainly in english (Abstract and titles in english) |
+| **Content language** | Mainly in English (Abstract and titles in English) |
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Journals |
 | **Full text** | None (restricted access) |
