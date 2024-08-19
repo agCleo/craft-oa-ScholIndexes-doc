@@ -38,11 +38,9 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
     
 * Online annotation tool: [https://thepund.it/](https://thepund.it/)   
     
-* GoTriple APIs: 
-
-Endpoint: [https://api.gotriple.eu/](https://api.gotriple.eu/) 
-
-Documentation: [https://zenodo.org/records/7371832](https://zenodo.org/records/7371832) 
+* GoTriple APIs:
+    * Endpoint: [https://api.gotriple.eu/](https://api.gotriple.eu/)
+    * Documentation: [https://zenodo.org/records/7371832](https://zenodo.org/records/7371832) 
 
 ## Requirements for Academic Publications
 
