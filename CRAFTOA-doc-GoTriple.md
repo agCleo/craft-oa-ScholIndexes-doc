@@ -1,4 +1,4 @@
-# GO Triple
+# GoTriple
 
 *Last version: 2024-08-12*
 
