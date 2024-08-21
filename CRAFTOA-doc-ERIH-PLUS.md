@@ -2,7 +2,7 @@
 
 *Last version: 2024-08-09*
 
-ERIH PLUS is an online index holding bibliographic information on academic journals in the Social Sciences and Humanities (SSH), with a focus on quality journals across all European languages and countries. ERIH PLUS supports journals’ policies of openness and transparency in line with editorial best practices. Curation ensures that journals open access status and Plan S compliance is marked. ERIH PLUS offers an additional index of articles, which is an SSH subset of Dimensions collections, showing only articles having a DOI. Dimensions is a multidisciplinary database that brings together over 140 million publications.
+ERIH+ is an online index holding bibliographic information on academic journals in the Social Sciences and Humanities (SSH), with a focus on quality journals across all European languages and countries. ERIH+ supports journals’ policies of openness and transparency in line with editorial best practices. Curation ensures that journals open access status and Plan S compliance is marked. ERIH+ offers an additional index of articles, which is an SSH subset of Dimensions collections, showing only articles having a DOI. Dimensions is a multidisciplinary database that brings together over 140 million publications.
 
 ## General Information
 
@@ -30,12 +30,12 @@ ERIH PLUS is an online index holding bibliographic information on academic journ
 | **Full text** | Link to the full text when available |
 | **Index sources** | Journals and Dimensions / Crossref |
 | **Supported standards** | Internal metadata format |
-| **Bibliodiversity support** | No limitations on the content language. ERIH PLUS focuses on SSH disciplines usually less represented in private indexes at the core of the impact factor evaluation. Journals in these areas published outside Europe can also be accepted if "used by European scholars". |
+| **Bibliodiversity support** | No limitations on the content language. ERIH+ focuses on SSH disciplines usually less represented in private indexes at the core of the impact factor evaluation. Journals in these areas published outside Europe can also be accepted if "used by European scholars". |
 
 **Additional services:**
 
 * Records show if the journal is indexed in other indexes (e. g. DOAJ, Sherpa-Romeo).  
-* ERIH PLUS Record connects with Plan S Journal Checker tool: [https://journalcheckertool.org/](https://journalcheckertool.org/)   
+* ERIH+ Record connects with Plan S Journal Checker tool: [https://journalcheckertool.org/](https://journalcheckertool.org/)   
 * External support from Dimensions to display metadata about articles: [https://www.dimensions.ai/](https://www.dimensions.ai/) 
 
 ## Requirements for Academic Publications
@@ -44,7 +44,7 @@ ERIH PLUS is an online index holding bibliographic information on academic journ
 
 New journals have to be submitted after creation of a user account:   
 [https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action](https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action)   
-ERIH PLUS will not be evaluating journals submitted by publishers, members of the editorial board or others affiliated with a journal.
+ERIH+ will not be evaluating journals submitted by publishers, members of the editorial board or others affiliated with a journal.
 
 **Data Collection Process**
 
