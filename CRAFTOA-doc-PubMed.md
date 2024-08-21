@@ -30,7 +30,7 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 | **Full text** | Link to the full text when available |
 | **Index sources** | Journals |
 | **Supported standards** |  |
-| **Bibliodiversity support** | Website in english and mandatory english abstracts and titles, content from all countries and all languages (mainly in english) in open and restricted access |
+| **Bibliodiversity support** | Website available only in English. English mandatory for abstracts and titles. Content from all countries and languages (mainly in English) in open and restricted access. |
 
 **Additional services:**  
 NLM Gateway (Web-based metasearch engine for many resources of the National Library of Medicine (NLM)):   
