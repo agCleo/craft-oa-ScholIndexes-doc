@@ -28,9 +28,9 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Article  |
 | **Full text** | Link to the full text if available |
-| **Index sources** | DOAJ DOAB Isidore OpenAIRE BASE Europeana Biblioteka Nauki |
-| **Supported standards** | Dublin Core OpenAIRE format Europeana Data Model (EDM) MARC21 (work in progress) Schema.org (internal use only) |
-| **Bibliodiversity support** |Multilingualism support: <br /> Automatic classification of the content in 27 SSH disciplines in 11 languages. <br /> Automatic annotation of the content with the [TRIPLE Vocabulary](https://www.semantics.gr/authorities/vocabularies/SSH-LCSH/?language=en) which provides a hierarchical set of over 3.300 SSH-related concepts in 12 languages.<br /> The user interface is localized in 9 languages.<br/><br/>Openness support: <br/>Go triple collects mostly metadata about open access resources, however the index contains records of some closed access contents.   |
+| **Index sources** | DOAJ <br/>DOAB <br/>Isidore <br/>OpenAIRE <br/>BASE <br/>Europeana <br/>Biblioteka Nauki |
+| **Supported standards** | Dublin Core <br/>OpenAIRE format <br/>Europeana Data Model (EDM) <br/>MARC21 (work in progress) <br/>Schema.org (internal use only) |
+| **Bibliodiversity support** |Multilingualism support: <br/>Automatic classification of the content in 27 SSH disciplines in 11 languages. <br />Automatic annotation of the content with the [TRIPLE Vocabulary](https://www.semantics.gr/authorities/vocabularies/SSH-LCSH/?language=en) which provides a hierarchical set of over 3.300 SSH-related concepts in 12 languages.<br /> The user interface is localized in 9 languages.<br/><br/>Openness support: <br/>Go triple collects mostly metadata about open access resources, however the index contains records of some closed access contents.   |
 
 **Additional services:**
 
@@ -64,6 +64,9 @@ The publication has to be a scholarly output in the Social Sciences and Humaniti
 *Metadata Standard* 
 
 * Dublin Core
+* OpenAIRE format  
+* Europeana Data Model (EDM)  
+* MARC21 (work in progress)
 
 *Metadata File Format* 
 
@@ -79,13 +82,6 @@ The publication has to be a scholarly output in the Social Sciences and Humaniti
 ### Additional Criteria
 
 **Technical Additional Specifications** 
-
-*Metadata Standard*
-
-* OpenAIRE format  
-* Europeana Data Model (EDM)  
-* MARC21 (work in progress)
-
 *Metadata Recommended Fields*
 
 * Abstract  
