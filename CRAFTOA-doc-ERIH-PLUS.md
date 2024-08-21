@@ -67,7 +67,7 @@ ERIH+ will not be evaluating journals submitted by publishers, members of the ed
 
 * English abstract available online  
 * SSH subject area   
-* Peer review and explicit description of the journal’s procedure for independent peer review. (not affiliated with the authors…)  
+* Peer review and explicit description of the journal’s procedure for independent peer review (not affiliated with the authors).  
 * Informations about authors affiliations for all scholarly articles for the last two years of publication (fill university names, email or postal address)  
 * No more than two thirds of the authors published in the journal are from the same institution (reviewing the last two years of publication)
 
@@ -84,8 +84,6 @@ ERIH+ will not be evaluating journals submitted by publishers, members of the ed
 ### Additional Criteria
 
 **Editorial Optional Specifications**
-
-*Journal History* 
 
 * Publication history of at least two years
 
