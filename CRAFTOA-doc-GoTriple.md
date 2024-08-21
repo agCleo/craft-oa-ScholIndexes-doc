@@ -82,6 +82,7 @@ The publication has to be a scholarly output in the Social Sciences and Humaniti
 ### Additional Criteria
 
 **Technical Additional Specifications** 
+
 *Metadata Recommended Fields*
 
 * Abstract  
