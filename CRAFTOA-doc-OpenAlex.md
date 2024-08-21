@@ -60,9 +60,9 @@ OpenAlex automatically indexes new journals and articles. If the publications ar
 
 ### Minimum Requirements
 
-* Dependant from the data sources crawled by OpenAlex
+* Dependent from the data sources crawled by OpenAlex
 
 ### Additional Criteria
 
-* Dependant from the data sources crawled by OpenAlex
+* Dependent from the data sources crawled by OpenAlex
 
