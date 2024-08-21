@@ -49,7 +49,7 @@ Scopus API and data:
 
 ### Joining Process
 
-Application form for journal suggestion to the CSAB (content selection and Advisory Board):  
+Application form for journal suggestion to the CSAB (Content Selection and Advisory Board):  
 [https://suggestor.step.scopus.com/suggestTitle/step1.cfm](https://suggestor.step.scopus.com/suggestTitle/step1.cfm) and compliance with a set of editorial and technical requirements.
 
 **Data Collection Process**
