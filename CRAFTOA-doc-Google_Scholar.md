@@ -53,6 +53,8 @@ Web crawling
 
 **Editorial minimum requirements**
 
+None.
+
 **Technical minimum requirements**
 
 *Data file format* 
