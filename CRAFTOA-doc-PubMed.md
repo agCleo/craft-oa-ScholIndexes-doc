@@ -29,7 +29,7 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 | **Indexing level for publications** | Journals, articles |
 | **Full text** | Link to the full text when available |
 | **Index sources** | Journals |
-| **Supported standards** |  |
+| **Supported standards** | Dublin Core <br/>PMC (PubMedCentral) |
 | **Bibliodiversity support** | Website available only in English. English mandatory for abstracts and titles. Content from all countries and languages (mainly in English) in open and restricted access. |
 
 **Additional services:**  
