@@ -16,7 +16,7 @@ The Web of Science (WoS) is a paid-access platform that provides access to multi
 | **Scope** | Life sciences, biomedical sciences, engineering, social sciences, arts & humanities. |
 | **Number of items** | Above 22 000 journals |
 | **Access for index users** | Subscription fee |
-| **Access for index data providers** | Article processing charges (APC) |
+| **Access for index data providers** | No fees for obtaining a Publisher Portal account or getting a journal evaluated |
 | **Documentation** | Process and Selection Criteria:  [https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/web-of-science-core-collection/editorial-selection-process/editorial-selection-process/](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/web-of-science-core-collection/editorial-selection-process/editorial-selection-process/)  Evaluation process graph:   [https://clarivate.com/wp-content/uploads/2022/03/WoS-selection-process-Graphic\_Journals\_web-1.jpg](https://clarivate.com/wp-content/uploads/2022/03/WoS-selection-process-Graphic\_Journals\_web-1.jpg) |
 | **Application form for providers** | [https://clarivate.com/products/scientific-and-academic-research/research-publishing-solutions/publisher-portal/newusers/](https://clarivate.com/products/scientific-and-academic-research/research-publishing-solutions/publisher-portal/newusers/)  |
 
@@ -29,8 +29,8 @@ The Web of Science (WoS) is a paid-access platform that provides access to multi
 | **Indexing level for publications** | Journals |
 | **Full text** | None (restricted access) |
 | **Index sources** | Journals |
-| **Supported standards** | Unknown |
-| **Bibliodiversity support** | The evaluation includes the prestige dimension with the use of impact factor.  WoS is considered to reference a low rate of "research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences" (Jonathan Tennant, 2020\) |
+| **Supported standards** | Not communicated |
+| **Bibliodiversity support** | The evaluation includes the prestige dimension with the use of impact factor.  WoS is considered to reference a low rate of "research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences"[^1]. |
 
 **Additional services**
 
@@ -103,6 +103,7 @@ Journals metadata is collected upon manual submission from the publishers. Artic
 
 *Publishing Policy*
 
-* Comparative Citation Analysis (Our most selective indices (SCIE, SSCI and AHCI) contain the most impactful journals in their discipline.)  
+* Comparative Citation Analysis (WOS most selective indices (SCIE, SSCI and AHCI) contain the most impactful journals in their discipline.)  
 * Content Significance (The content in the journal should be of interest, importance, and value to its intended readership and to Web of Science subscribers)
 
+[^1]:  Tennant JP. Web of Science and Scopus are not global databases of knowledge. European Science Editing 2020;46. DOI: 10.3897/ese.2020.e51987
