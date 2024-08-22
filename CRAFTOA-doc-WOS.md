@@ -103,7 +103,7 @@ Journals metadata is collected upon manual submission from the publishers. Artic
 
 *Publishing Policy*
 
-* Comparative Citation Analysis (WOS most selective indices (SCIE, SSCI and AHCI) contain the most impactful journals in their discipline.)  
+* Comparative Citation Analysis (WoS most selective indices (SCIE, SSCI and AHCI) contain the most impactful journals in their discipline.)  
 * Content Significance (The content in the journal should be of interest, importance, and value to its intended readership and to Web of Science subscribers)
 
 [^1]:  Tennant JP. Web of Science and Scopus are not global databases of knowledge. European Science Editing 2020;46. DOI: 10.3897/ese.2020.e51987
