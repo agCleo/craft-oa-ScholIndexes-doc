@@ -30,7 +30,7 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | **Full text** | None (restricted access) |
 | **Index sources** | Journals Unpaywall (partial) |
 | **Supported standards** | Unknown |
-| **Bibliodiversity support** | Uses of journal metrics (CiteScore).  Abstract and article titles in english. Scopus is considered to reference a low rate of “research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences” (Jonathan Tennant, 2020\) |
+| **Bibliodiversity support** | Uses of journal metrics (CiteScore).  Abstract and article titles in english. Scopus is considered to reference a low rate of “research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences”[^2] |
 
 **Additional services**  
 Scopus AI (Search tool powered by generative AI):  
@@ -117,3 +117,4 @@ The policy for copyright shall be clearly stated in the author guidelines and th
 * English language journal home page available
   
 [^1]:  Tennant JP. Web of Science and Scopus are not global databases of knowledge. European Science Editing 2020;46. DOI: 10.3897/ese.2020.e51987
+[^2]:  Tennant JP. Web of Science and Scopus are not global databases of knowledge. European Science Editing 2020;46. DOI: 10.3897/ese.2020.e51987
