@@ -29,7 +29,7 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | **Indexing level for publications** | Journals |
 | **Full text** | None (restricted access) |
 | **Index sources** | Journals Unpaywall (partial) |
-| **Supported standards** | Unknown |
+| **Supported standards** | Not communicated |
 | **Bibliodiversity support** | Uses of journal metrics (CiteScore).  Abstract and article titles in english. Scopus is considered to reference a low rate of “research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences”[^2]. |
 
 **Additional services**  
