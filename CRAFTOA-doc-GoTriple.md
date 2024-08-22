@@ -64,9 +64,9 @@ The publication has to be a scholarly output in the Social Sciences and Humaniti
 *Metadata Standard* 
 
 * Dublin Core
-* OpenAIRE format  
-* Europeana Data Model (EDM)  
-* MARC21 (work in progress)
+* or OpenAIRE format  
+* or Europeana Data Model (EDM)  
+* or MARC21 (work in progress)
 
 *Metadata File Format* 
 
