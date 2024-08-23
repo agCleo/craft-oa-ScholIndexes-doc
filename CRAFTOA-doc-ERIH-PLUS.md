@@ -85,8 +85,6 @@ ERIH+ will not be evaluating journals submitted by publishers, members of the ed
 
 **Editorial Optional Specifications**
 
-* Publication history of at least two years
-
 *Publishing Policy* 
 
 * Evaluation of the target audience of the journal  
