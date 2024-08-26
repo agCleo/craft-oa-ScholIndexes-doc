@@ -30,7 +30,7 @@ The Web of Science (WoS) is a paid-access platform that provides access to multi
 | **Full text** | None (restricted access) |
 | **Index sources** | Journals' own information <br />Others (not communicated) |
 | **Supported standards** | Not communicated |
-| **Bibliodiversity support** | The evaluation includes the prestige dimension with the use of impact factor.  WoS is considered to reference a low rate of "research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences"[^1]. |
+| **Bibliodiversity support** | The evaluation includes the prestige dimension with the use of impact factor.  <br />WoS is considered to reference a low rate of "research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences"[^1]. |
 
 **Additional services**
 
