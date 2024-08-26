@@ -86,7 +86,7 @@ Extensive details about these processes are available here: [Metadata help – D
 
 *Copyright*
 
-Journals where the copyright holder of a scholarly work grants usage rights to others using an open license (Creative Commons or equivalent). This allows for immediate free access to the work and permits any user to read, download, copy, distribute, print, search, or link to the full texts of articles, crawl them for indexing, pass them as data to software, or use them for any other lawful purpose.
+Are accepted journals where the copyright holder of a scholarly work grants usage rights to others using an open license (Creative Commons or equivalent). This allows for immediate free access to the work and permits any user to read, download, copy, distribute, print, search, or link to the full texts of articles, crawl them for indexing, pass them as data to software, or use them for any other lawful purpose.
 
 **Technical Minimum Requirements**
 
