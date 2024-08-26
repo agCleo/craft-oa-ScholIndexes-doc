@@ -26,7 +26,7 @@ ERIH+ is an online index holding bibliographic information on academic journals 
 | :---- | :---- |
 | **Content language** | Any |
 | **Content geographical provenance** | Any |
-| **Indexing level for publications** | Journals. The articles indexing is fully automated (powered by Dimensions) and does not require any additional action. The article metadata displayed thus depends strictly on the Crossref information collected by Dimensions. |
+| **Indexing level for publications** | Journals. <br />The articles indexing is fully automated (powered by Dimensions) and does not require any additional action. The article metadata displayed thus depends strictly on the Crossref information collected by Dimensions. |
 | **Full text** | Link to the full text when available |
 | **Index sources** | Journals and Dimensions / Crossref |
 | **Supported standards** | Internal metadata format |
