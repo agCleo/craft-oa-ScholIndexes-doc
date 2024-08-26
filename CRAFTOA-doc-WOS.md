@@ -26,7 +26,7 @@ The Web of Science (WoS) is a paid-access platform that provides access to multi
 | :---- | :---- |
 | **Content language** | Mainly in English (Abstract and titles in English) |
 | **Content geographical provenance** | Any  |
-| **Indexing level for publications** | Journals |
+| **Indexing level for publications** | Journals <br />Others (not communicated) |
 | **Full text** | None (restricted access) |
 | **Index sources** | Journals' own information |
 | **Supported standards** | Not communicated |
