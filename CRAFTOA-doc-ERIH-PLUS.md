@@ -30,7 +30,7 @@ ERIH+ is an online index holding bibliographic information on academic journals 
 | **Full text** | Link to the full text when available |
 | **Index sources** | Journals and Dimensions / Crossref |
 | **Supported standards** | Internal metadata format |
-| **Bibliodiversity support** | No limitations on the content language. ERIH+ focuses on SSH disciplines usually less represented in private indexes at the core of the impact factor evaluation. Journals in these areas published outside Europe can also be accepted if "used by European scholars". |
+| **Bibliodiversity support** | No limitations on the content language. <br />ERIH+ focuses on SSH disciplines usually less represented in private indexes at the core of the impact factor evaluation. Journals in these areas published outside Europe can also be accepted if "used by European scholars". |
 
 **Additional services:**
 
