@@ -14,7 +14,7 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | **Owner country** | Netherlands |
 | **Launch year** | 2004 |
 | **Scope** | Life sciences, biomedical sciences, engineering, social sciences, arts & humanities. Low rate of research from arts, humanities and social sciences[^1]. |
-| **Number of items** | 27 800 active journals  94 M records |
+| **Number of items** | 27 800 active journals  <br />94 M records |
 | **Access for index users** | Subscription fee |
 | **Access for index data providers** | Free  |
 | **Documentation** | [https://www.elsevier.com/products/scopus/content/content-policy-and-selection](https://www.elsevier.com/products/scopus/content/content-policy-and-selection) |
