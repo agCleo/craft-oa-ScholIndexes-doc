@@ -19,6 +19,7 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | **Access for index data providers** | free |
 | **Documentation** | Criteria documentation: [https://doaj.org/apply/guide/](https://doaj.org/apply/guide/)  |
 | **Application form for providers** | [https://doaj.org/account/login?redirected=apply](https://doaj.org/account/login?redirected=apply) |
+| **Contact address for providers** | helpdesk@doaj.org |
 
 ## Content and service
 
