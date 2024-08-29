@@ -16,7 +16,7 @@ ERIH+ is an online index holding bibliographic information on academic journals 
 | **Scope** | Social Science and Humanities |
 | **Number of items** | Above 10 million articles  |
 | **Access for index users** | Free |
-| **Access for index data providers** | Free upon registration and not affiliated with the journals (publishers and members of the editorial board) |
+| **Access for index data providers** | Free upon registration |
 | **Documentation** | Criteria documentation:  [https://kanalregister.hkdir.no/publiseringskanaler/erihplus/about/criteria\_for\_inclusion](https://kanalregister.hkdir.no/publiseringskanaler/erihplus/about/criteria\_for\_inclusion) |
 | **Application form for providers** | [https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action](https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action)  |
 
