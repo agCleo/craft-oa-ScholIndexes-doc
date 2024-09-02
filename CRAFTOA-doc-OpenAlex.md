@@ -30,13 +30,9 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 | **Full text** | Link to the full text if available |
 | **Index sources** | Mainly Microsoft Academic Graph and CrossRef <br/>ORCID <br/>ROR <br/>DOAJ <br/>Unpaywall <br/>Pubmed <br/>Pubmed Central <br/>The ISSN International Centre <br/>Internet Archive  <br/>Web crawls <br/>Subject-area and institutional repositories from arXiv to Zenodo and many in between |
 | **Supported standards** | |
-|**Bibliodiversity support** |  No limitations on the content language
-OpenAlex provides a set of openness attributes:
-gold: Published in an OA journal that is indexed by the DOAJ.  
-green: Toll-access on the publisher landing page, but there is a free copy in an OA repository.  
-hybrid: Free under an open license in a toll-access journal.  
-bronze: Free to read on the publisher landing page, but without any identifiable license.  
-closed: All other articles. |
+| **Bibliodiversity support** |  |
+| No limitations on the content language OpenAlex provides a set of openness attributes: \- gold: Published in an OA journal that is indexed by the DOAJ. \- green: Toll-access on the publisher landing page, but there is a free copy in an OA repository. \- hybrid: Free under an open license in a toll-access journal. \- bronze: Free to read on the publisher landing page, but without any identifiable license. \- closed: All other articles. |  |
+
 
 **Additional services**  
 OpenAlex API (Free and no authentication needed, daily limit of API calls is 100 000 requests per user): [https://docs.openalex.org/how-to-use-the-api/api-overview](https://docs.openalex.org/how-to-use-the-api/api-overview) 
