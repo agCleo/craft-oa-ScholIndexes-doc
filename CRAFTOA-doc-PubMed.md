@@ -111,6 +111,6 @@ HTML (no PDF)
 
 *Metadata Recommended Fields*
 
-Full list of metadata recommandation : 
+Full list of metadata recommended : 
 https://docs.google.com/spreadsheets/d/1vL96IYqD6XKS6W09w21vRaD1P0A2WTdSd9F-9cX3ajE/edit?gid=2117331831#gid=2117331831
 
