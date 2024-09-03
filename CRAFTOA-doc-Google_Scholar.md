@@ -1,6 +1,6 @@
 # **Google Scholar**
 
-Last version: 2024-08-09
+Last version: 2024-09-03
 
 Searchable bibliographic index that displays full text and metadata of scholarly literature across an array of publishing formats and disciplines.
 
