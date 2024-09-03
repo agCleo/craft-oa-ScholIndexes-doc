@@ -100,4 +100,4 @@ ERIH+ will not be evaluating journals submitted by publishers, members of the ed
 
 *SEO/UX Requirements*
 
-* None
+None
