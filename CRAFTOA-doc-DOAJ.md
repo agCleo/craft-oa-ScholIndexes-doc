@@ -104,19 +104,19 @@ Are accepted journals where the copyright holder of a scholarly work grants usag
 *SEO/UX Requirements*
 
 Journals with own URL and homepage
-Articles as independent full text document
-Intrusive advertising
-Consistency of translation if multilingual website
-Easily visible information required on the website:
-Open access policy
-Aims and scope
-Editorial board (including institutional affiliations of all members)
-Instructions for authors
-Editorial process (peer review)
-Licensing terms
-Copyright terms
-Author charges
-Contact details
+<br/>Articles as independent full text document
+<br/>Intrusive advertising
+<br/>Consistency of translation if multilingual website
+<br/>Easily visible information required on the website:
+<br/>Open access policy
+<br/>Aims and scope
+<br/>Editorial board (including institutional affiliations of all members)
+<br/>Instructions for authors
+<br/>Editorial process (peer review)
+<br/>Licensing terms
+<br/>Copyright terms
+<br/>Author charges
+<br/>Contact details
 
 [^1]:  DOAJ Native XML (XSD: [https://www.doaj.org/static/doaj/doajArticles.xsd](https://www.doaj.org/static/doaj/doajArticles.xsd)).
 
