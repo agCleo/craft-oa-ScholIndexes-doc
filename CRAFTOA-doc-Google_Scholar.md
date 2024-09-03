@@ -14,7 +14,7 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 | **Owner country** | USA |
 | **Launch year** | 2004 |
 | **Scope** | Any |
-| **Number of items** | Above 100 million scholarly documents (Madian Khabsa, C. Lee Giles, 2014\) |
+| **Number of items** | Above 389 million scholarly documents (Michael Gusenbauer, 2018/) |
 | **Access for index users** | Free |
 | **Access for index data providers** | Free |
 | **Documentation** | Technical inclusion guidelines:  [https://scholar.google.com/intl/fr/scholar/inclusion.html](https://scholar.google.com/intl/fr/scholar/inclusion.html)  <br />Indexing guidelines:  [https://scholar.google.com/intl/fr/scholar/inclusion.html\#indexing](https://scholar.google.com/intl/fr/scholar/inclusion.html\#indexing)  |
