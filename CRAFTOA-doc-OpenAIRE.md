@@ -30,6 +30,7 @@ The OpenAIRE Graph is an open resource that aggregates a collection of research 
 | **Full text** | Link to the full text if the publication is in Open Access and the data source gives their consent |
 | **Index sources** | Institutional/Thematic repositories <br />Aggregators  <br />Journal/publisher archives  <br />Institutional/National CRIS systems <br />Metadata catalogues <br />Scholarly communication sources (e.g. Crossref, Datacite, ORCID, DOAJ) <br />Full list of data sources here: <br />[https://explore.openaire.eu/search/find/dataproviders](https://explore.openaire.eu/search/find/dataproviders) |
 | **Supported standards** | Datacite, Dublin Core |
+| **Contact Address for Providers** |https://www.openaire.eu/helpdesk |
 | **Bibliodiversity support** | Metadata is available in many different languages like Japanese, Russian and Indonesian. The website is only in english. The search works also on non-english metadata, with some difficulties on logographic or complex alphabets like chinese and japanese |
 
 **Additional services:**  
@@ -117,3 +118,5 @@ If the publications are not already stored in OpenAIRE’s data source (full lis
 * Citation Conference Place  
 * Citation Conference Date
 
+*SEO/UX Requirements*
+None
