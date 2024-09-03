@@ -1,6 +1,6 @@
 # OpenAIRE Graph
 
-*Last version: 2024-08-09*
+*Last version: 2024-09-03*
 
 The OpenAIRE Graph is an open resource that aggregates a collection of research data properties (metadata, links) available within the OpenAIRE Open Science infrastructure for funders, organizations, researchers, research communities and publishers. It is made available via datasets published on Zenodo and searchable via OpenAIRE EXPLORE. 
 
