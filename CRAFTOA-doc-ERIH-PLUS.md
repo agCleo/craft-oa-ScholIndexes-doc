@@ -99,4 +99,5 @@ ERIH+ will not be evaluating journals submitted by publishers, members of the ed
 * Evaluation of the APC policy
 
 *SEO/UX Requirements*
-None
+
+* None
