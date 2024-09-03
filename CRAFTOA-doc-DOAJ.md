@@ -19,7 +19,6 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | **Access for index data providers** | free |
 | **Documentation** | Criteria documentation: [https://doaj.org/apply/guide/](https://doaj.org/apply/guide/)  |
 | **Application form for providers** | [https://doaj.org/account/login?redirected=apply](https://doaj.org/account/login?redirected=apply) |
-| **Contact address for providers** | helpdesk@doaj.org |
 
 ## Content and service
 
@@ -31,6 +30,7 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | **Full text** | link to the full text available |
 | **Index sources** | Journal |
 | **Supported standards** | Dublin Core, DOAJ and Crossref schemas |
+| **Contact address for providers** | helpdesk@doaj.org |
 | **Bibliodiversity support** | World-wide coverage of countries and languages in open access (Gold and Diamond OA) |
 
 **Additional services:**
