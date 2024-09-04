@@ -1,6 +1,6 @@
 # OpenAlex
 
-*Last version: 2024-08-09*
+*Last version: 2024-09-04*
 
 Open catalog of scholarly works (journal articles, conference papers, books and book chapters, datasets, and theses), authors, institutions. It includes connections between these works, finding associations through things like journals, authors, institutional affiliations, citations, concepts, and funders. 
 
