@@ -58,6 +58,8 @@ OpenAlex automatically indexes new journals and articles. If the publications ar
 
 * Dependent from the data sources crawled by OpenAlex
 
-**SEO/UX requirements** 
+**Technical Additional Specifications**
+
+*SEO/UX requirements* 
 
 None
