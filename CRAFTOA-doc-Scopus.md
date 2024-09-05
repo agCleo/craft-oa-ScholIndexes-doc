@@ -1,6 +1,6 @@
 # Scopus
 
-*Last version: 2024-08-13*
+*Last version: 2024-09-05*
 
 Abstract and citation database which allows to search papers of peer-reviewed journals in different subject fields: life sciences, social sciences, physical sciences and health sciences. It covers three types of sources: book series, journals, and trade journals. Scopus also allows patent searches in a dedicated patent database Lexis-Nexis. 
 
