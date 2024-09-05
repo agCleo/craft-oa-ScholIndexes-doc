@@ -1,6 +1,6 @@
 # Web of Science (WoS)
 
-*Last version: 2024-08-13*
+*Last version: 2024-09-05*
 
 The Web of Science (WoS) is a paid-access platform that provides access to multiple databases that provide reference and citation data from academic journals, conference proceedings and other documents in various academic disciplines. 
 
