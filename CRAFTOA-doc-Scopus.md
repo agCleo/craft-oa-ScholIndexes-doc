@@ -117,6 +117,8 @@ The policy for copyright shall be clearly stated in the author guidelines and th
 * Citedness of journal articles in Scopus  
 * English language journal home page available
 
+**Technical Additional Specifications**
+
 *SEO/UX requirements*
 
 na
