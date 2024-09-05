@@ -30,6 +30,7 @@ The Web of Science (WoS) is a paid-access platform that provides access to multi
 | **Full text** | None (restricted access) |
 | **Index sources** | Journals' own information <br />Others (not communicated) |
 | **Supported standards** | Not communicated |
+| **Contact address for providers** | Not communicated |
 | **Bibliodiversity support** | The evaluation includes the prestige dimension with the use of impact factor.  <br />WoS is considered to reference a low rate of "research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences"[^1]. |
 
 **Additional services**
@@ -105,5 +106,12 @@ Journals metadata is collected upon manual submission from the publishers. Artic
 
 * Comparative Citation Analysis (WoS most selective indices (SCIE, SSCI and AHCI) contain the most impactful journals in their discipline.)  
 * Content Significance (The content in the journal should be of interest, importance, and value to its intended readership and to Web of Science subscribers)
+
+**Technical Additional Specifications**
+
+*SEO/UX requirements*
+
+Clear architecture and navigation
+Clear link between the publishers and journal's website (if applicable)
 
 [^1]:  Tennant JP. Web of Science and Scopus are not global databases of knowledge. European Science Editing 2020;46. DOI: 10.3897/ese.2020.e51987
