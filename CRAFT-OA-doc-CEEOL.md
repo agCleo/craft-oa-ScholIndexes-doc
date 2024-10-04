@@ -63,16 +63,20 @@ English Summaries
 
 **Technical minimum requirements**
 
-*Metadata standard*  
+*Metadata standard*
+
 MARC21 (inferred, no collection process described)
 
-*Data file format*   
+*Data file format*
+
 Content in PDF and cover page in JPEG
 
-*Metadata file format*  
+*Metadata file format*
+
 None
 
-*Metadata mandatory fields*  
+*Metadata mandatory fields*
+
 None
 
 ### Additional Criteria
