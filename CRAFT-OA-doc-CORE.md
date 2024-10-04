@@ -33,23 +33,23 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | **Bibliodiversity support** | CORE indexes all metadata records in a repository, but it is in position to index full text records in PDF only. The index are working though to include other file types, such as HTML webpages, images etc. |
 
 **Additional services**  
-**CORE Recommender:**  
-[**https://core.ac.uk/services/recommender**](https://core.ac.uk/services/recommender)
+*CORE Recommender: 
+[https://core.ac.uk/services/recommender](https://core.ac.uk/services/recommender)
 
-**CORE Discovery:**  
-[**https://core.ac.uk/services/discovery**](https://core.ac.uk/services/discovery)
+*CORE Discovery:
+[https://core.ac.uk/services/discovery](https://core.ac.uk/services/discovery)
 
-**OAI (Open Archives Initiative) resolver:**  
-[**https://core.ac.uk/documentation/oai-resolver**](https://core.ac.uk/documentation/oai-resolver)
+*OAI (Open Archives Initiative) resolver: 
+[https://core.ac.uk/documentation/oai-resolver](https://core.ac.uk/documentation/oai-resolver)
 
-**CORE Dashboard:**  
-[**https://core.ac.uk/services/repository-dashboard**](https://core.ac.uk/services/repository-dashboard)
+*CORE Dashboard:  
+[https://core.ac.uk/services/repository-dashboard](https://core.ac.uk/services/repository-dashboard)
 
-**Consulting Services:**  
-[**https://core.ac.uk/services/consultancy**](https://core.ac.uk/services/consultancy)
+*Consulting Services: 
+[https://core.ac.uk/services/consultancy](https://core.ac.uk/services/consultancy)
 
-**Core API:**  
-**https://core.ac.uk/services/api**
+*Core API: 
+https://core.ac.uk/services/api
 
 ## Requirements for Academic Publications
 
