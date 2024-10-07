@@ -68,6 +68,10 @@ If the publications are not already stored in OpenAIRE’s data source (full lis
 
 ### Minimum Requirements
 
+**Editorial Minimum Requirements**
+
+None.
+
 **Technical Minimum Requirements**
 
 *Metadata Standard*
