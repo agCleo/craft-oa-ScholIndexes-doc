@@ -96,6 +96,8 @@ None.
 
 **Technical additional specifications**
 
+*Metadata Recommended Fields*
+
 Article Language (If Article Language is not provided, default to English.)  
 Article ID (If article do not have unique identifiers, EBSCO assign an internal identifier.)  
 Page Count (Can be parsed together if other page values provided.)  
