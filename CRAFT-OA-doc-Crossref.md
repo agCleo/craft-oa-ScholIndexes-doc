@@ -74,27 +74,26 @@ na
 XML
 
 *Metadata mandatory fields*
-
-* Journal: full title, ISSN or title-level DOI and URL  
-* Issue: issue, publication date (year)  
-* Article: titles, publication date (year), DOI
+Journal: full title, ISSN or title-level DOI and URL  
+Issue: issue, publication date (year)  
+Article: titles, publication date (year), DOI
 
 ### Additional Criteria
 
 **Editorial additional specifications**
-
-* Journal: abbreviated title, DOI, coden, journal\_issue, archive locations (with one archive name), title-level DOI and URL  
-* Issue: publication date (month, day), journal volume, contributors, issue, DOI  
-* Article: contributors, ORCID, publication date (day, month), pages (first page, last page), citation list, funding, license, Crossmark metadata and JATS-formatted abstracts  
-* Publisher item number  
-* Special numbering for special issues  
-* Additional components of the publication (e.g. tables, figures etc.)
+None.
 
 **Technical additional specifications**
 
-* Publisher item number  
-* Special numbering for special issues  
-* Additional components of the publication (e.g. tables, figures etc.)
+*Metadata recommanded fields*
+Journal: abbreviated title, DOI, coden, journal\_issue, archive locations (with one archive name), title-level DOI and URL  
+Issue: publication date (month, day), journal volume, contributors, issue, DOI  
+Article: contributors, ORCID, publication date (day, month), pages (first page, last page), citation list, funding, license, Crossmark metadata and JATS-formatted abstracts
+
+*Metadata optional fields*
+Publisher item number  
+Special numbering for special issues  
+Additional components of the publication (e.g. tables, figures etc.)
 
 List of metadata required for books, articles, datasets:  
 [https://www.crossref.org/documentation/schema-library/required-recommended-elements/](https://www.crossref.org/documentation/schema-library/required-recommended-elements/) 
