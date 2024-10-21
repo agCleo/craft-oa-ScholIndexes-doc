@@ -64,16 +64,20 @@ None
 
 **Technical minimum requirements**
 
-*Metadata standard*  
+*Metadata standard*
+
 Crossref standard XML schema for various objects: [https://www.crossref.org/documentation/schema-library/metadata-deposit-schema-5-3-1/](https://www.crossref.org/documentation/schema-library/metadata-deposit-schema-5-3-1/) 
 
-*Data file format*  
+*Data file format*
+
 na
 
-*Metadata file format*  
+*Metadata file format*
+
 XML
 
 *Metadata mandatory fields*
+
 Journal: full title, ISSN or title-level DOI and URL  
 Issue: issue, publication date (year)  
 Article: titles, publication date (year), DOI
@@ -86,11 +90,13 @@ None.
 **Technical additional specifications**
 
 *Metadata recommanded fields*
+
 Journal: abbreviated title, DOI, coden, journal\_issue, archive locations (with one archive name), title-level DOI and URL  
 Issue: publication date (month, day), journal volume, contributors, issue, DOI  
 Article: contributors, ORCID, publication date (day, month), pages (first page, last page), citation list, funding, license, Crossmark metadata and JATS-formatted abstracts
 
 *Metadata optional fields*
+
 Publisher item number  
 Special numbering for special issues  
 Additional components of the publication (e.g. tables, figures etc.)
