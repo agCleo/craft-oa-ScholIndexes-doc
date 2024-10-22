@@ -35,9 +35,9 @@ ERIH+ is an online index holding bibliographic information on academic journals 
 
 **Additional services:**
 
-* Records show if the journal is indexed in other indexes (e. g. DOAJ, Sherpa-Romeo).  
-* ERIH+ Record connects with Plan S Journal Checker tool: [https://journalcheckertool.org/](https://journalcheckertool.org/)   
-* External support from Dimensions to display metadata about articles: [https://www.dimensions.ai/](https://www.dimensions.ai/) 
+Records show if the journal is indexed in other indexes (e. g. DOAJ, Sherpa-Romeo).  
+ERIH+ Record connects with Plan S Journal Checker tool: [https://journalcheckertool.org/](https://journalcheckertool.org/)   
+External support from Dimensions to display metadata about articles: [https://www.dimensions.ai/](https://www.dimensions.ai/) 
 
 ## Requirements for Academic Publications
 
@@ -49,8 +49,8 @@ ERIH+ will not be evaluating journals submitted by publishers, members of the ed
 
 **Data Collection Process**
 
-* Journal metadata are collected upon manual submission  
-* Articles metadata indexing is automated and powered by Dimensions
+Journal metadata are collected upon manual submission  
+Articles metadata indexing is automated and powered by Dimensions
 
 ### Minimum Requirements
 
@@ -58,29 +58,29 @@ ERIH+ will not be evaluating journals submitted by publishers, members of the ed
 
 *Journal and Publishing History*
 
-* Two years of publication
+Two years of publication
 
 *Editorial Board*
 
-* List of the members of the academic editorial board, and their affiliations
+List of the members of the academic editorial board, and their affiliations
 
 *Publishing Policy*
 
-* English abstract available online  
-* SSH subject area   
-* Peer review and explicit description of the journal’s procedure for independent peer review (not affiliated with the authors).  
-* Informations about authors affiliations for all scholarly articles for the last two years of publication (fill university names, email or postal address)  
-* No more than two thirds of the authors published in the journal are from the same institution (reviewing the last two years of publication)
+English abstract available online  
+SSH subject area   
+Peer review and explicit description of the journal’s procedure for independent peer review (not affiliated with the authors).  
+Informations about authors affiliations for all scholarly articles for the last two years of publication (fill university names, email or postal address)  
+No more than two thirds of the authors published in the journal are from the same institution (reviewing the last two years of publication)
 
 **Technical Minimum Requirements**
 
 *Metadata Mandatory Fields*
 
-* ISSN (confirmed by the international ISSN Portal)  
-* publication language  
-* publisher’s country  
-* publishing house (if applicable)  
-* publisher
+ISSN (confirmed by the international ISSN Portal)  
+Publication language  
+Publisher’s country  
+Publishing house (if applicable)  
+Publisher
 
 ### Additional Criteria
 
@@ -88,15 +88,15 @@ ERIH+ will not be evaluating journals submitted by publishers, members of the ed
 
 *Publishing Policy* 
 
-* Evaluation of the target audience of the journal  
-* Statement on ethical publishing  
-* Relevant journal for European researchers / research area   
-* Presence of the journal in other indexes
+Evaluation of the target audience of the journal  
+Statement on ethical publishing  
+Relevant journal for European researchers / research area   
+Presence of the journal in other indexes
 
 *Copyright*
 
-* Open access status  
-* Evaluation of the APC policy
+Open access status  
+Evaluation of the APC policy
 
 *SEO/UX Requirements*
 
