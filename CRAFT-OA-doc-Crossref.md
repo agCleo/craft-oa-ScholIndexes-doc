@@ -34,7 +34,7 @@ Crossref is a membership organization with 19K members from commercial and insti
 
 **Additional services**
 
-CrossRef REST API:  
+*CrossRef REST API:  
 https://www.crossref.org/documentation/retrieve-metadata/rest-api/
 
 ## Requirements for Academic Publications
