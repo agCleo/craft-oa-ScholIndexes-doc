@@ -35,13 +35,13 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 
 **Additional services:**
 
-* Search visualization: [https://openknowledgemaps.org/](https://openknowledgemaps.org/)  
+Search visualization: [https://openknowledgemaps.org/](https://openknowledgemaps.org/)  
     
-* Online annotation tool: [https://thepund.it/](https://thepund.it/)   
+Online annotation tool: [https://thepund.it/](https://thepund.it/)   
     
-* GoTriple APIs:
-    * Endpoint: [https://api.gotriple.eu/](https://api.gotriple.eu/)
-    * Documentation: [https://zenodo.org/records/7371832](https://zenodo.org/records/7371832) 
+GoTriple APIs:
+    Endpoint: [https://api.gotriple.eu/](https://api.gotriple.eu/)
+    Documentation: [https://zenodo.org/records/7371832](https://zenodo.org/records/7371832) 
 
 ## Requirements for Academic Publications
 
@@ -64,21 +64,21 @@ The publication has to be a scholarly output in the Social Sciences and Humaniti
 
 *Metadata Standard* 
 
-* Dublin Core
-* or OpenAIRE format  
-* or Europeana Data Model (EDM)  
-* or MARC21 (work in progress)
+Dublin Core
+or OpenAIRE format  
+or Europeana Data Model (EDM)  
+or MARC21 (work in progress)
 
 *Metadata File Format* 
 
-* XML  
-* JSON
+XML  
+JSON
 
 *Metadata Mandatory Fields*
 
-* Creator of the resource  
-* Identifier of the resource  
-* Title of the resource
+Creator of the resource  
+Identifier of the resource  
+Title of the resource
 
 ### Additional Criteria
 
@@ -86,25 +86,25 @@ The publication has to be a scholarly output in the Social Sciences and Humaniti
 
 *Metadata Recommended Fields*
 
-* Abstract  
-* Access rights to the resource  
-* Date of publication or creation  
-* Keywords  
-* Language of the resource  
-* License  
-* Publisher of the resource  
-* Type of the resource  
-* URL of the landing page  
-* URL of the resource  
-* URL of the source
+Abstract  
+Access rights to the resource  
+Date of publication or creation  
+Keywords  
+Language of the resource  
+License  
+Publisher of the resource  
+Type of the resource  
+URL of the landing page  
+URL of the resource  
+URL of the source
 
 *Metadata Optional Fields*
 
-* Contributor to the resource’s creation   
-* Format of the resource   
-* Information on the source  
-* Temporal coverage of the resource  
-* Spatial coverage of the resource
+Contributor to the resource’s creation   
+Format of the resource   
+Information on the source  
+Temporal coverage of the resource  
+Spatial coverage of the resource
 
 *SEO/UX Requirements*
 
