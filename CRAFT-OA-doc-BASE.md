@@ -34,7 +34,7 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 
 **Additional services**
 
-* BASE API:
+BASE API:
 
 [http://oai.base-search.net/](http://oai.base-search.net/)
 
