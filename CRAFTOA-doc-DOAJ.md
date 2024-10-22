@@ -35,11 +35,11 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 
 **Additional services:**
 
-* JASPER (project for open access journals preservation): [https://doaj.org/preservation/](https://doaj.org/preservation/)  
-* Transparency and best practice (guidelines): [https://doaj.org/apply/transparency/](https://doaj.org/apply/transparency/)  
-* Think. Check. Submit. (Trusted publisher identification for research): [https://thinkchecksubmit.org/](https://thinkchecksubmit.org/)  
-* Publishers Learning and Community Exchange (PLACE): [https://theplace.discourse.group/](https://theplace.discourse.group/)  
-* Open Access Journals Toolkit: [https://www.oajournals-toolkit.org/fr](https://www.oajournals-toolkit.org/fr)
+JASPER (project for open access journals preservation): [https://doaj.org/preservation/](https://doaj.org/preservation/)  
+Transparency and best practice (guidelines): [https://doaj.org/apply/transparency/](https://doaj.org/apply/transparency/)  
+Think. Check. Submit. (Trusted publisher identification for research): [https://thinkchecksubmit.org/](https://thinkchecksubmit.org/)  
+Publishers Learning and Community Exchange (PLACE): [https://theplace.discourse.group/](https://theplace.discourse.group/)  
+Open Access Journals Toolkit: [https://www.oajournals-toolkit.org/fr](https://www.oajournals-toolkit.org/fr)
 
 ## Requirements for Academic Publications
 
