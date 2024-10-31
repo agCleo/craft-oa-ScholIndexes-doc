@@ -29,7 +29,7 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 | **Indexing level for publications** | Articles |
 | **Full text** | link to the full text when available |
 | **Index sources** | Any website with scholarly articles and proper URL |
-| **Supported standards** | HTML meta tags supporting: <br /> - Highwire Press tags <br /> - BE Press tags <br /> - PRISM tags <br /> - Dublin Core tags |
+| **Supported standards** | HTML meta tags supporting: <br /> Highwire Press tags <br /> BE Press tags <br /> PRISM tags <br /> Dublin Core tags |
 | **Contact Address for Providers** | None |
 | **Bibliodiversity support** | No limitation on the language of the content or the publishing business model |
 
@@ -79,12 +79,8 @@ Bibliography
 
 *SEO/UX requirements*
 
-Depending on the number of papers on the website:
-
-If small amount: all articles should be listed on 1 page
-
-If thousands: the website should contain full list of all articles ordered by publication or entry date
-
-If more than 100 000: specific browsing interface with the last updates
-
+Depending on the number of papers on the website:<br />
+If small amount: all articles should be listed on 1 page<br />
+If thousands: the website should contain full list of all articles ordered by publication or entry date<br />
+If more than 100 000: specific browsing interface with the last updates<br />
 If robots.txt is used, the file should be configured to allow GScholar robots crawling
