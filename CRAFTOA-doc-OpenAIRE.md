@@ -76,12 +76,12 @@ None.
 
 *Metadata Standard*
 
-* Datacite  
-* Dublin Core
+Datacite  
+Dublin Core
 
 *Metadata File Format*
 
-* XML (for data collection)
+XML (for data collection)
 
 *Metadata Mandatory Fields*
 
