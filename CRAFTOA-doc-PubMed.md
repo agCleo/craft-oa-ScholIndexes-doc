@@ -63,8 +63,8 @@ Journals and articles metadata are collected upon submission. Publishers of jour
 
 *Journal and Publishing History*
 
-* The journal must have been published for at least 12 month in the format that will be used for the review  
-* The journal must have published a minimum of 40 peer-reviewed articles (original research or review articles, clinical case reports) in final form
+The journal must have been published for at least 12 month in the format that will be used for the review  
+The journal must have published a minimum of 40 peer-reviewed articles (original research or review articles, clinical case reports) in final form
 
 *Publishing Policy*
 
@@ -79,32 +79,32 @@ HTML (no PDF)
 
 *Metadata File Format* 
 
-* XML  
-* SGML  
-* TXT  
-* ZIP  
-* TAR
+XML  
+SGML  
+TXT  
+ZIP  
+TAR
 
 *Metadata Mandatory Fields*
 
-* Journal Title  
-* Publisher Name  
-* ISSN  
-* Volume  
-* Issue  
-* Pagination  
-* Publication Date  
-* Author List  
-* Author Affiliation  
-* Author Identifiers  
-* Investigators/Collaborators  
-* Publication Type  
-* DOI/PII  
-* Abstract  
-* Conflict of Interest Statement  
-* ClinicalTrials.gov and other databank identifiers  
-* Grants/Funding information  
-* PMID/DOI/PII for related articles, e.g., errata, retractions, comments
+Journal Title  
+Publisher Name  
+ISSN  
+Volume  
+Issue  
+Pagination  
+Publication Date  
+Author List  
+Author Affiliation  
+Author Identifiers  
+Investigators/Collaborators  
+Publication Type  
+DOI/PII  
+Abstract  
+Conflict of Interest Statement  
+ClinicalTrials.gov and other databank identifiers  
+Grants/Funding information  
+PMID/DOI/PII for related articles, e.g., errata, retractions, comments
 
 ### Additional Criteria
 
