@@ -63,8 +63,8 @@ If the publications are not already stored in OpenAIRE’s data source (full lis
 
 **Data Collection process**
 
-* Upon submission by OpenAire PROVIDE  
-* Automatic collection of metadata via OAI-PMH and REST APIs. The metadata provided need to follow OpenAIRE guidelines: [https://guidelines.openaire.eu/en/latest/](https://guidelines.openaire.eu/en/latest/)
+Upon submission by OpenAire PROVIDE  
+Automatic collection of metadata via OAI-PMH and REST APIs. The metadata provided need to follow OpenAIRE guidelines: [https://guidelines.openaire.eu/en/latest/](https://guidelines.openaire.eu/en/latest/)
 
 ### Minimum Requirements
 
@@ -85,20 +85,20 @@ None.
 
 *Metadata Mandatory Fields*
 
-* Title  
-* Creator   
-* Publication Date  
-* Publication Type  
-* Resource identifier  
-* Access Rights  
-* Contributor (if applicable)   
-* Funding reference (if applicable)   
-* Embargo (if applicable)   
-* Publisher (if applicable)   
-* Language (if applicable)   
-* Description/abstract (if applicable)   
-* Subject (if applicable)   
-* File location (if applicable)
+Title  
+Creator   
+Publication Date  
+Publication Type  
+Resource identifier  
+Access Rights  
+Contributor (if applicable)   
+Funding reference (if applicable)   
+Embargo (if applicable)   
+Publisher (if applicable)   
+Language (if applicable)   
+Description/abstract (if applicable)   
+Subject (if applicable)   
+File location (if applicable)
 
 ### Additional Criteria
 
@@ -106,21 +106,21 @@ None.
 
 *Metadata Recommended Fields*
 
-* Alternate identifier  
-* Related Identifier  
-* Format  
-* Source  
-* License Condition  
-* Coverage  
-* Ressource Version  
-* Citation Title  
-* Citation Volume  
-* Citation Issue  
-* Citation Start Page  
-* Citation End Page  
-* Citation Edition  
-* Citation Conference Place  
-* Citation Conference Date
+Alternate identifier  
+Related Identifier  
+Format  
+Source  
+License Condition  
+Coverage  
+Ressource Version  
+Citation Title  
+Citation Volume  
+Citation Issue  
+Citation Start Page  
+Citation End Page  
+Citation Edition  
+Citation Conference Place  
+Citation Conference Date
 
 *SEO/UX Requirements*
 
