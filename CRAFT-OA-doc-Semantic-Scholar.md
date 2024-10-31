@@ -34,11 +34,11 @@ Semantic Scholar provides free, AI-driven search and discovery tools, and open r
 
 **Additional services**
 
-* Semantic Scholar API:  
-  [https://www.semanticscholar.org/product/api](https://www.semanticscholar.org/product/api)   
+Semantic Scholar API:  
+[https://www.semanticscholar.org/product/api](https://www.semanticscholar.org/product/api)   
     
-* Semantic Reader:  
-  [https://www.semanticscholar.org/product/semantic-reader](https://www.semanticscholar.org/product/semantic-reader) 
+Semantic Reader:  
+[https://www.semanticscholar.org/product/semantic-reader](https://www.semanticscholar.org/product/semantic-reader) 
 
 ## Requirements for Academic Publications
 
