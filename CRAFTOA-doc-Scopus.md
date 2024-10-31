@@ -68,11 +68,11 @@ Journals shall provide the full names and affiliations of the journal’s editor
 
 *Publishing Policy*
 
-* Be published on a regular basis  
-* The periodicity at which a journal publishes shall be clearly indicated.  
-* Peer-review content and publicly available description of the peer review process  
-* Have a publicly available publication ethics and publication malpractice statement  
-* Have content that is relevant for and readable by an international audience, meaning: have English language abstracts and titles
+Be published on a regular basis  
+The periodicity at which a journal publishes shall be clearly indicated.  
+Peer-review content and publicly available description of the peer review process  
+Have a publicly available publication ethics and publication malpractice statement  
+Have content that is relevant for and readable by an international audience, meaning: have English language abstracts and titles
 
 *Copyright*
 
@@ -82,16 +82,16 @@ The policy for copyright shall be clearly stated in the author guidelines and th
 
 *Data File Format* 
 
-* PDF  
-* HTML
+PDF  
+HTML
 
 *Metadata Mandatory Fields* 
 
-* ISSN (registered with the ISSN international Center)  
-* Journal title  
-* Abstract   
-* Subject (main)  
-* Journal’s start year
+ISSN (registered with the ISSN international Center)  
+Journal title  
+Abstract   
+Subject (main)  
+Journal’s start year
 
 ### Additional Criteria
 
@@ -103,19 +103,19 @@ The policy for copyright shall be clearly stated in the author guidelines and th
 
 *Editorial Board*
 
-* Diversity in geographical distribution of editors   
-* Diversity in geographical distribution of authors
+Diversity in geographical distribution of editors   
+Diversity in geographical distribution of authors
 
 *Publishing Policy*
 
-* Convincing editorial policy   
-* Type of peer review  
-* Academic contribution to the field   
-* Clarity of abstracts   
-* Quality of and conformity to the stated aims and scope of the journal   
-* Readability of articles  
-* Citedness of journal articles in Scopus  
-* English language journal home page available
+Convincing editorial policy   
+Type of peer review  
+Academic contribution to the field   
+Clarity of abstracts   
+Quality of and conformity to the stated aims and scope of the journal   
+Readability of articles  
+Citedness of journal articles in Scopus  
+English language journal home page available
 
 **Technical Additional Specifications**
 
