@@ -31,7 +31,7 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 | **Index sources** | Mainly Microsoft Academic Graph and CrossRef <br/>ORCID <br/>ROR <br/>DOAJ <br/>Unpaywall <br/>Pubmed <br/>Pubmed Central <br/>The ISSN International Centre <br/>Internet Archive  <br/>Web crawls <br/>Subject-area and institutional repositories from arXiv to Zenodo and many in between |
 | **Supported standards** | Not communicated |
 | **Contact Address for Providers** | https://help.openalex.org/hc/en-us/requests/new |
-| **Bibliodiversity support** | No limitations on the content language <br/>OpenAlex provides a set of openness attributes: <br/>\- gold: Published in an OA journal that is indexed by the DOAJ. <br/>\- green: Toll-access on the publisher landing page, but there is a free copy in an OA repository. <br/>\- hybrid: Free under an open license in a toll-access journal. <br/>\- bronze: Free to read on the publisher landing page, but without any identifiable license. <br/>\- closed: All other articles. |  |
+| **Bibliodiversity support** | No limitations on the content language <br/>OpenAlex provides a set of openness attributes: <br/>\gold: Published in an OA journal that is indexed by the DOAJ. <br/>\green: Toll-access on the publisher landing page, but there is a free copy in an OA repository. <br/>\hybrid: Free under an open license in a toll-access journal. <br/>\bronze: Free to read on the publisher landing page, but without any identifiable license. <br/>\closed: All other articles. |  |
 
 
 **Additional services**  
@@ -48,15 +48,15 @@ OpenAlex automatically indexes new journals and articles. If the publications ar
 
 **Data Collection** 
 
-* Automatic web crawling
+Automatic web crawling
 
 ### Minimum Requirements
 
-* Dependent from the data sources crawled by OpenAlex
+Dependent from the data sources crawled by OpenAlex
 
 ### Additional Criteria
 
-* Dependent from the data sources crawled by OpenAlex
+Dependent from the data sources crawled by OpenAlex
 
 **Technical Additional Specifications**
 
