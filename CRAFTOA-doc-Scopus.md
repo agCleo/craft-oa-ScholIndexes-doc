@@ -99,7 +99,7 @@ Journal’s start year
 
 *Journal History* 
 
-* No delays or interruptions in the publication schedule
+No delays or interruptions in the publication schedule
 
 *Editorial Board*
 
