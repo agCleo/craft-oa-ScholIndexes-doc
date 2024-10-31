@@ -54,9 +54,9 @@ Journal information is recorded during the submission process, through an online
 
 Once this submission is validated article information can be then uploaded and updated in various ways: 
 
-- manually on DOAJ’s website using a dedicated web form to enter metadata;  
-- through the DOAJ API using JSON files;  
-- through XML upload following DOAJ[^1] or Crossref schemas[^2].
+Manually on DOAJ’s website using a dedicated web form to enter metadata;  
+Through the DOAJ API using JSON files;  
+Through XML upload following DOAJ[^1] or Crossref schemas[^2].
 
 Extensive details about these processes are available here: [Metadata help – DOAJ](https://doaj.org/docs/faq/) 
 
@@ -66,24 +66,24 @@ Extensive details about these processes are available here: [Metadata help – D
 
 *Journal and Publishing History*
 
-* Journal publishes at least five research articles per year  
-* Publishing history of more than one year or have published at least ten open access research articles
+Journal publishes at least five research articles per year  
+Publishing history of more than one year or have published at least ten open access research articles
 
 *Editorial Board*
 
-* Journal must have an editor and an editorial board listed on the website  
-* Name and affiliation of all editors and board must be included  
-* Information on the editorial board must be accessible 
+Journal must have an editor and an editorial board listed on the website  
+Name and affiliation of all editors and board must be included  
+Information on the editorial board must be accessible 
 
 *Publishing Policy*
 
-* Peer review process (with two independent reviewers and details on the process available on the website)  
-* Any research subject area  
-* No embargo  
-* Aims and scope informations must be accessible  
-* Instruction for authors must be accessible  
-* Informations on author charges and fees must be accessible  
-* Informations about contact details must be accessible (journal email address, contact person)
+Peer review process (with two independent reviewers and details on the process available on the website)  
+Any research subject area  
+No embargo  
+Aims and scope informations must be accessible  
+Instruction for authors must be accessible  
+Informations on author charges and fees must be accessible  
+Informations about contact details must be accessible (journal email address, contact person)
 
 *Copyright*
 
@@ -93,11 +93,11 @@ Are accepted journals where the copyright holder of a scholarly work grants usag
 
 *Data File Format* 
 
-* HTML or PDF
+HTML or PDF
 
 *Metadata File Format*
 
-* XML, JSON, Webform (text)
+XML, JSON, Webform (text)
 
 ### Additional criteria
 
