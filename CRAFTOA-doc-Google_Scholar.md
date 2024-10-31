@@ -81,6 +81,9 @@ Bibliography
 
 Depending on the number of papers on the website:
 if small amount: all articles should be listed on 1 page
+
 if thousands: the website should contain full list of all articles ordered by publication or entry date
+
 if more than 100 000: specific browsing interface with the last updates
+
 if robots.txt is used, the file should be configured to allow GScholar robots crawling
