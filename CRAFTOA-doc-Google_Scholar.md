@@ -80,6 +80,7 @@ Bibliography
 *SEO/UX requirements*
 
 Depending on the number of papers on the website:
+
 If small amount: all articles should be listed on 1 page
 If thousands: the website should contain full list of all articles ordered by publication or entry date
 If more than 100 000: specific browsing interface with the last updates
