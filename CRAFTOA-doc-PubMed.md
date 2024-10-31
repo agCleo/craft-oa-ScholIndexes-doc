@@ -117,4 +117,4 @@ https://docs.google.com/spreadsheets/d/1vL96IYqD6XKS6W09w21vRaD1P0A2WTdSd9F-9cX3
 
 *SEO/UX requirements*
 
-na
+None
