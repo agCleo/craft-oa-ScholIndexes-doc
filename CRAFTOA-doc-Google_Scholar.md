@@ -35,11 +35,9 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 
 **Additional services:**
 
-* Google scholar Metrics (visibility and influence of recent articles in scholarly publications):
+Google scholar Metrics (visibility and influence of recent articles in scholarly publications): [https://scholar.google.com/intl/fr/scholar/metrics.html](https://scholar.google.com/intl/fr/scholar/metrics.html) 
 
-[https://scholar.google.com/intl/fr/scholar/metrics.html](https://scholar.google.com/intl/fr/scholar/metrics.html) 
-
-* Google scholar Profiles (showcase of authors publications): [https://scholar.google.com/intl/fr/scholar/citations.html](https://scholar.google.com/intl/fr/scholar/citations.html) 
+Google scholar Profiles (showcase of authors publications): [https://scholar.google.com/intl/fr/scholar/citations.html](https://scholar.google.com/intl/fr/scholar/citations.html) 
 
 ## Requirements for academic publications
 
@@ -65,24 +63,24 @@ HTML or PDF
 *Metadata mandatory fields*
 
 For PDF publications:  
-- Title (large font)  
-- Authors (below title)  
-- Bibliographic citation of the paper (in first page footer)  
-- Bibliography (separate section)
+Title (large font)  
+Authors (below title)  
+Bibliographic citation of the paper (in first page footer)  
+Bibliography (separate section)
 
 For HTML publications (metadata included in metatags of the HTML file):  
-- Title  
-- Authors  
-- Publication date  
-- Bibliographic citation of the paper  
-- Bibliography
+Title  
+Authors  
+Publication date  
+Bibliographic citation of the paper  
+Bibliography
 
 ### Additional criteria
 
 *SEO/UX requirements*
 
 Depending on the number of papers on the website:
-- if small amount: all articles should be listed on 1 page
-- if thousands: the website should contain full list of all articles ordered by publication or entry date
-- if more than 100 000: specific browsing interface with the last updates
-- if robots.txt is used, the file should be configured to allow GScholar robots crawling
+if small amount: all articles should be listed on 1 page
+if thousands: the website should contain full list of all articles ordered by publication or entry date
+if more than 100 000: specific browsing interface with the last updates
+if robots.txt is used, the file should be configured to allow GScholar robots crawling
