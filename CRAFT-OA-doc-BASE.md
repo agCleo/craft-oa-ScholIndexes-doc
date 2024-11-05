@@ -30,7 +30,7 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 | **Full text** | Link to the full text when available |
 | **Index sources** | OAI-PMH individual repository OpenArchives ROAR OpenDOAR Some DSpace instances Some OJS instances Crossref |
 | **Supported standards** | Dublin Core |
-| **Contact address for providers** | [Dublin Core](https://www.base-search.net/about/en/contact.php (Webform)) |
+| **Contact address for providers** |(https://www.base-search.net/about/en/contact.php (Webform)) |
 | **Bibliodiversity support** | Multilingual search No apparent limitations in multilingual indexing (or only in latin alphabets?) |
 
 **Additional services**
