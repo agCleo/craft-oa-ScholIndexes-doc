@@ -30,6 +30,7 @@ Crossref is a membership organization with 19K members from commercial and insti
 | **Full text** | na |
 | **Index sources** | Source of information for Crossref are the data providers, no aggregation is provided Journal list: [https://www.crossref.org/xref/xml/mddb.xml](https://www.crossref.org/xref/xml/mddb.xml)  |
 | **Supported standards** | na |
+| **Contact address for providers** | https://support.crossref.org/hc/en-us/requests/new?ticket_form_id=360001642691 (Webform) |
 | **Bibliodiversity support** | na |
 
 **Additional services**
