@@ -30,7 +30,7 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | **Full text** | None (restricted access) |
 | **Index sources** | Journals' own information <br />Unpaywall (partial) |
 | **Supported standards** | Not communicated |
-| **Contact address for providers** | https://service.elsevier.com/app/contact/supporthub/scopus/ |
+| **Contact address for providers** | https://service.elsevier.com/app/contact/supporthub/scopus/ (Webform) |
 | **Bibliodiversity support** | Uses of journal metrics (CiteScore).  <br />Abstract and article titles in english. Scopus is considered to reference a low rate of “research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences”[^2]. |
 
 **Additional services**  
