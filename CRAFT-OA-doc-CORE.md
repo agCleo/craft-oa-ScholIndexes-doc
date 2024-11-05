@@ -30,6 +30,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | **Full text** | Full text when available |
 | **Index sources** | Institutional/Thematic repositories Aggregators Journal/publisher archives Institutional/National CRIS systems Metadata catalogues Complete list here: https://core.ac.uk/data-providers/?q=\&size=20 |
 | **Supported standards** | Dublin Core, RIOXX |
+| **Contact address for providers** | theteam@core.ac.uk |
 | **Bibliodiversity support** | CORE indexes all metadata records in a repository, but it is in position to index full text records in PDF only. The index are working though to include other file types, such as HTML webpages, images etc. |
 
 **Additional services**  
