@@ -30,6 +30,7 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 | **Full text** | Yes, if available |
 | **Index sources** | Publisher |
 | **Supported standards** | MARC, MARC XML, and ONIX (for books) |
+| **Contact address for providers** | https://www.ebsco.com/publishers-partnerships/support (Webform) |
 | **Bibliodiversity support** | World-wide coverage of countries and languages. Includes OA journals. Multilingual search. EbscoHost is a closed service which makes bibliodiversity evaluation difficult. |
 
 **Additional services**
