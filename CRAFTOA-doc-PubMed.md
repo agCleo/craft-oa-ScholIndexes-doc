@@ -17,8 +17,7 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 | **Number of items** | More than 37 million citations and abstracts  |
 | **Access for index users** | Free |
 | **Access for index data providers** | Free |
-| **Documentation** |PubMed Evaluation: https://ncbi.nlm.nih.gov/pubmed/help/tech-eval 
-Medline submission process: https://www.nlm.nih.gov/medline/medline_how_to_include.html|
+| **Documentation** |PubMed Evaluation: https://ncbi.nlm.nih.gov/pubmed/help/tech-eval Medline submission process: https://www.nlm.nih.gov/medline/medline_how_to_include.html|
 | **Application form for providers** | [https://www.ncbi.nlm.nih.gov/medline/publisherportal/](https://www.ncbi.nlm.nih.gov/medline/publisherportal/) |
 
 ## Content and Service
