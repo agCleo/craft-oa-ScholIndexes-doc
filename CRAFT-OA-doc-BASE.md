@@ -1,6 +1,6 @@
 # BASE
 
-*Last version: 2024-10-02*
+*Last version: 2024-11-07*
 
 Indexes the metadata of all kinds of academically relevant resources – journals, institutional repositories, digital collections etc. – which provide an OAI interface and use OAI-PMH for providing their contents.
 
@@ -17,7 +17,7 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 | **Number of items** | More than 400 M documents |
 | **Access for index users** | Free |
 | **Access for index data providers** | Free |
-| **Documentation** | https://www.base-search.net/about/en/index.php |
+| **Documentation** | https://www.base-search.net/about/en/faq_oai.php |
 | **Application form for providers** | https://www.base-search.net/about/en/suggest.php |
 
 ## Content and Service
