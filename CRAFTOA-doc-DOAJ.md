@@ -17,7 +17,7 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | **Number of items** | Above 20 000 Journals, Above 10 M Articles |
 | **Access for index users** | free |
 | **Access for index data providers** | free |
-| **Documentation** | "Metadata upload: https://doaj.org/docs/faq/  XML metadata upload: https://doaj.org/docs/xml/  API metadata download: https://doaj.org/api/v3/docs OAI-PMH metadata download: https://doaj.org/docs/oai-pmh/ " |
+| **Documentation** | Metadata upload: https://doaj.org/docs/faq/  XML metadata upload: https://doaj.org/docs/xml/  API metadata download: https://doaj.org/api/v3/docs OAI-PMH metadata download: https://doaj.org/docs/oai-pmh/ |
 | **Application form for providers** | [https://doaj.org/account/login?redirected=apply](https://doaj.org/account/login?redirected=apply) |
 
 ## Content and service
