@@ -18,7 +18,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | **Access for index users** | Free |
 | **Access for index data providers** | Free for basic discovery service Membership fees for additional services : [https://core.ac.uk/membership](https://core.ac.uk/membership)  |
 | **Documentation** | [https://core.ac.uk/documentation/data-providers-guide](https://core.ac.uk/documentation/data-providers-guide)  |
-| **Application form for providers** | [https://core.ac.uk/documentation/data-providers-guide](https://core.ac.uk/documentation/data-providers-guide)  |
+| **Application form for providers** | https://core.ac.uk/benefits#join-core |
 
 ## Content and Service
 
