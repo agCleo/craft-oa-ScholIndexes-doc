@@ -82,5 +82,5 @@ None
 
 ### Additional Criteria
 
-na
+None
 
