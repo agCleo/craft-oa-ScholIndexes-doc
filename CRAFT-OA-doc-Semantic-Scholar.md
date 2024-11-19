@@ -83,9 +83,9 @@ Not communicated
 
 **Editorial additional specifications**
 
-na
+Not communicated
 
 **Technical additional specifications**
 
-na
+Not communicated
 
