@@ -82,6 +82,7 @@ None
 **Technical additional specifications**
 
 *Metadata recommended fileds*
+
 Title  
 Author  
 Publication type  
@@ -91,6 +92,7 @@ Access and re-use rights
 Reference / Citation
 
 *Metadata optional fileds*
+
 Other parties involved in the publication
 File Format
 Description
