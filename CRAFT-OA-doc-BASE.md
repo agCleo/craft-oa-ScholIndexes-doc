@@ -93,11 +93,10 @@ Reference / Citation
 
 *Metadata optional fileds*
 
-Other parties involved in the publication
-File Format
-Description
-Keywords
-Publisher
-Related Documents
-Content delimitation
-
+Other parties involved in the publication <br>
+File Format <br>
+Description <br>
+Keywords <br>
+Publisher <br>
+Related Documents <br>
+Content delimitation 
