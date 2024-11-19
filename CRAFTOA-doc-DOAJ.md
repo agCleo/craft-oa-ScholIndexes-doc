@@ -89,7 +89,7 @@ Informations about contact details must be accessible (journal email address, co
 
 Are accepted journals where the copyright holder of a scholarly work grants usage rights to others using an open license (Creative Commons or equivalent). This allows for immediate free access to the work and permits any user to read, download, copy, distribute, print, search, or link to the full texts of articles, crawl them for indexing, pass them as data to software, or use them for any other lawful purpose.
 
-**Technical Minimum Requirements**
+**Technical minimum requirements**
 
 *Data File Format* 
 
@@ -100,6 +100,8 @@ HTML or PDF
 XML, JSON, Webform (text)
 
 ### Additional criteria
+
+**Technical additional specifications**
 
 *SEO/UX Requirements*
 
