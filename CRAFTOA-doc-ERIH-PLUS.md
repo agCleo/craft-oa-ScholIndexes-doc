@@ -84,7 +84,7 @@ Publisher
 
 ### Additional Criteria
 
-**Editorial Optional Specifications**
+**Editorial additional specifications**
 
 *Publishing Policy* 
 
