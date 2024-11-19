@@ -115,6 +115,11 @@ PMID/DOI/PII for related articles, e.g., errata, retractions, comments
 Full list of metadata recommended : 
 [https://docs.google.com/spreadsheets/d/1vL96IYqD6XKS6W09w21vRaD1P0A2WTdSd9F-9cX3ajE/edit?gid=2117331831#gid=2117331831](https://docs.google.com/spreadsheets/d/1hg2evNSaylQLgxS4NionMa27bKpDKKNQrD-4cak6gp0/edit?gid=1676278168#gid=1676278168)
 
+*Metadata optionnal fields*
+
+Full list of metadata optionnal : 
+[https://docs.google.com/spreadsheets/d/1vL96IYqD6XKS6W09w21vRaD1P0A2WTdSd9F-9cX3ajE/edit?gid=2117331831#gid=2117331831](https://docs.google.com/spreadsheets/d/1hg2evNSaylQLgxS4NionMa27bKpDKKNQrD-4cak6gp0/edit?gid=1676278168#gid=1676278168)
+
 *SEO/UX requirements*
 
 None
