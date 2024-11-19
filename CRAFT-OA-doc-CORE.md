@@ -95,3 +95,6 @@ na
 **Technical additional specifications**  
 na
 
+*SEO/UX requirements*  
+None
+
