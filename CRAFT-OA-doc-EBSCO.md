@@ -97,7 +97,7 @@ None.
 
 **Technical additional specifications**
 
-*Metadata Recommended Fields*
+*Metadata recommended fields*
 
 Article Language (If Article Language is not provided, default to English.)  
 Article ID (If article do not have unique identifiers, EBSCO assign an internal identifier.)  
