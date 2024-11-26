@@ -86,6 +86,7 @@ Article: titles, publication date (year), DOI
 ### Additional Criteria
 
 **Editorial additional specifications**
+
 None.
 
 **Technical additional specifications**
