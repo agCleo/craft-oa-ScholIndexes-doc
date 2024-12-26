@@ -1,6 +1,6 @@
 # CEEOL
 
-*Last version: 2024-10-02*
+*Last version: 2024-12-26*
 
 The Central and Eastern European Online Library (CEEOL) is a repository of full text indexed documents in the fields of Humanities and Social Science publications from and about Central and Eastern Europe.
 
@@ -16,36 +16,37 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | **Scope** | Social Science and Humanities |
 | **Number of items** | Articles: 973 653 Journals: 2879 |
 | **Access for index users** | Free for Open Access/ Subscription fee |
-| **Access for index data providers** | Free |
+| **Access for index data providers** | Subscription fees |
 | **Documentation** | [https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/new-to-CEEOL](https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/new-to-CEEOL) |
 | **Application form for providers** | [https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal](https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal)  |
 
 ## Content and Service
 
-| Content type | Articles and books |
+| Content type | Journal articles, eBooks and Grey Literature |
 | :---- | :---- |
 | **Content language** | Any language for the content; the titles, keywords and summaries have to be in English |
 | **Content geographical provenance** | Central, East and Southeast Europe |
 | **Indexing level for publications** | Paper/article, journal, eBook |
-| **Full text** | Link to the full text when available |
+| **Full text** | Access to full text when available |
 | **Index sources** | over 1,000 publishing houses: [https://www.ceeol.com/browse/browse-by-publishers](https://www.ceeol.com/browse/browse-by-publishers) |
 | **Supported standards** | MARC21 (inferred, no collection process described) |
 | **Contact address for providers** | publisher.support@ceeol.com |
-| **Bibliodiversity support** | Content development is clearly dedicated to all relevant SSH disciplines Journal articles, eBooks and Grey Literature items are available in 50+ languages, allowing access to the native language sources in one repository |
+| **Bibliodiversity support** | Content development is clearly dedicated to all relevant SSH disciplines Journal articles, eBooks and Grey Literature items are available in 50+ languages, allowing access to the native language sources in one repository. Fees for OA journals
+Focus on articles from Central, East and Southeast Europe |
 
 **Additional services**
 
-na
+None
 
 ## Requirements for Academic Publications
 
 ### Joining Process
 
-Completion of the online application form and evaluation by the CEEOL’s publisher support team.
+Completion of the online application form for journals or e-books and evaluation by the CEEOL’s publisher support team. https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal 
 
 **Data Collection Process**
 
-Upon submission for articles and books
+Upon submission for journals and books
 
 ### Minimum Requirements
 
@@ -61,6 +62,7 @@ Geographic focus (Central, Eastern and Southeastern Europe)
 Subject areas (Social Science and Humanities)   
 English Keywords   
 English Summaries
+Author's institutional affiliation
 
 **Technical minimum requirements**
 
@@ -74,11 +76,12 @@ Content in PDF and cover page in JPEG
 
 *Metadata file format*
 
-None
+Not communicated
 
 *Metadata mandatory fields*
 
-None
+Journal Title
+ISSN
 
 ### Additional Criteria
 
