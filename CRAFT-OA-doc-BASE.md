@@ -28,12 +28,12 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Article and similar |
 | **Full text** | Link to the full text when available |
-| **Index sources** | OAI-PMH individual repository<br> 
-OpenArchives<br>
-ROAR<br> 
-OpenDOAR<br> 
-Some DSpace instances<br> 
-Some OJS instances<br>
+| **Index sources** | OAI-PMH individual repository
+OpenArchives
+ROAR
+OpenDOAR 
+Some DSpace instances
+Some OJS instances
 Crossref |
 | **Supported standards** | Dublin Core |
 | **Contact address for providers** |https://www.base-search.net/about/en/contact.php (Webform) |
