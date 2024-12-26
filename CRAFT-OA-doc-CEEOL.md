@@ -79,7 +79,7 @@ Not communicated
 
 *Metadata mandatory fields*
 
-Journal Title
+Journal Title <br>
 ISSN
 
 ### Additional Criteria
