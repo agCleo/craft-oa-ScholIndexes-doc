@@ -22,8 +22,9 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 
 ## Content and Service
 
-| Content type | Journal articles, eBooks and Grey Literature |
+| Service type | Selective bibliographic index and full text repository |
 | :---- | :---- |
+| **Content type** | Journal articles, eBooks and Grey Literature |
 | **Content language** | Any language for the content; the titles, keywords and summaries have to be in English |
 | **Content geographical provenance** | Central, East and Southeast Europe |
 | **Indexing level for publications** | Paper/article, journal, eBook |
