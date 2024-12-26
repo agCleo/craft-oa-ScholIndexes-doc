@@ -22,8 +22,9 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 
 ## Content and Service
 
-| Content type | Scholarly content only (checked by BASE) |
+| Service type | Automated aggregator with submission|
 | :---- | :---- |
+| **Content type** | Scholarly content only (checked by BASE) |
 | **Content language** | Any |
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Article and similar |
