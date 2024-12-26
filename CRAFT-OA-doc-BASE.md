@@ -8,7 +8,7 @@ Indexes the metadata of all kinds of academically relevant resources – journal
 
 | Name | BASE |
 | :---- | :---- |
-| **Website** | [https://www.base-search.net/about/en/index.php](https://www.base-search.net/about/en/index.php) |
+| **Website** |(https://www.base-search.net/)|
 | **Owner** | Bielefeld University |
 | **Owner type** | Public research organization |
 | **Owner country** | Germany |
