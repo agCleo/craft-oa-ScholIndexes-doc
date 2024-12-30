@@ -107,7 +107,7 @@ Additional components of the publication (e.g. tables, figures etc.)
 List of metadata required for books, articles, datasets:  
 [https://www.crossref.org/documentation/schema-library/required-recommended-elements/](https://www.crossref.org/documentation/schema-library/required-recommended-elements/) 
 
-*SEO/UX requirments*
+*SEO/UX requirements*
 
 None
 
