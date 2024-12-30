@@ -101,3 +101,7 @@ Keywords <br>
 Publisher <br>
 Related Documents <br>
 Content delimitation 
+
+*SEO/UX requirements*
+
+Not communicated
