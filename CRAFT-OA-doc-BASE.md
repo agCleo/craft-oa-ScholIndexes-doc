@@ -82,7 +82,7 @@ None
 
 **Technical additional specifications**
 
-*Metadata recommended fileds*
+*Metadata recommended fields*
 
 Title  
 Author  
@@ -92,7 +92,7 @@ Langage of the document
 Access and re-use rights  
 Reference / Citation
 
-*Metadata optional fileds*
+*Metadata optional fields*
 
 Other parties involved in the publication <br>
 File Format <br>
