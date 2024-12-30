@@ -72,7 +72,7 @@ Crossref standard XML schema for various objects: [https://www.crossref.org/docu
 
 *Data file format*
 
-na
+Not communicated
 
 *Metadata file format*
 
@@ -88,7 +88,7 @@ Article: titles, publication date (year), DOI
 
 **Editorial additional specifications**
 
-None.
+None
 
 **Technical additional specifications**
 
