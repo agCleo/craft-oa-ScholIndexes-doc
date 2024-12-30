@@ -96,6 +96,3 @@ None
 **Technical additional specifications**  
 None
 
-*SEO/UX requirements*  
-None
-
