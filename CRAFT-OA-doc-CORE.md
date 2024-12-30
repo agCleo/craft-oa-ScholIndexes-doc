@@ -1,6 +1,6 @@
 # CORE
 
-*Last version: 2024-10-02*
+*Last version: 2024-12-30*
 
 CORE (COnnecting REpositories) provides a comprehensive bibliographic database of the world’s scholarly literature, collecting and indexing research from repositories and journals. It is also the world’s largest collection of full text open access research papers. CORE is a not-for-profit service dedicated to the open access mission and one of the signatories of the Principles of Open Scholarly Infrastructures.
 
