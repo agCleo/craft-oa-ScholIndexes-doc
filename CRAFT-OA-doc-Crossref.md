@@ -1,6 +1,6 @@
 # Crossref
 
-*Last version: 2024-10-18*
+*Last version: 2024-12-30*
 
 Crossref is a membership organization with 19K members from commercial and institutional publishing. Crossref's main service is the linking of citing and cited publications. Participating publishers register Crossref DOIs and submit metadata of their own publications. 
 
@@ -22,16 +22,17 @@ Crossref is a membership organization with 19K members from commercial and insti
 
 ## Content and Service
 
-| Content type | Books, journals, articles, datasets |
+| Service type | PIDs Registering agency |
 | :---- | :---- |
+| **Content type** | Books, journals, articles, datasets |
 | **Content language** | Any |
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Journals and articles |
-| **Full text** | na |
+| **Full text** | None |
 | **Index sources** | Source of information for Crossref are the data providers, no aggregation is provided Journal list: [https://www.crossref.org/xref/xml/mddb.xml](https://www.crossref.org/xref/xml/mddb.xml)  |
-| **Supported standards** | na |
+| **Supported standards** | Not communicated |
 | **Contact address for providers** | https://support.crossref.org/hc/en-us/requests/new?ticket_form_id=360001642691 (Webform) |
-| **Bibliodiversity support** | na |
+| **Bibliodiversity support** | Over 21 000 members in 160 countries around the worlds. Subscription fees for publishers |
 
 **Additional services**
 
@@ -105,4 +106,8 @@ Additional components of the publication (e.g. tables, figures etc.)
 
 List of metadata required for books, articles, datasets:  
 [https://www.crossref.org/documentation/schema-library/required-recommended-elements/](https://www.crossref.org/documentation/schema-library/required-recommended-elements/) 
+
+*SEO/UX requirments*
+
+None
 
