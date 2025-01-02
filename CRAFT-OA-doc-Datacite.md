@@ -31,6 +31,7 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | **Full text** | No full text |
 | **Index sources** | Main sources include the "Datacite service providers": [https://datacite.org/service-providers/](https://datacite.org/service-providers/) Any Datacite member can be a provider of Datacite metadata  |
 | **Supported standards** | DataCite Metadata Schema: [https://schema.datacite.org/](https://schema.datacite.org/)  |
+| **Contact address for providers** | Contact e-mail: https://www.dimensions.ai/contact-us/ |
 | **Bibliodiversity support** | None |
 
 **Additional services**
