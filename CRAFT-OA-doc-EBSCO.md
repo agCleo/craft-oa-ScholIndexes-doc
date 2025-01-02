@@ -60,7 +60,7 @@ FTP and web download
 
 **Editorial minimum requirements**
 
-None.
+None
 
 **Technical minimum requirements**
 
@@ -93,7 +93,7 @@ PDF Link, or PDF file name in the metadata if the file is provided directly
 
 **Editorial additional specifications**
 
-None.
+None
 
 **Technical additional specifications**
 
