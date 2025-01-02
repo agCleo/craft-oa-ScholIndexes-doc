@@ -89,6 +89,7 @@ ResourceType
 ### Additional Criteria
 
 **Editorial additional specifications**
+
 None
 
 **Technical additional specifications**
