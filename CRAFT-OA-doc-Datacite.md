@@ -20,7 +20,7 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | **Documentation** | https://support.datacite.org/docs/best-practices-for-service-providers |
 | **Application form for providers** | Form to become a Datacite member: [https://formstack.io/50D06](https://formstack.io/50D06)  |
 
-# **Content and Service**
+## Content and Service
 
 | Service type | PIDs registering agency |
 | :---- | :---- |
@@ -37,32 +37,32 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 
 None
 
-# **Requirements for Academic Publications**
+## Requirements for Academic Publications**
 
-## **Joining Process**
+### Joining Process
 
 Upon submission by registered institutional users. The organizational membership enquiry can be completed here:  
 [https://formstack.io/50D06](https://formstack.io/50D06)  
 It's also possible to contact directly the datacite support to have more informations about joining options: support@datacite.org 
 
-### Data Collection Process
+**Data Collection Process**
 
 As a persistent identifiers registering agency, Datacite collects and updates resource's metadata attached to PIDs.  
 The created PIDs and their attached metadata are sent by Datacite members and recorded in the Datacite registry.
 
-## **Minimum Requirements**
+### Minimum Requirements
 
-### Editorial minimum requirements
+**Editorial minimum requirements**
 
 None
 
-### Technical minimum requirements
+**Technical minimum requirements**
 
-#### *Metadata standard*
+*Metadata standard*
 
 DataCite Metadata Schema: [https://schema.datacite.org/](https://schema.datacite.org/) 
 
-#### *Data file format* 
+*Data file format* 
 
 Formats that can be used to create DOIs and their attached metadata:  
 DataCite XML  
@@ -73,11 +73,11 @@ Citeproc JSON
 Codemeta  
 Crossref XML
 
-#### *Metadata file format*
+*Metadata file format*
 
 Same as "data file format"
 
-#### *Metadata mandatory fields*
+*Metadata mandatory fields*
 
 Identifier  
 Creator  
@@ -86,17 +86,17 @@ Publisher
 PublicationYear  
 ResourceType
 
-## **Additional Criteria / Specifications**
+### Additional Criteria / Specifications
 
 *(Same categories as minimum requirements)*
 
-### Editorial additional specifications
+**Editorial additional specifications**
 
 None
 
-### Technical additional specifications
+**Technical additional specifications**
 
-#### *Metadata recommended fields*
+*Metadata recommended fields*
 
 Subject  
 Contributor  
@@ -105,7 +105,7 @@ RelatedIdentifier
 Description  
 GeoLocation
 
-#### *Metadata optional fields*
+*Metadata optional fields*
 
 Language  
 AlternateIdentifier  
@@ -115,6 +115,6 @@ Version
 FundingReference  
 RelatedItem
 
-#### *SEO/UX requirements*
+*SEO/UX requirements*
 
-*None*
+None
