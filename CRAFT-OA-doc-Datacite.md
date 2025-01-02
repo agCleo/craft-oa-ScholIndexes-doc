@@ -37,7 +37,7 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 
 None
 
-## Requirements for Academic Publications**
+## Requirements for Academic Publications
 
 ### Joining Process
 
@@ -86,12 +86,9 @@ Publisher
 PublicationYear  
 ResourceType
 
-### Additional Criteria / Specifications
-
-*(Same categories as minimum requirements)*
+### Additional Criteria
 
 **Editorial additional specifications**
-
 None
 
 **Technical additional specifications**
