@@ -1,10 +1,10 @@
 # **Datacite**
 
-Last version: 2024-12-30
+*Last version: 2024-12-30*
 
 Datacite enables the creation and management of DOI persistent identifiers (PIDs), integrates services to improve research workflows, and facilitates the discovery and reuse of research outputs and resources with metadata that connects research outputs and resources–from samples and images to data and preprints. 
 
-# **General Information**
+## General Information
 
 | Name | DataCite |
 | :---- | :---- |
@@ -17,10 +17,8 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | **Number of items** | 58M Works |
 | **Access for index users** | Free |
 | **Access for index data providers** | Organizational membership only Membership Fee – 2.000€/year Organization Fee – 500€/year DOI Fee – depends on annual DOI range |
-| **Documentation** |  |
-| https://support.datacite.org/docs/best-practices-for-service-providers |  |
-| **Application form for providers** |  |
-| Form to become a Datacite member: [https://formstack.io/50D06](https://formstack.io/50D06)  |  |
+| **Documentation** | https://support.datacite.org/docs/best-practices-for-service-providers |
+| **Application form for providers** | Form to become a Datacite member: [https://formstack.io/50D06](https://formstack.io/50D06)  |
 
 # **Content and Service**
 
