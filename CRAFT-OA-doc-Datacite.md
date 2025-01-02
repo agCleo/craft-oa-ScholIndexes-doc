@@ -31,11 +31,15 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | **Full text** | No full text |
 | **Index sources** | Main sources include the "Datacite service providers": [https://datacite.org/service-providers/](https://datacite.org/service-providers/) Any Datacite member can be a provider of Datacite metadata  |
 | **Supported standards** | DataCite Metadata Schema: [https://schema.datacite.org/](https://schema.datacite.org/)  |
-| **Additional services** | DataCite Fabrica: [https://doi.datacite.org/](https://doi.datacite.org/) DataCite REST API: [https://support.datacite.org/docs/api](https://support.datacite.org/docs/api)  |
+| **Bibliodiversity support** | None |
 
-**Bibliodiversity support**
+**Additional services**
 
-None
+DataCite Fabrica: 
+[https://doi.datacite.org/](https://doi.datacite.org/) 
+
+DataCite REST API: 
+[https://support.datacite.org/docs/api](https://support.datacite.org/docs/api)
 
 ## Requirements for Academic Publications
 
