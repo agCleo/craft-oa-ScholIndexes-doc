@@ -4,7 +4,7 @@
 
 Index description *(a brief description in 3 or 4 lines of the index, its main characteristics and features)*
 
-# **General Information**
+## General Information
 
 | Name | *Name of the index (Full name and abbreviation if needed)  ex: DOAJ (Directory of Open Access Journals)* |
 | :---- | :---- |
@@ -20,9 +20,9 @@ Index description *(a brief description in 3 or 4 lines of the index, its main c
 | **Documentation** | *URL of documentation on the index website that give more precise technical informations on the criteria for inclusion or the data collection process* |
 | **Application form for providers** | *Direct URL of the application form for joining the index (if applicable)* |
 
-# **Content and Service**
+## Content and Service
 
-| Content type | *All the types of resources indexed (Articles, Journals, Datasets etc.)* |
+| Content type | All the types of resources indexed (Articles, Journals, Datasets etc.) |
 | :---- | :---- |
 | **Content language** | *Language of the indexed resources*  |
 | **Content geographical provenance** | *Countries of the indexed resources* |
