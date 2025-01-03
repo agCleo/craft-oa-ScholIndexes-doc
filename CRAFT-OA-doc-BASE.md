@@ -58,6 +58,7 @@ With or without declaration of database manager to BASE (automated crawling)
 Some contents have to be OA (full texts free of charge for readers, without registration)
 
 **Technical minimum requirements**  
+
 *Metadata standard*
 
 Dublin Core
