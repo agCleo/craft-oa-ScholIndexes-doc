@@ -35,11 +35,14 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 
 **Additional services**
 
-Dimensions Analytics ([https://www.dimensions.ai/products/all-products/dimensions-analytics/=](https://www.dimensions.ai/products/all-products/dimensions-analytics/=))
+Dimensions Analytics:
+([https://www.dimensions.ai/products/all-products/dimensions-analytics/=](https://www.dimensions.ai/products/all-products/dimensions-analytics/=))
 
-Dimensions API ([https://www.dimensions.ai/products/all-products/dimensions-api/](https://www.dimensions.ai/products/all-products/dimensions-api/))
+Dimensions API:
+([https://www.dimensions.ai/products/all-products/dimensions-api/](https://www.dimensions.ai/products/all-products/dimensions-api/))
 
-Dimensions Knowledge Graph ([https://www.dimensions.ai/products/all-products/dimensions-knowledge-graph/](https://www.dimensions.ai/products/all-products/dimensions-knowledge-graph/))
+Dimensions Knowledge Graph:
+([https://www.dimensions.ai/products/all-products/dimensions-knowledge-graph/](https://www.dimensions.ai/products/all-products/dimensions-knowledge-graph/))
 
 ## Requirements for Academic Publications
 
@@ -72,7 +75,7 @@ Not communicated (depends on index sources)
 *Metadata mandatory fields*  
 Not communicated (reuse of the minimum metadata of index sources)
 
-### **Additional Criteria**
+### Additional Criteria
 
 **Editorial additional specifications**  
 Same requirements as the index sources
