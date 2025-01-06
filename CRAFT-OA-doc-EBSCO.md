@@ -1,6 +1,6 @@
 # EBSCO
 
-*Last version: 2024-10-02*
+*Last version: 2025-01-06*
 
 EBSCO is a provider of research databases, e-journal and e-package subscription and acquisition management tools, and a provider of library technology and e-books. It provides its services to universities, colleges, hospitals, corporations, government, and public libraries worldwide. EBSCOHost is a closed service which provides access to full-text and includes EBSCO eBook Collection, EBSCO Academic Collection, EBSCO eBook Open Access Collection. EBSCO Discovery Service (EDS) is another service providing bibliographic information about publications. EBSCO provides other services, like for instance, AtoZ or Academic Search Ultimate. While operating mostly for institutions like libraries and universities, EBSCO also operates directly with journals and e-books publishers.
 
@@ -14,7 +14,7 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 | **Owner country** | USA |
 | **Launch year** | EBSCO Information Services originated in 1984 1987 as EBSCO Publishing since 2013 EBSCO Information Services |
 | **Scope** | Any |
-| **Number of items** | Not disclosed |
+| **Number of items** | Not communicated |
 | **Access for index users** | Subscription fee |
 | **Access for index data providers** | Fee-based service |
 | **Documentation** | Content Delivery Guidelines (Journals and eBooks): [https://www.ebsco.com/sites/default/files/acquiadam-assets/Journal\_Content\_Delivery\_Guidelines.pdf](https://www.ebsco.com/sites/default/files/acquiadam-assets/Journal_Content_Delivery_Guidelines.pdf) Database submission guidelines: [https://www.ebsco.com/sites/default/files/acquiadam-assets/Submission\_Guidelines\_for\_EDS\_Databases.pdf](https://www.ebsco.com/sites/default/files/acquiadam-assets/Submission_Guidelines_for_EDS_Databases.pdf)  |
@@ -22,8 +22,9 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 
 ## Content and Service
 
-| Content type | Articles, eBooks |
+| Service type | Selective bibliographic indexes |
 | :---- | :---- |
+| **Content type** | Articles, eBooks |
 | **Content language** | Any |
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Articles, eBooks |
@@ -60,7 +61,7 @@ FTP and web download
 
 **Editorial minimum requirements**
 
-None
+Not communicated
 
 **Technical minimum requirements**
 
@@ -93,7 +94,7 @@ PDF Link, or PDF file name in the metadata if the file is provided directly
 
 **Editorial additional specifications**
 
-None
+Not communicated
 
 **Technical additional specifications**
 
@@ -112,3 +113,10 @@ Abstract
 Keywords  
 URL link to Full Text
 
+*Metadata optional fields*
+
+Not communicated
+
+*SEO/UX requirements*
+
+Not communicated
