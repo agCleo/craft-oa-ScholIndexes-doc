@@ -22,7 +22,7 @@ Crossref is a membership organization with 19K members from commercial and insti
 
 ## Content and Service
 
-| Service type | PIDs Registering agency |
+| Service type | PIDs Registration agency |
 | :---- | :---- |
 | **Content type** | Books, journals, articles, datasets |
 | **Content language** | Any |
