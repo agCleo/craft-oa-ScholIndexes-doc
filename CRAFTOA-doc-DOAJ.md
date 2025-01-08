@@ -1,6 +1,6 @@
 # DOAJ
 
-*Last version: 2024-08-09*
+*Last version: 2025-01-08*
 
 Community-curated list of peer-reviewed open access journals, maintained by Infrastructure Services for Open Access (IS4OA). DOAJ also allows for article metadata collection and display, and free distribution of journal and article metadata.
 
@@ -22,8 +22,9 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 
 ## Content and service
 
-| Content type | Journals, Articles |
+| Service type | Selective bibliographic indexes |
 | :---- | :---- |
+| **Content type** | Journals, Articles |
 | **Content language** | Any |
 | **Content geographical provenance** | 134 countries represented |
 | **Indexing level for publications** | Journal |
