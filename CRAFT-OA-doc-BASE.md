@@ -65,7 +65,7 @@ Dublin Core
 
 *Data file format* 
 
-Not communicated
+Data not collected
 
 *Metadata file format*
 
