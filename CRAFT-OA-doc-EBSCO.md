@@ -117,6 +117,11 @@ URL link to Full Text
 
 Not communicated
 
+*Other technical specifications*
+
+Sending full text is not mandatory, if published elsewhere. 
+Detailed specifications related to the full text PDF upload are described in the "Journal Content delivery guidelines
+
 *SEO/UX requirements*
 
 Not communicated
