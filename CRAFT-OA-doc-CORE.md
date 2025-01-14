@@ -94,5 +94,19 @@ Publication date
 None
 
 **Technical additional specifications**  
+
+*Metadata recommended fields*
+
 None
 
+*Metadata optional fields*
+
+None
+
+*Other technical specifications fields*
+
+Dublin core is necessary for OAI-PMH, RIOXX, a schema indicated to research outputs, is recommended as a better option. See: https://www.rioxx.net/.
+
+*SEO/UX requirements*
+
+Not communicated
