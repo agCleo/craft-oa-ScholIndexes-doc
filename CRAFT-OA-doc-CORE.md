@@ -109,7 +109,7 @@ None
 
 None
 
-*Other technical specifications fields*
+*Other technical specifications*
 
 Dublin core is necessary for OAI-PMH, RIOXX, a schema indicated to research outputs, is recommended as a better option. See: https://www.rioxx.net/.
 
