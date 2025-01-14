@@ -92,7 +92,7 @@ None
 
 **Technical additional specifications**
 
-*Metadata recommanded fields*
+*Metadata recommended fields*
 
 Journal: abbreviated title, DOI, coden, journal\_issue, archive locations (with one archive name), title-level DOI and URL  
 Issue: publication date (month, day), journal volume, contributors, issue, DOI  
