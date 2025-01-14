@@ -22,7 +22,7 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 
 ## Content and service
 
-| Service type | Selective bibliographic indexes |
+| Service type | Selective bibliographic index |
 | :---- | :---- |
 | **Content type** | Journals, Articles |
 | **Content language** | Any |
