@@ -14,7 +14,7 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | **Owner country** | Germany |
 | **Launch year** | 2009 |
 | **Scope** | Any |
-| **Number of items** | 58M Works |
+| **Number of items** | Above 50 million DOIs and metadata records |
 | **Access for index users** | Free |
 | **Access for index data providers** | Organizational membership only Membership Fee – 2.000€/year Organization Fee – 500€/year DOI Fee – depends on annual DOI range |
 | **Documentation** | https://support.datacite.org/docs/best-practices-for-service-providers |
