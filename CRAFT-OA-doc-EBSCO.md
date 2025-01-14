@@ -22,7 +22,7 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 
 ## Content and Service
 
-| Service type | Selective bibliographic indexes |
+| Service type | Selective bibliographic index |
 | :---- | :---- |
 | **Content type** | Articles, eBooks |
 | **Content language** | Any |
