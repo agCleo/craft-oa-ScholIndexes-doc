@@ -66,20 +66,25 @@ Metadata are collected upon submission by data providers and automatically ident
 ### Minimum Requirements
 
 **Editorial minimum requirements**  
+
 Scholarly literature
 
 **Technical minimum requirements**
 
 *Metadata standard*  
+
 Dublin core, RIOXX
 
-*Data file format*   
+*Data file format*  
+
 No limitation, but only PDF can be displayed on CORE.
 
 *Metadata file format*  
+
 XML
 
 *Metadata mandatory fields*  
+
 Title  
 Author  
 Language  
@@ -91,6 +96,7 @@ Publication date
 ### Additional Criteria
 
 **Editorial additional specifications**  
+
 None
 
 **Technical additional specifications**  
