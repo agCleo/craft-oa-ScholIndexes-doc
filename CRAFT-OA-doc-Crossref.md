@@ -104,6 +104,8 @@ Publisher item number
 Special numbering for special issues  
 Additional components of the publication (e.g. tables, figures etc.)
 
+*Other fields*
+
 List of metadata required for books, articles, datasets:  
 [https://www.crossref.org/documentation/schema-library/required-recommended-elements/](https://www.crossref.org/documentation/schema-library/required-recommended-elements/) 
 
