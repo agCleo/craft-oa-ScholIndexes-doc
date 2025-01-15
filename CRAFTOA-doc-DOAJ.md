@@ -104,6 +104,18 @@ XML, JSON, Webform (text)
 
 **Technical additional specifications**
 
+*Metadata recommended fields*
+
+None
+
+*Metadata optional fields*
+
+None
+
+*Other technical specifications*
+
+None
+
 *SEO/UX Requirements*
 
 Journals with own URL and homepage
