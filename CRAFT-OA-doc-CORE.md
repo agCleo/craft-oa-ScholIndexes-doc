@@ -17,7 +17,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | **Number of items** | 294 M papers |
 | **Access for index users** | Free |
 | **Access for index data providers** | Free for basic discovery service Membership fees for additional services : [https://core.ac.uk/membership](https://core.ac.uk/membership)  |
-| **Documentation** | Core Data provider's Guide: https://core.ac.uk/documentation/data-providers-guide Dataset documentation: https://core.ac.uk/documentation/dataset  API: https://api.core.ac.uk/docs/v3 |
+| **Documentation** | Core Data provider's Guide: https://core.ac.uk/documentation/data-providers-guide<br/> Dataset documentation: https://core.ac.uk/documentation/dataset<br/>  API: https://api.core.ac.uk/docs/v3 |
 | **Application form for providers** | https://core.ac.uk/benefits#join-core |
 
 ## Content and Service
@@ -29,10 +29,10 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Paper/ Article |
 | **Full text** | Full text when available |
-| **Index sources** | Institutional/Thematic repositories, Aggregators, Journal/publisher archives, Institutional/National CRIS systems, Metadata catalogues, Complete list here: https://core.ac.uk/data-providers/?q=\&size=20 |
+| **Index sources** | Institutional/Thematic repositories, Aggregators, Journal/publisher archives, Institutional/National CRIS systems, Metadata catalogues.<br/>Complete list here: https://core.ac.uk/data-providers/?q=\&size=20 |
 | **Supported standards** | Dublin Core, RIOXX |
 | **Contact address for providers** | theteam@core.ac.uk |
-| **Bibliodiversity support** | CORE indexes all metadata records in a repository, but it is in position to index full text records in PDF only. The index are working though to include other file types, such as HTML webpages, images etc. |
+| **Bibliodiversity support** | CORE indexes all metadata records in a repository, but it is in position to index full text records in PDF only. The index is working however to include other file types, such as HTML webpages, images etc. |
 
 **Additional services**  
 CORE Recommender: 
