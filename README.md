@@ -3,7 +3,7 @@
 ## About 
 This repository contains the documentations catalog about indexes for scholarly publications. It is meant to help publishers understand and select the appropriate index or aggregator for their publications, as well as the requirements they will have to meet.
    
-The catalog has been established within the [CRAFT-OA](https://www.craft-oa.eu/) Horizon Europe project, as part of the WP5 lead by [Aix-Marseille University](https://www.univ-amu.fr/). 
+The catalog has been established within the [CRAFT-OA](https://www.craft-oa.eu/) Horizon Europe project, as part of the WP5 lead by [Aix-Marseille University](https://www.univ-amu.fr/) / [OpenEdition](https://www.openedition.org/?lang=en). 
 
 CRAFT-OA is an [OPERAS RI](https://operas-eu.org/) project coordinated by the [University of Göttigen](https://www.uni-goettingen.de/en/1.html) and it aims at supporting the publishers and authors following the Diamond Open Access model. This catalog is one aspect of such support.
 
