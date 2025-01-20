@@ -72,7 +72,7 @@ Crossref standard XML schema for various objects: [https://www.crossref.org/docu
 
 *Data file format*
 
-Not communicated
+None
 
 *Metadata file format*
 
