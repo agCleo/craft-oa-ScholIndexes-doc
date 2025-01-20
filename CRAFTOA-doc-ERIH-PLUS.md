@@ -105,11 +105,18 @@ Evaluation of the target audience of the journal
 Statement on ethical publishing  
 Relevant journal for European researchers / research area   
 Presence of the journal in other indexes
-
-*Copyright*
-
 Open access status  
 Evaluation of the APC policy
+
+**Technical additional specifications**
+
+*Metadata recommended fields*
+
+none
+
+*Metadata optional fields*
+
+none
 
 *SEO/UX Requirements*
 
