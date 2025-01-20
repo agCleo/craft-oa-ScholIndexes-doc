@@ -1,6 +1,6 @@
 # Scopus
 
-*Last version: 2024-09-05*
+*Last version: 2025-01-20*
 
 Abstract and citation database which allows to search papers of peer-reviewed journals in different subject fields: life sciences, social sciences, physical sciences and health sciences. It covers three types of sources: book series, journals, and trade journals. Scopus also allows patent searches in a dedicated patent database Lexis-Nexis. 
 
@@ -17,13 +17,14 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | **Number of items** | 27 800 active journals  <br />94 M records |
 | **Access for index users** | Subscription fee |
 | **Access for index data providers** | Free  |
-| **Documentation** | [https://www.elsevier.com/products/scopus/content/content-policy-and-selection](https://www.elsevier.com/products/scopus/content/content-policy-and-selection) |
+| **Documentation** | [https://www.elsevier.com/products/scopus/content/content-policy-and-selection ](https://www.elsevier.com/products/scopus/content/content-policy-and-selection) |
 | **Application form for providers** | [https://suggestor.step.scopus.com/suggestTitle/step1.cfm](https://suggestor.step.scopus.com/suggestTitle/step1.cfm)  |
 
-**Content and Service**
+## Content and Service
 
-| Content type | Journals, Articles, Books |
+| Service type | Selective bibliographic and bibliometric indexes  |
 | :---- | :---- |
+| **Content type** | Journals, Articles, Books |
 | **Content language** | Mainly in English (Abstract and titles in English) |
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Journals |
@@ -31,7 +32,7 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | **Index sources** | Journals' own information <br />Unpaywall (partial) |
 | **Supported standards** | Not communicated |
 | **Contact address for providers** | https://service.elsevier.com/app/contact/supporthub/scopus/ (Webform) |
-| **Bibliodiversity support** | Uses of journal metrics (CiteScore).  <br />Abstract and article titles in english. Scopus is considered to reference a low rate of “research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences”[^2]. |
+| **Bibliodiversity support** | Uses of journal metrics (CiteScore).  <br /> Abstract and article titles in english. Scopus is considered to reference a low rate of “research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences”[^2]. |
 
 **Additional services**  
 Scopus AI (Search tool powered by generative AI):  
@@ -80,10 +81,18 @@ The policy for copyright shall be clearly stated in the author guidelines and th
 
 **Technical Minimum Requirements**
 
+*Metadata Standard* 
+
+Not communicated
+
 *Data File Format* 
 
 PDF  
 HTML
+
+*Metadata File Format* 
+
+Not communicated
 
 *Metadata Mandatory Fields* 
 
@@ -119,9 +128,17 @@ English language journal home page available
 
 **Technical Additional Specifications**
 
+*Metadata recommended fields*
+
+None
+
+*Metadata optional fields* 
+
+None
+
 *SEO/UX requirements*
 
-na
+Not communicated
   
 [^1]:  Tennant JP. Web of Science and Scopus are not global databases of knowledge. European Science Editing 2020;46. DOI: 10.3897/ese.2020.e51987
 [^2]:  Tennant JP. Web of Science and Scopus are not global databases of knowledge. European Science Editing 2020;46. DOI: 10.3897/ese.2020.e51987
