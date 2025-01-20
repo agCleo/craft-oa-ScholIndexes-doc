@@ -17,19 +17,20 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 | **Number of items** | More than 37 million citations and abstracts  |
 | **Access for index users** | Free |
 | **Access for index data providers** | Free |
-| **Documentation** |PubMed Evaluation: https://ncbi.nlm.nih.gov/pubmed/help/tech-eval Medline submission process: https://www.nlm.nih.gov/medline/medline_how_to_include.html|
+| **Documentation** |PubMed Evaluation: https://ncbi.nlm.nih.gov/pubmed/help/tech-eval </br> Medline submission process: https://www.nlm.nih.gov/medline/medline_how_to_include.html|
 | **Application form for providers** | [https://www.ncbi.nlm.nih.gov/medline/publisherportal/](https://www.ncbi.nlm.nih.gov/medline/publisherportal/) |
 
 ## Content and Service
 
-| Content type | Articles |
+| Service type | Selective bibliographic index |
 | :---- | :---- |
+| **Content type** | Articles |
 | **Content language** | Any |
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Journals, articles |
 | **Full text** | Link to the full text when available |
 | **Index sources** | Journals |
-| **Supported standards** | Dublin Core <br/>PMC (PubMedCentral) |
+| **Supported standards** | Dublin Core <br/> PMC (PubMedCentral) |
 | **Contact address for providers** | None |
 | **Bibliodiversity support** | Website available only in English. English mandatory for abstracts and titles. Content from all countries and languages (mainly in English) in open and restricted access. |
 
@@ -77,6 +78,10 @@ The journal must meet MEDLINE's language guidelines.
 
 HTML (no PDF)
 
+*Metadata standard* 
+
+Not communicated
+
 *Metadata File Format* 
 
 XML  
@@ -110,7 +115,7 @@ PMID/DOI/PII for related articles, e.g., errata, retractions, comments
 
 **Technical Additional Specifications**
 
-*Metadata Recommended Fields*
+*Metadata recommended fields*
 
 Full list of metadata recommended : 
 [https://docs.google.com/spreadsheets/d/1vL96IYqD6XKS6W09w21vRaD1P0A2WTdSd9F-9cX3ajE/edit?gid=2117331831#gid=2117331831](https://docs.google.com/spreadsheets/d/1hg2evNSaylQLgxS4NionMa27bKpDKKNQrD-4cak6gp0/edit?gid=1676278168#gid=1676278168)
