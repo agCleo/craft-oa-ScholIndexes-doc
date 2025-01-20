@@ -112,11 +112,11 @@ Evaluation of the APC policy
 
 *Metadata recommended fields*
 
-none
+None
 
 *Metadata optional fields*
 
-none
+None
 
 *SEO/UX Requirements*
 
