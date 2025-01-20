@@ -1,6 +1,6 @@
 # PubMed
 
-*Last version: 2024-09-05*
+*Last version: 2025-01-20*
 
 PubMed is a free resource supporting the search and retrieval of biomedical and life sciences literature with the aim of improving health–both globally and personally. The PubMed database contains more than 37 million citations and abstracts of biomedical literature. It does not include full text journal articles; however, links to the full text are often present when available from other sources, such as the publisher's website or PubMed Central (PMC).
 
