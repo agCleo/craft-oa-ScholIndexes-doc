@@ -1,6 +1,6 @@
 # GoTriple
 
-*Last version: 2024-08-12*
+*Last version: 2025-01-20*
 
 GoTriple is a multilingual discovery platform for the social sciences and humanities (SSH). It provides a comprehensive access point for discovering and reusing research artifacts that are relevant to the wide variety of disciplines under the umbrella domain of SSH: publications and research data, project descriptions, authors and researcher profiles are automatically imported from aggregators and source providers, semantically enriched and linked in GoTriple.
 
@@ -22,8 +22,9 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 
 ## Content and Service
 
-| Content type | Publications, Datasets, Projects, Profiles |
+| Service type | Automated aggregator with submission |
 | :---- | :---- |
+| **Content type** | Publications, Datasets, Projects, Profiles |
 | **Content language** | Any |
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Article  |
@@ -68,6 +69,10 @@ Dublin Core
 or OpenAIRE format  
 or Europeana Data Model (EDM)  
 or MARC21 (work in progress)
+
+*Data file format*
+
+Data file format
 
 *Metadata File Format* 
 
