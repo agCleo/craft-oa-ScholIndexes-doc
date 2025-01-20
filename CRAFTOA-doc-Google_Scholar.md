@@ -22,8 +22,9 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 
 ## Content and service
 
-| Content type | Scholarly articles (Journal papers, conference papers, technical reports, or their drafts, dissertations, pre-prints, post-prints, or abstracts) |
+| Service type | Fully automated aggregator |
 | :---- | :---- |
+| **Content type** | Scholarly articles (Journal papers, conference papers, technical reports, or their drafts, dissertations, pre-prints, post-prints, or abstracts) |
 | **Content language** | Any |
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Articles |
@@ -52,13 +53,25 @@ Web crawling
 
 **Editorial minimum requirements**
 
-None.
+None
 
 **Technical minimum requirements**
+
+*Metadata standard*
+
+HTML metatags supporting:
+Highwire Press tags
+BE Press tags
+PRISM tags
+Dublin Core tags
 
 *Data file format* 
 
 HTML or PDF
+
+*Metadata standard*
+
+None
 
 *Metadata mandatory fields*
 
@@ -76,6 +89,16 @@ Bibliographic citation of the paper
 Bibliography
 
 ### Additional criteria
+
+**Technical additional specifications**
+
+*Metadata recommended fields*
+
+None
+
+*Metadata optional fields*
+
+None
 
 *SEO/UX requirements*
 
