@@ -75,16 +75,20 @@ None.
 
 **Technical Minimum Requirements**
 
-*Metadata Standard*
+*Metadata standard*
 
 Datacite  
 Dublin Core
 
-*Metadata File Format*
+*Data file format*
+
+None
+
+*Metadata file format*
 
 XML (for data collection)
 
-*Metadata Mandatory Fields*
+*Metadata mandatory fields*
 
 Title  
 Creator   
