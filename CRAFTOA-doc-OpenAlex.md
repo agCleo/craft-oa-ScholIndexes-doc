@@ -45,7 +45,7 @@ OpenAlex Snapshot (download and installation of a complete copy of the OpenAlex 
 
 ### Joining Process
 
-OpenAlex automatically indexes new journals and articles. If the publications are not already stored in OpenAlex data sources. OpenAlex primarily retrieves new records from Crossref ([https://www.crossref.org/](https://www.crossref.org/)).
+OpenAlex automatically indexes new journals and articles if the publications are not already stored in OpenAlex data sources. OpenAlex primarily retrieves new records from Crossref ([https://www.crossref.org/](https://www.crossref.org/)).
 
 **Data Collection** 
 
