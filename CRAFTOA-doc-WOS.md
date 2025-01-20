@@ -1,6 +1,6 @@
 # Web of Science (WoS)
 
-*Last version: 2024-09-05*
+*Last version: 2025-01-20*
 
 The Web of Science (WoS) is a paid-access platform that provides access to multiple databases that provide reference and citation data from academic journals, conference proceedings and other documents in various academic disciplines. 
 
@@ -22,8 +22,9 @@ The Web of Science (WoS) is a paid-access platform that provides access to multi
 
 ## Content and Service
 
-| Content type | Journals, articles |
+| Service type | Selective bibliographic and bibliometric indexes |
 | :---- | :---- |
+| **Content type** | Journals, articles |
 | **Content language** | Mainly in English (Abstract and titles in English) |
 | **Content geographical provenance** | Any  |
 | **Indexing level for publications** | Journals |
@@ -84,6 +85,18 @@ Content relevance (The journal must have a well-defined scope and statement of p
 Appropriate Citations to the literature (It is expected that articles will appropriately acknowledge the surrounding literature for the topic.)
 
 **Technical Minimum Requirements**
+
+*Data file format*
+
+Not communicated
+
+*Metadata standard*
+
+Not communicated
+
+*Metadata file format*
+
+Not communicated
 
 *Metadata Mandatory Fields*
 
