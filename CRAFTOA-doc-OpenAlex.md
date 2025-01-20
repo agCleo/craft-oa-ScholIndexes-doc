@@ -1,6 +1,6 @@
 # OpenAlex
 
-*Last version: 2024-09-04*
+*Last version: 2025-01-20*
 
 Open catalog of scholarly works (journal articles, conference papers, books and book chapters, datasets, and theses), authors, institutions. It includes connections between these works, finding associations through things like journals, authors, institutional affiliations, citations, concepts, and funders. 
 
@@ -22,8 +22,9 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 
 ## Content and Service
 
-| Content type | Journal articles, conference papers, books, datasets, theses |
+| Service type | Fully automated aggregator |
 | :---- | :---- |
+| **Content type** | Journal articles, conference papers, books, datasets, theses |
 | **Content language** | Any |
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | articles |
@@ -52,14 +53,21 @@ Automatic web crawling
 
 ### Minimum Requirements
 
+**Editorial minimum requirements**
+
+Dependent from the data sources crawled by OpenAlex
+
+**Technical minimum requirements**
+
 Dependent from the data sources crawled by OpenAlex
 
 ### Additional Criteria
 
+**Editorial Additional Specifications**
+
 Dependent from the data sources crawled by OpenAlex
 
-**Technical Additional Specifications**
+**Technical additional specifications**
 
-*SEO/UX requirements* 
+Dependent from the data sources crawled by OpenAlex
 
-None
