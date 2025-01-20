@@ -15,7 +15,7 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | **Launch year** | 1999 |
 | **Scope** | Social Science and Humanities |
 | **Number of items** | Articles: 973 653 Journals: 2879 |
-| **Access for index users** | Free for Open Access/ Subscription fee |
+| **Access for index users** | Open and closed access |
 | **Access for index data providers** | Subscription fees |
 | **Documentation** | [https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/new-to-CEEOL](https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/new-to-CEEOL) |
 | **Application form for providers** | [https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal](https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal)  |
