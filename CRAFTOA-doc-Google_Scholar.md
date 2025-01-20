@@ -59,11 +59,11 @@ None
 
 *Metadata standard*
 
-HTML metatags supporting:
-Highwire Press tags
-BE Press tags
-PRISM tags
-Dublin Core tags
+HTML metatags supporting: </br>
+Highwire Press tags </br>
+BE Press tags </br>
+PRISM tags </br>
+Dublin Core tags 
 
 *Data file format* 
 
