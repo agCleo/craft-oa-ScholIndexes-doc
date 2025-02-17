@@ -1,6 +1,6 @@
 # Crossref
 
-*Last version: 2024-12-30*
+*Last version: 2025-02-17*
 
 Crossref is a membership organization with 19K members from commercial and institutional publishing. Crossref's main service is the linking of citing and cited publications. Participating publishers register Crossref DOIs and submit metadata of their own publications. 
 
@@ -29,10 +29,10 @@ Crossref is a membership organization with 19K members from commercial and insti
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Journals and articles |
 | **Full text** | None |
-| **Index sources** | Source of information for Crossref are the data providers, no aggregation is provided Journal list: [https://www.crossref.org/xref/xml/mddb.xml](https://www.crossref.org/xref/xml/mddb.xml)  |
+| **Index sources** | Source of information for Crossref are the data providers, no aggregation is provided Journals list: [https://www.crossref.org/xref/xml/mddb.xml](https://www.crossref.org/xref/xml/mddb.xml)  |
 | **Supported standards** | Not communicated |
 | **Contact address for providers** | https://support.crossref.org/hc/en-us/requests/new?ticket_form_id=360001642691 (Webform) |
-| **Bibliodiversity support** | Over 21 000 members in 160 countries around the worlds. Subscription fees for publishers |
+| **Bibliodiversity support** | Over 21 000 members in 160 countries around the world. Subscription fees for publishers and publishing services, based on the number of DOIs created. |
 
 **Additional services**
 
@@ -43,7 +43,7 @@ https://www.crossref.org/documentation/retrieve-metadata/rest-api/
 
 ### Joining Process
 
-Membership is required to be registered by Crossref. Mermbership is open to either publishers or service providers.  
+Membership is required to be registered by Crossref. Membership is open to either publishers or service providers.
 Members can then issue Crossref DOIs for their users. DOI generation can vary from one service to another: automated/on-demand generation, for any content/specific content, etc.
 
 **Data Collection Process**
@@ -53,7 +53,7 @@ Crossref XML plugin for OJS (Open Journal Systems)
 Web deposit form  
 Grant registration form (to register grant metadata only)
 
-Also possible to send XML files conform to Crossref XSD:  
+Also possible to send XML files conform to Crossref XSD (XML schema) 
 Upload JATS XML using the web deposit form  
 Upload XML files using our admin tool  
 XML deposit using HTTPS POST
