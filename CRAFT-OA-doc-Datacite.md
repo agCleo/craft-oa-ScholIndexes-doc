@@ -28,7 +28,7 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | **Content language** | Any |
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Articles, journals |
-| **Full text** | No full text |
+| **Full text** | None |
 | **Index sources** | Main sources include the "Datacite service providers": [https://datacite.org/service-providers/](https://datacite.org/service-providers/) Any Datacite member can be a provider of Datacite metadata  |
 | **Supported standards** | DataCite Metadata Schema: [https://schema.datacite.org/](https://schema.datacite.org/)  |
 | **Contact address for providers** | Contact e-mail: https://www.dimensions.ai/contact-us/ |
@@ -73,7 +73,8 @@ Formats that can be used to create DOIs and their attached metadata:
 DataCite XML  
 RIS  
 BibTeX  
-Schema.org JSON-LD  
+Schema.org
+JSON-LD  
 Citeproc JSON  
 Codemeta  
 Crossref XML
