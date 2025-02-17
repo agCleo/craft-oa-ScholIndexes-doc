@@ -1,8 +1,8 @@
 # CORE
 
-*Last version: 2024-12-30*
+*Last version: 2025-02-17*
 
-CORE (COnnecting REpositories) provides a comprehensive bibliographic database of the world’s scholarly literature, collecting and indexing research from repositories and journals. It is also the world’s largest collection of full text open access research papers. CORE is a not-for-profit service dedicated to the open access mission and one of the signatories of the Principles of Open Scholarly Infrastructures.
+CORE (COnnecting REpositories) provides a comprehensive bibliographic database of the world’s scholarly literature, collecting and indexing research from repositories and journals. It contains a large collection of full text open access research papers. CORE is a not-for-profit service dedicated to the open access mission and one of the signatories of the Principles of Open Scholarly Infrastructures.
 
 ## General Information
 
@@ -111,7 +111,7 @@ None
 
 *Other technical specifications*
 
-Dublin core is necessary for OAI-PMH, RIOXX, a schema indicated to research outputs, is recommended as a better option. See: https://www.rioxx.net/.
+Dublin core is necessary for OAI-PMH. CORE team also recommends as a better option: RIOXX, a metadata schema dedicated to research outputs. See: https://www.rioxx.net/. 
 
 *SEO/UX requirements*
 
