@@ -73,7 +73,7 @@ Formats that can be used to create DOIs and their attached metadata:
 DataCite XML  
 RIS  
 BibTeX  
-Schema.org
+Schema.org <br>
 JSON-LD  
 Citeproc JSON  
 Codemeta  
