@@ -35,6 +35,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | **Bibliodiversity support** | CORE indexes all metadata records in a repository, but it is in position to index full text records in PDF only. The index is working however to include other file types, such as HTML webpages, images etc. |
 
 **Additional services**  
+
 CORE Recommender: 
 
 https://core.ac.uk/services/recommender
