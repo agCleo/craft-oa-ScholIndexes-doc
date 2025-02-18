@@ -29,7 +29,7 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | **Content geographical provenance** | 134 countries represented |
 | **Indexing level for publications** | Journal |
 | **Full text** | link to the full text available |
-| **Index sources** | Journal |
+| **Index sources** | Articles, journals |
 | **Supported standards** | Dublin Core, DOAJ and Crossref schemas |
 | **Contact address for providers** | helpdesk@doaj.org |
 | **Bibliodiversity support** | World-wide coverage of countries and languages in open access (Gold and Diamond OA) |
