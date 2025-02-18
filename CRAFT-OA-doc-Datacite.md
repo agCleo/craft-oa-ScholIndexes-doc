@@ -1,6 +1,6 @@
 # Datacite
 
-*Last version: 2024-12-30*
+*Last version: 2025-02-18*
 
 Datacite enables the creation and management of DOI persistent identifiers (PIDs), integrates services to improve research workflows, and facilitates the discovery and reuse of research outputs and resources with metadata that connects research outputs and resources–from samples and images to data and preprints. 
 
