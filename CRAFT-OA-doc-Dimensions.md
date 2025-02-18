@@ -36,7 +36,7 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 **Additional services**
 
 Dimensions Analytics:
-([https://www.dimensions.ai/products/all-products/dimensions-analytics/=](https://www.dimensions.ai/products/all-products/dimensions-analytics/=))
+([https://www.dimensions.ai/products/all-products/dimensions-analytics/=] https://www.dimensions.ai/products/all-products/dimensions-analytics/=
 
 Dimensions API:
 ([https://www.dimensions.ai/products/all-products/dimensions-api/](https://www.dimensions.ai/products/all-products/dimensions-api/))
