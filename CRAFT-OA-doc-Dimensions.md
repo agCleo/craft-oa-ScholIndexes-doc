@@ -1,6 +1,6 @@
 # **Dimensions**
 
-*Last version: 2025-01-03*
+*Last version: 2025-02-18*
 
 Dimensions is a database of abstracts and citations and of research grants, which links grants to resulting publications, clinical trials and patents. Dimension is part of Digital Science (or Digital Science & Research Solutions Ltd) \- a technology company headquartered London, United Kingdom.
 
@@ -31,7 +31,7 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 | **Full text** | Link to the Full text |
 | **Index sources** | Crossref, PubMed, Europe PubMed Central, arXiv, J-STAGE and direct contacts with more than 130 publishers |
 | **Supported standards** | Not communicated |
-| **Bibliodiversity support** | Majority of english content |
+| **Bibliodiversity support** | Majority of English Content |
 
 **Additional services**
 
@@ -93,7 +93,7 @@ References
 Structured funding information and grants references
 
 *Metadata optional fields*  
-none
+None
 
 *SEO/UX requirements*  
 Not communicated
