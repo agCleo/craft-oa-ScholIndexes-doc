@@ -36,11 +36,13 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 
 **Additional services**
 
-DataCite Fabrica: 
-[https://doi.datacite.org/](https://doi.datacite.org/) 
+DataCite Fabrica:
+
+https://doi.datacite.org/
 
 DataCite REST API: 
-[https://support.datacite.org/docs/api](https://support.datacite.org/docs/api)
+
+https://support.datacite.org/docs/api
 
 ## Requirements for Academic Publications
 
