@@ -17,7 +17,7 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 | **Number of items** | Not communicated |
 | **Access for index users** | Subscription fee |
 | **Access for index data providers** | Fee-based service |
-| **Documentation** | Content Delivery Guidelines (Journals and eBooks): [https://www.ebsco.com/sites/default/files/acquiadam-assets/Journal\_Content\_Delivery\_Guidelines.pdf](https://www.ebsco.com/sites/default/files/acquiadam-assets/Journal_Content_Delivery_Guidelines.pdf) Database submission guidelines: [https://www.ebsco.com/sites/default/files/acquiadam-assets/Submission\_Guidelines\_for\_EDS\_Databases.pdf](https://www.ebsco.com/sites/default/files/acquiadam-assets/Submission_Guidelines_for_EDS_Databases.pdf)  |
+| **Documentation** | Content Delivery Guidelines (Journals and eBooks): [https://www.ebsco.com/sites/default/files/acquiadam-assets/Journal\_Content\_Delivery\_Guidelines.pdf](https://www.ebsco.com/sites/default/files/acquiadam-assets/Journal_Content_Delivery_Guidelines.pdf) <br> Database submission guidelines: [https://www.ebsco.com/sites/default/files/acquiadam-assets/Submission\_Guidelines\_for\_EDS\_Databases.pdf](https://www.ebsco.com/sites/default/files/acquiadam-assets/Submission_Guidelines_for_EDS_Databases.pdf)  |
 | **Application form for providers** | [https://www.ebsco.com/publishers-partnerships/full-text-licensed-databases-contact-form](https://www.ebsco.com/publishers-partnerships/full-text-licensed-databases-contact-form)  |
 
 ## Content and Service
