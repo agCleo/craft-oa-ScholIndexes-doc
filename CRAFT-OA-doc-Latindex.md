@@ -17,7 +17,7 @@ Latindex is a regional online information system for academic journals in Latin 
 | **Number of items** | In the Directory: more than 28000 journals In the Catalog: more than 3700 journals In the full text articles database: more than 600.000 articles |
 | **Access for index users** | Free |
 | **Access for index data providers** | Free |
-| **Documentation** | Requirements for the Catalog (Spanish): [https://latindex.org/latindex/postulacion/postulacionCatalogo](https://latindex.org/latindex/postulacion/postulacionCatalogo)  |
+| **Documentation** | Requirements for the Catalog (Spanish): <br> [https://latindex.org/latindex/postulacion/postulacionCatalogo](https://latindex.org/latindex/postulacion/postulacionCatalogo)  |
 | **Application form for providers** | [https://latindex.org/latindex/editores/formEditores](https://latindex.org/latindex/editores/formEditores) |
 
 ## Content and Service
