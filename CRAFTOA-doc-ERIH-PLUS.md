@@ -51,7 +51,9 @@ External support from Dimensions to display metadata about articles:
 
 New journals have to be submitted after creation of a user account.
 ERIH PLUS will not be evaluating journals submitted by publishers, members of the editorial board or others affiliated with a journal.
-Application at: [https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action] (https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action).
+Application at:
+
+[https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action](https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action).
 
 **Data Collection Process**
 
