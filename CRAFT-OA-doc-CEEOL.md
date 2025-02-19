@@ -29,7 +29,7 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 | **Content geographical provenance** | Central, East and Southeast Europe |
 | **Indexing level for publications** | Paper/article, journal, eBook |
 | **Full text** | Access to full text when available |
-| **Index sources** | over 1,000 publishing houses: <br> [https://www.ceeol.com/browse/browse-by-publishers](https://www.ceeol.com/browse/browse-by-publishers) |
+| **Index sources** | Over 1,000 publishing houses: <br> [https://www.ceeol.com/browse/browse-by-publishers](https://www.ceeol.com/browse/browse-by-publishers) |
 | **Supported standards** | MARC21 (inferred, no collection process described) |
 | **Contact address for providers** | publisher.support@ceeol.com |
 | **Bibliodiversity support** | Content development is clearly dedicated to all relevant SSH disciplines Journal articles, eBooks and Grey Literature items are available in 50+ languages, allowing access to the native language sources in one repository Fees required to provide journals and books as OA content (amount not communicated). Focus on articles from Central, East and Southeast Europe. |
