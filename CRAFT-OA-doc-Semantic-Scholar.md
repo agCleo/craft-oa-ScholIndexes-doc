@@ -30,7 +30,7 @@ Semantic Scholar provides free, AI-driven search and discovery tools, and open r
 | **Full text** | Link to the full text if available |
 | **Index sources** | Publishers data providers aggregators Complete list: <br> [https://www.semanticscholar.org/about/publishers](https://www.semanticscholar.org/about/publishers)  |
 | **Supported standards** | Not communicated |
-| **Contact Address for Providers** | Contact form on the help section at the end of the page: https://www.semanticscholar.org/|
+| **Contact Address for Providers** | Contact form on the help section at the end of the page: <br> https://www.semanticscholar.org/|
 | **Bibliodiversity support** | Semantic scholar was initially focused on computer science, geoscience, and neuroscience, and since 2017 biomedical studies. It is now open to any field of science, but the proportion of each field is not known. There doesn't seem to be any limitation related to language or geographic area. The service is free and doesn't reference papers behind paywalls. |
 
 **Additional services**
