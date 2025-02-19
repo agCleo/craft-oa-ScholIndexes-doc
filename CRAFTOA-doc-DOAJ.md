@@ -91,7 +91,7 @@ Crossref 4.4.2 XML:
 
 Extensive details about these processes are available here: 
 
-[Metadata help – DOAJ](https://doaj.org/docs/faq/) 
+[https://doaj.org/docs/faq/](https://doaj.org/docs/faq/) 
 
 ### Minimum Requirements
 
