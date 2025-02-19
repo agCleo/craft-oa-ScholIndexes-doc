@@ -17,7 +17,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | **Number of items** | 294 M papers |
 | **Access for index users** | Free |
 | **Access for index data providers** | Free for basic discovery service Membership fees for additional services : <br> [https://core.ac.uk/membership](https://core.ac.uk/membership)  |
-| **Documentation** | Core Data provider's Guide: <br> https://core.ac.uk/documentation/data-providers-guide<br/> Dataset documentation: https://core.ac.uk/documentation/dataset<br/>  API: https://api.core.ac.uk/docs/v3 |
+| **Documentation** | Core Data provider's Guide: <br> https://core.ac.uk/documentation/data-providers-guide <br> Dataset documentation: <br> https://core.ac.uk/documentation/dataset <br>  API: <br> https://api.core.ac.uk/docs/v3 |
 | **Application form for providers** | https://core.ac.uk/benefits#join-core |
 
 ## Content and Service
