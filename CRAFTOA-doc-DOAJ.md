@@ -77,15 +77,21 @@ Through the DOAJ API using JSON files;
 
 Through XML upload following DOAJ Native XML: 
 
-XSD: [https://www.doaj.org/static/doaj/doajArticles.xsd](https://www.doaj.org/static/doaj/doajArticles.xsd)
+[https://www.doaj.org/static/doaj/doajArticles.xsd](https://www.doaj.org/static/doaj/doajArticles.xsd)
 
 or Crossref schemas:
 
-Crossref 5.3.1 XML XSD: [https://www.doaj.org/static/crossref/crossref5.3.1.xsd](https://www.doaj.org/static/crossref/crossref5.3.1.xsd)
+Crossref 5.3.1 XML:
 
-Crossref 4.4.2 XML XSD: [https://www.doaj.org/static/crossref/crossref4.4.2.xsd](https://www.doaj.org/static/crossref/crossref4.4.2.xsd);
+[https://www.doaj.org/static/crossref/crossref5.3.1.xsd](https://www.doaj.org/static/crossref/crossref5.3.1.xsd)
 
-Extensive details about these processes are available here: [Metadata help – DOAJ](https://doaj.org/docs/faq/) 
+Crossref 4.4.2 XML:
+
+[https://www.doaj.org/static/crossref/crossref4.4.2.xsd](https://www.doaj.org/static/crossref/crossref4.4.2.xsd);
+
+Extensive details about these processes are available here: 
+
+[Metadata help – DOAJ](https://doaj.org/docs/faq/) 
 
 ### Minimum Requirements
 
