@@ -64,8 +64,13 @@ https://core.ac.uk/services/api
 
 ### Joining Process
 
-Automatic harvest from a list of aggregators: [https://core.ac.uk/data-providers/?q=\&size=10](https://core.ac.uk/data-providers/?q=&size=10)  
-Possibility to add a new data provider registration by completion of a form: [https://core.ac.uk/benefits\#join-core](https://core.ac.uk/benefits#join-core)
+Automatic harvest from a list of aggregators: 
+
+[https://core.ac.uk/data-providers/?q=\&size=10](https://core.ac.uk/data-providers/?q=&size=10)  
+
+Possibility to add a new data provider registration by completion of a form: 
+
+[https://core.ac.uk/benefits\#join-core](https://core.ac.uk/benefits#join-core)
 
 **Data Collection Process**  
 Metadata are collected upon submission by data providers and automatically identified and registered via OAI-PMH 
