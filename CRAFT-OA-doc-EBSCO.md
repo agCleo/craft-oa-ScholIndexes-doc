@@ -38,7 +38,7 @@ EBSCO is a provider of research databases, e-journal and e-package subscription 
 
 EBSCO Academic Search Ultimate:  
 
-[https://www.ebsco.com/products/research-databases/academic-search-ultimate] (https://www.ebsco.com/products/research-databases/academic-search-ultimate)
+[https://www.ebsco.com/products/research-databases/academic-search-ultimate](https://www.ebsco.com/products/research-databases/academic-search-ultimate)
 
 EBSCOhost (EBSCO eBook Collection, EBSCO Academic Collection, EBSCO eBook Open Access Collection):  
 
