@@ -48,8 +48,10 @@ https://support.datacite.org/docs/api
 
 ### Joining Process
 
-Upon submission by registered institutional users. The organizational membership enquiry can be completed here:  
+Upon submission by registered institutional users. The organizational membership enquiry can be completed here: 
+
 [https://formstack.io/50D06](https://formstack.io/50D06)  
+
 It's also possible to contact directly the datacite support to have more informations about joining options: support@datacite.org 
 
 **Data Collection Process**
