@@ -17,7 +17,7 @@ ERIH PLUS is an online index holding bibliographic information on academic journ
 | **Number of items** | Above 10 million articles  |
 | **Access for index users** | Free |
 | **Access for index data providers** | Free upon registration |
-| **Documentation** | Criteria documentation:  [https://kanalregister.hkdir.no/publiseringskanaler/erihplus/about/criteria\_for\_inclusion](https://kanalregister.hkdir.no/publiseringskanaler/erihplus/about/criteria\_for\_inclusion) |
+| **Documentation** | Criteria documentation: <br>  [https://kanalregister.hkdir.no/publiseringskanaler/erihplus/about/criteria\_for\_inclusion](https://kanalregister.hkdir.no/publiseringskanaler/erihplus/about/criteria\_for\_inclusion) |
 | **Application form for providers** | [https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action](https://kanalregister.hkdir.no/publiseringskanaler/erihplus/login.action)  |
 
 ## Content and Service
@@ -37,8 +37,13 @@ ERIH PLUS is an online index holding bibliographic information on academic journ
 **Additional services:**
 
 Records show if the journal is indexed in other indexes (e. g. DOAJ, Sherpa-Romeo).  
-ERIH PLUS Record connects with Plan S Journal Checker tool: [https://journalcheckertool.org/](https://journalcheckertool.org/)   
-External support from Dimensions to display metadata about articles: [https://www.dimensions.ai/](https://www.dimensions.ai/) 
+ERIH PLUS Record connects with Plan S Journal Checker tool: 
+
+[https://journalcheckertool.org/](https://journalcheckertool.org/) 
+
+External support from Dimensions to display metadata about articles: 
+
+[https://www.dimensions.ai/](https://www.dimensions.ai/) 
 
 ## Requirements for Academic Publications
 
