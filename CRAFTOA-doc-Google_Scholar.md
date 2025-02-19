@@ -1,6 +1,6 @@
 # **Google Scholar**
 
-Last version: 2024-01-20
+Last version: 2025-02-19
 
 Searchable bibliographic index that displays full text and metadata of scholarly literature across an array of publishing formats and disciplines.
 
@@ -30,9 +30,13 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 | **Indexing level for publications** | Articles |
 | **Full text** | link to the full text when available |
 | **Index sources** | Any website with scholarly articles and proper URL |
-| **Supported standards** | HTML meta tags supporting: <br /> Highwire Press tags <br /> BE Press tags <br /> PRISM tags <br /> Dublin Core tags |
+| **Supported standards** | HTML meta tags supporting: <br> Highwire Press tags <br> BE Press tags <br> PRISM tags <br> Dublin Core tags |
 | **Contact Address for Providers** | None |
-| **Bibliodiversity support** | No limitation on the language of the content or the publishing business model |
+| **Bibliodiversity support** | No limitation on the language of the content or the publishing business model.
+Indexing based on web crawling with no quality assessment (collects also IA generated content).
+Opaque ranking rules bringing more visibility to most cited papers, which further increase the citations of English-speaking papers. 
+[https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/22/google-scholar-is-not-broken-yet-but-there-are-alternatives/](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/22/google-scholar-is-not-broken-yet-but-there-are-alternatives/)
+|
 
 **Additional services:**
 
@@ -59,10 +63,10 @@ None
 
 *Metadata standard*
 
-HTML metatags supporting: </br>
-Highwire Press tags </br>
-BE Press tags </br>
-PRISM tags </br>
+HTML metatags supporting: <br>
+Highwire Press tags <br>
+BE Press tags <br>
+PRISM tags <br>
 Dublin Core tags 
 
 *Data file format* 
@@ -102,8 +106,8 @@ None
 
 *SEO/UX requirements*
 
-Depending on the number of papers on the website:<br />
-If small amount: all articles should be listed on 1 page<br />
-If thousands: the website should contain full list of all articles ordered by publication or entry date<br />
-If more than 100 000: specific browsing interface with the last updates<br />
+Depending on the number of papers on the website: <br>
+If small amount: all articles should be listed on 1 page<br>
+If thousands: the website should contain full list of all articles ordered by publication or entry date <br>
+If more than 100 000: specific browsing interface with the last updates <br>
 If robots.txt is used, the file should be configured to allow GScholar robots crawling
