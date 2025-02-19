@@ -32,8 +32,7 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 | **Index sources** | Any website with scholarly articles and proper URL |
 | **Supported standards** | HTML meta tags supporting: <br> Highwire Press tags <br> BE Press tags <br> PRISM tags <br> Dublin Core tags |
 | **Contact Address for Providers** | None |
-| **Bibliodiversity support** | No limitation on the language of the content or the publishing business model. <br> Indexing based on web crawling with no quality assessment (collects also IA generated content). <br> Opaque ranking rules bringing more visibility to most cited papers, which further increase the citations of English-speaking papers. <br> [https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/22/google-scholar-is-not-broken-yet-but-there-are-alternatives/](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/22/google-scholar-is-not-broken-yet-but-there-are-alternatives/)
-|
+| **Bibliodiversity support** | No limitation on the language of the content or the publishing business model. <br> Indexing based on web crawling with no quality assessment (collects also IA generated content). <br> Opaque ranking rules bringing more visibility to most cited papers, which further increase the citations of English-speaking papers. <br> [https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/22/google-scholar-is-not-broken-yet-but-there-are-alternatives/](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/22/google-scholar-is-not-broken-yet-but-there-are-alternatives/)|
 
 **Additional services:**
 
