@@ -128,7 +128,8 @@ Not communicated
 
 Sending full text is not mandatory, if published elsewhere. 
 Detailed specifications related to the full text PDF upload are described in the "Journal Content delivery guidelines": 
-https://www.ebsco.com/sites/default/files/acquiadam-assets/Journal_Content_Delivery_Guidelines.pdf 
+
+[https://www.ebsco.com/sites/default/files/acquiadam-assets/Journal_Content_Delivery_Guidelines.pdf](https://www.ebsco.com/sites/default/files/acquiadam-assets/Journal_Content_Delivery_Guidelines.pdf)
 
 *SEO/UX requirements*
 
