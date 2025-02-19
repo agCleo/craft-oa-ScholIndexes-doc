@@ -31,7 +31,7 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 | **Full text** | Link to the Full text |
 | **Index sources** | Crossref, PubMed, Europe PubMed Central, arXiv, J-STAGE and direct contacts with more than 130 publishers |
 | **Supported standards** | Not communicated |
-| **Bibliodiversity support** | Majority of English Content |
+| **Bibliodiversity support** | Majority of English content |
 
 **Additional services**
 
