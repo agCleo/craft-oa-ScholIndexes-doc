@@ -42,8 +42,7 @@ None
 
 ### Joining Process
 
-Completion of the online application form for journals or e-books and evaluation by the CEEOL’s publisher support team:
-
+Completion of the online application form for journals or e-books and evaluation by the CEEOL’s publisher support team: <br>
 [https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal](https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal)
 
 **Data Collection Process**
