@@ -123,7 +123,9 @@ None
 
 *Other technical specifications*
 
-Dublin core is necessary for OAI-PMH. CORE team also recommends as a better option: RIOXX, a metadata schema dedicated to research outputs. See: https://www.rioxx.net/. 
+Dublin core is necessary for OAI-PMH. CORE team also recommends as a better option: RIOXX, a metadata schema dedicated to research outputs. See: 
+
+https://www.rioxx.net/
 
 *SEO/UX requirements*
 
