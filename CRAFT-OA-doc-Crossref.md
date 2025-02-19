@@ -29,7 +29,7 @@ Crossref is a membership organization with 19K members from commercial and insti
 | **Content geographical provenance** | Any |
 | **Indexing level for publications** | Journals and articles |
 | **Full text** | None |
-| **Index sources** | Source of information for Crossref are the data providers, no aggregation is provided Journals list: [https://www.crossref.org/xref/xml/mddb.xml](https://www.crossref.org/xref/xml/mddb.xml)  |
+| **Index sources** | Source of information for Crossref are the data providers, no aggregation is provided Journals list: <br> [https://www.crossref.org/xref/xml/mddb.xml](https://www.crossref.org/xref/xml/mddb.xml)  |
 | **Supported standards** | Not communicated |
 | **Contact address for providers** | https://support.crossref.org/hc/en-us/requests/new?ticket_form_id=360001642691 (Webform) |
 | **Bibliodiversity support** | Over 21 000 members in 160 countries around the world. Subscription fees for publishers and publishing services, based on the number of DOIs created. |
@@ -69,7 +69,9 @@ None
 
 *Metadata standard*
 
-Crossref standard XML schema for various objects: [https://www.crossref.org/documentation/schema-library/metadata-deposit-schema-5-3-1/](https://www.crossref.org/documentation/schema-library/metadata-deposit-schema-5-3-1/) 
+Crossref standard XML schema for various objects: 
+
+[https://www.crossref.org/documentation/schema-library/metadata-deposit-schema-5-3-1/](https://www.crossref.org/documentation/schema-library/metadata-deposit-schema-5-3-1/) 
 
 *Data file format*
 
@@ -108,6 +110,7 @@ Additional components of the publication (e.g. tables, figures etc.)
 *Other technical specifications*
 
 List of metadata required for books, articles, datasets:  
+
 [https://www.crossref.org/documentation/schema-library/required-recommended-elements/](https://www.crossref.org/documentation/schema-library/required-recommended-elements/) 
 
 *SEO/UX requirements*
