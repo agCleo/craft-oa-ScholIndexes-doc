@@ -46,7 +46,7 @@ Online annotation tool:
     
 GoTriple APIs: <br>
 Endpoint: [https://api.gotriple.eu/](https://api.gotriple.eu/) <br>
-Documentation: [https://zenodo.org/records/7371832](https://zenodo.org/records/7371832) 
+API Documentation: [https://zenodo.org/records/7371832](https://zenodo.org/records/7371832) 
 
 ## Requirements for Academic Publications
 
