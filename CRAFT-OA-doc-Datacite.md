@@ -52,7 +52,9 @@ Upon submission by registered institutional users. The organizational membership
 
 [https://formstack.io/50D06](https://formstack.io/50D06)  
 
-It's also possible to contact directly the datacite support to have more informations about joining options: support@datacite.org 
+It's also possible to contact directly the datacite support to have more informations about joining options: 
+
+support@datacite.org 
 
 **Data Collection Process**
 
