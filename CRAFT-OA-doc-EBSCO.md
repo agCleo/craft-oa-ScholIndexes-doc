@@ -42,19 +42,23 @@ EBSCO Academic Search Ultimate:
 
 EBSCOhost (EBSCO eBook Collection, EBSCO Academic Collection, EBSCO eBook Open Access Collection):  
 
-https://www.ebsco.com/products/ebscohost-research-platform
+[https://www.ebsco.com/products/ebscohost-research-platform](https://www.ebsco.com/products/ebscohost-research-platform)
 
 EBSCO Discovery Service:  
 
-https://www.ebsco.com/products/ebsco-discovery-service 
+[https://www.ebsco.com/products/ebsco-discovery-service](https://www.ebsco.com/products/ebsco-discovery-service)
 
 ## Requirements for Academic Publications
 
 ### Joining Process
 
-Publishers first contact the EBSCO Publishers Operation team to learn about indexing conditions and process at: [https://www.ebsco.com/publishers-partnerships/journal-subscription-services/support](https://www.ebsco.com/publishers-partnerships/journal-subscription-services/support).
+Publishers first contact the EBSCO Publishers Operation team to learn about indexing conditions and process at: 
 
-First indexing request through a webform: [https://www.ebsco.com/publishers-partnerships/full-text-licensed-databases-contact-form](https://www.ebsco.com/publishers-partnerships/full-text-licensed-databases-contact-form) 
+[https://www.ebsco.com/publishers-partnerships/journal-subscription-services/support](https://www.ebsco.com/publishers-partnerships/journal-subscription-services/support).
+
+First indexing request through a webform: 
+
+[https://www.ebsco.com/publishers-partnerships/full-text-licensed-databases-contact-form](https://www.ebsco.com/publishers-partnerships/full-text-licensed-databases-contact-form) 
 
 **Data Collection Process**
 
