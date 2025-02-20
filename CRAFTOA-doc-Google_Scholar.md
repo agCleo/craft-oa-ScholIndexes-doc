@@ -36,9 +36,13 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 
 **Additional services:**
 
-Google scholar Metrics (visibility and influence of recent articles in scholarly publications): [https://scholar.google.com/intl/fr/scholar/metrics.html](https://scholar.google.com/intl/fr/scholar/metrics.html) 
+Google scholar Metrics (visibility and influence of recent articles in scholarly publications): 
 
-Google scholar Profiles (showcase of authors publications): [https://scholar.google.com/intl/fr/scholar/citations.html](https://scholar.google.com/intl/fr/scholar/citations.html) 
+[https://scholar.google.com/intl/fr/scholar/metrics.html](https://scholar.google.com/intl/fr/scholar/metrics.html) 
+
+Google scholar Profiles (showcase of authors publications): 
+
+[https://scholar.google.com/intl/fr/scholar/citations.html](https://scholar.google.com/intl/fr/scholar/citations.html) 
 
 ## Requirements for academic publications
 
