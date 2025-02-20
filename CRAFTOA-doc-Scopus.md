@@ -34,17 +34,22 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | **Contact address for providers** | https://service.elsevier.com/app/contact/supporthub/scopus/ (Webform) |
 | **Bibliodiversity support** | Uses of journal metrics (CiteScore).  <br /> Abstract and article titles in english. Scopus is considered to reference a low rate of “research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences”[^1]. |
 
-**Additional services**  
-Scopus AI (Search tool powered by generative AI):  
+**Additional services** 
+
+Scopus AI (Search tool powered by generative AI): 
+
 [https://www.elsevier.com/products/scopus/scopus-ai](https://www.elsevier.com/products/scopus/scopus-ai)
 
  Scopus Author Profiles (Output and influence of researchers and institutions):  
+ 
 [https://www.elsevier.com/products/scopus/author-profiles](https://www.elsevier.com/products/scopus/author-profiles)
 
-Scopus Metrics (CiteScore):  
+Scopus Metrics (CiteScore): 
+
 [https://www.elsevier.com/products/scopus/metrics\#3-citescore](https://www.elsevier.com/products/scopus/metrics\#3-citescore)
 
 Scopus API and data:   
+
 [https://www.elsevier.com/products/scopus/data\#2-scopus-apis](https://www.elsevier.com/products/scopus/data\#2-scopus-apis) 
 
 ## Requirements for Academic Publications
