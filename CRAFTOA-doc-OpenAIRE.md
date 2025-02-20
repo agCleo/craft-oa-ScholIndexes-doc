@@ -86,7 +86,7 @@ None
 
 *Metadata file format*
 
-XML (for data collection)
+XML (for metadata collection)
 
 *Metadata mandatory fields*
 
