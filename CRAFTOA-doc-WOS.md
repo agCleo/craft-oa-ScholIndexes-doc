@@ -74,8 +74,7 @@ Journals metadata is collected upon manual submission from the publishers. Artic
 
 *Journal and Publishing History*
 
-Timeliness or Publication Volume (the journal must state whether it has defined a publication frequency or if it operates under an irregular or continuous publication schedule  
-The journal must conform to the stated schedule)
+Timeliness or Publication Volume (the journal must state whether it has defined a publication frequency or if it operates under an irregular or continuous publication schedule. The journal must conform to the stated schedule)
 
 *Editorial Board*
 
