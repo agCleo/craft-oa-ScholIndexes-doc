@@ -32,26 +32,37 @@ The Web of Science (WoS) is a paid-access platform that provides access to multi
 | **Index sources** | Journals' own information <br />Others (not communicated) |
 | **Supported standards** | Not communicated |
 | **Contact address for providers** | https://support.clarivate.com/ScientificandAcademicResearch/s/Product-or-technical-question?language=en_US&product=Master%20Journal%20List&product-group=Web%20of%20Science%20Platform (Webform)|
-| **Bibliodiversity support** | The evaluation includes the prestige dimension with the use of impact factor.  <br />WoS is considered to reference a low rate of "research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences"[^1]. |
+| **Bibliodiversity support** | The evaluation includes the prestige dimension with the use of impact factor.  <br> WoS is considered to reference a low rate of "research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences"[^1]. |
 
 **Additional services**
 
 EndNote (reference management software):  
+
 [https://access.clarivate.com/login?app=endnote](https://access.clarivate.com/login?app=endnote)
 
 RefWorks (tool for citation, bibliography and reference management):  
+
 [https://about.proquest.com/en/products-services/refworks/](https://about.proquest.com/en/products-services/refworks/)
 
 ScholarOne (Journal Workflow Management Software):  
+
 [https://clarivate.com/products/scientific-and-academic-research/research-publishing-solutions/scholarone/](https://clarivate.com/products/scientific-and-academic-research/research-publishing-solutions/scholarone/)
 
 ## Requirements for Academic Publications
 
 ### Joining Process
 
-Acces governed by a 2-step process detailed here: [https://clarivate.com/products/scientific-and-academic-research/research-publishing-solutions/publisher-portal/newusers/](https://clarivate.com/products/scientific-and-academic-research/research-publishing-solutions/publisher-portal/newusers/)
-1st step: Creation of a user account with your institutional email address: [https://access.clarivate.com/register?app=wpp\&referrer=%2Fwpp%2Fhom](https://access.clarivate.com/register?app=wpp\&referrer=%2Fwpp%2Fhome)  
-2nd step: Request access to the publisher portal: [https://support.clarivate.com/ScientificandAcademicResearch/s/publisher-portal-access-request?language=en\_US](https://support.clarivate.com/ScientificandAcademicResearch/s/publisher-portal-access-request?language=en\_US)
+Acces governed by a 2-step process detailed here:
+
+[https://clarivate.com/products/scientific-and-academic-research/research-publishing-solutions/publisher-portal/newusers/](https://clarivate.com/products/scientific-and-academic-research/research-publishing-solutions/publisher-portal/newusers/)
+
+1st step: Creation of a user account with your institutional email address: 
+
+[https://access.clarivate.com/register?app=wpp\&referrer=%2Fwpp%2Fhom](https://access.clarivate.com/register?app=wpp\&referrer=%2Fwpp%2Fhome) 
+
+2nd step: Request access to the publisher portal: 
+
+[https://support.clarivate.com/ScientificandAcademicResearch/s/publisher-portal-access-request?language=en\_US](https://support.clarivate.com/ScientificandAcademicResearch/s/publisher-portal-access-request?language=en\_US)
 
 **Data Collection process**
 
