@@ -128,7 +128,7 @@ Full list of metadata recommended :
 
 *Metadata optionnal fields*
 
-Full list of metadata optionnal : 
+Full list of optional metadata: 
 
 [https://www.ncbi.nlm.nih.gov/books/NBK3828/#publisherhelp.Example_of_a_Standard_XML](https://www.ncbi.nlm.nih.gov/books/NBK3828/#publisherhelp.Example_of_a_Standard_XML)
 
