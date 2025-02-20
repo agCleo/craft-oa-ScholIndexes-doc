@@ -35,16 +35,21 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 | **Bibliodiversity support** | Website available only in English. English mandatory for abstracts and titles. Content from all countries and languages (mainly in English) in open and restricted access. |
 
 **Additional services:**  
+
 NLM Gateway (Web-based metasearch engine for many resources of the National Library of Medicine (NLM)):   
+
 [https://www.nlm.nih.gov/](https://www.nlm.nih.gov/) 
 
 Bookshelf Free online access to books and documents in life science and healthcare):  
+
 [https://www.ncbi.nlm.nih.gov/books/](https://www.ncbi.nlm.nih.gov/books/)
 
 PubMed Central (free full-text archive of biomedical and life sciences journal literature):  
+
 [https://www.ncbi.nlm.nih.gov/pmc/?db=PMC](https://www.ncbi.nlm.nih.gov/pmc/?db=PMC) 
 
 PubChem (Collection of freely accessible chemical information: chemical and physical properties, biological activities, citations and more):  
+
 [https://pubchem.ncbi.nlm.nih.gov/](https://pubchem.ncbi.nlm.nih.gov/) 
 
 ## Requirements for Academic Publications
