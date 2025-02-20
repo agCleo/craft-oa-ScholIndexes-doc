@@ -56,12 +56,19 @@ PubChem (Collection of freely accessible chemical information: chemical and phys
 
 ### Joining Process
 
-Completion of an application form for journal suggestion after registration on the platform. ([https://www.ncbi.nlm.nih.gov/medline/publisherportal/](https://www.ncbi.nlm.nih.gov/medline/publisherportal/))   
-Journals must successfully pass both a Scientific Quality Review and a Technical and Indexing Requirements Check to be indexed (more informations in the criteria documentation:  [https://www.nlm.nih.gov/medline/medline\_how\_to\_include.html\#scientificquality](https://www.nlm.nih.gov/medline/medline\_how\_to\_include.html\#scientificquality) .) 
+Completion of an application form for journal suggestion after registration on the platform:
+
+([https://www.ncbi.nlm.nih.gov/medline/publisherportal/](https://www.ncbi.nlm.nih.gov/medline/publisherportal/))   
+
+Journals must successfully pass both a Scientific Quality Review and a Technical and Indexing Requirements Check to be indexed (more informations in the criteria documentation:
+
+[https://www.nlm.nih.gov/medline/medline\_how\_to\_include.html\#scientificquality](https://www.nlm.nih.gov/medline/medline\_how\_to\_include.html\#scientificquality) .) 
 
 **Data Collection process**
 
-Journals and articles metadata are collected upon submission. Publishers of journals in PubMed must submit citations and abstract data electronically. PubMed only accepts citation and abstract data uploaded by Secure File Transfer Protocol (SFTP) in the PubMed XML tagged format described here: [https://www.ncbi.nlm.nih.gov/books/NBK3828/\#publisherhelp.PubMed\_XML\_Tagged\_Format](https://www.ncbi.nlm.nih.gov/books/NBK3828/\#publisherhelp.PubMed\_XML\_Tagged\_Format) 
+Journals and articles metadata are collected upon submission. Publishers of journals in PubMed must submit citations and abstract data electronically. PubMed only accepts citation and abstract data uploaded by Secure File Transfer Protocol (SFTP) in the PubMed XML tagged format described here: 
+
+[https://www.ncbi.nlm.nih.gov/books/NBK3828/\#publisherhelp.PubMed\_XML\_Tagged\_Format](https://www.ncbi.nlm.nih.gov/books/NBK3828/\#publisherhelp.PubMed\_XML\_Tagged\_Format) 
 
 ### Minimum Requirements
 
