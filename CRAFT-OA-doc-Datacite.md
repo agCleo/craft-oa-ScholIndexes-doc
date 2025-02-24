@@ -32,7 +32,7 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | **Index sources** | Main sources include the "Datacite service providers": [https://datacite.org/service-providers/](https://datacite.org/service-providers/) Any Datacite member can be a provider of Datacite metadata  |
 | **Supported standards** | DataCite Metadata Schema: [https://schema.datacite.org/](https://schema.datacite.org/)  |
 | **Contact address for providers** | Contact e-mail: https://www.dimensions.ai/contact-us/ |
-| **Bibliodiversity support** | None |
+| **Bibliodiversity support** | No limitation for country, langage, discipline and access right. Over 1400 organizations from 57 countries are connected through datacite around the world. Annual membership fee and additional service fee for DOI. |
 
 **Additional services**
 
