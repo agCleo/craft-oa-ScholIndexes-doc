@@ -32,7 +32,7 @@ Crossref is a membership organization with 19K members from commercial and insti
 | **Index sources** | Source of information for Crossref are the data providers, no aggregation is provided Journals list: <br> [https://www.crossref.org/xref/xml/mddb.xml](https://www.crossref.org/xref/xml/mddb.xml)  |
 | **Supported standards** | Not communicated |
 | **Contact address for providers** | https://support.crossref.org/hc/en-us/requests/new?ticket_form_id=360001642691 (Webform) |
-| **Bibliodiversity support** | Over 21 000 members in 160 countries around the world. Subscription fees for publishers and publishing services, based on the number of DOIs created. |
+| **Bibliodiversity support** | No limitation for country, langage, discipline and access right. Over 21 000 members in 160 countries around the world. Subscription fees for publishers and publishing services, based on the number of DOIs created. |
 
 **Additional services**
 
