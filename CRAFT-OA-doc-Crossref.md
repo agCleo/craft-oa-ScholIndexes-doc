@@ -16,7 +16,7 @@ Crossref is a membership organization with 19K members from commercial and insti
 | **Scope** | Any |
 | **Number of items** | 150 M records of metadata |
 | **Access for index users** | Free |
-| **Access for index data providers** | Subscription fees |
+| **Access for index data providers** | Subscription fees dependant of the kinds of community participation (annual membership fees and content registration fees for members, optional member fees for Similarity Check, and annual subscription fees for Metadata Plus). See full description: https://www.crossref.org/fees/#annual-membership-fees |
 | **Documentation** |https://www.crossref.org/documentation/principles-practices/|
 | **Application form for providers** | [https://www.crossref.org/\_apply/member/](https://www.crossref.org/_apply/member/) |
 
