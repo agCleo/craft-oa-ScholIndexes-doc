@@ -1,6 +1,6 @@
 # Crossref
 
-*Last version: 2025-02-17*
+*Last version: 2025-03-04*
 
 Crossref is a membership organization with 19K members from commercial and institutional publishing. Crossref's main service is the linking of citing and cited publications. Participating publishers register Crossref DOIs and submit metadata of their own publications. 
 
