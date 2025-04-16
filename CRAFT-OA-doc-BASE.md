@@ -1,6 +1,6 @@
 # BASE
 
-*Last version: 2024-12-26*
+*Last version: 2025-04-16*
 
 Indexes the metadata of all kinds of academically relevant resources – journals, institutional repositories, digital collections etc. – which provide an OAI interface and use OAI-PMH for providing their contents.
 
@@ -44,7 +44,9 @@ BASE API:
 
 ### Joining Process
 
-Suggest of an OAI-PMH via an online form on BASE website and Automated collection of OAI-PMH repository listed in directories
+Two options:
+1. Suggestion of an OAI-PMH repository via an online form on BASE website 
+2. Automated collection of OAI-PMH repository listed in directories
 
 **Data Collection Process**
 
