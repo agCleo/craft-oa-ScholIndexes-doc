@@ -1,4 +1,4 @@
-# Index Documentation: Entry model for Github
+# Redalyc
 
 *Last version: 2025-04-22*
 
