@@ -1,6 +1,6 @@
 # Index Documentation: Entry model for Github
 
-Last version: 2025-04-22
+*Last version: 2025-04-22*
 
 Diamond open access journal indexing service. Quality index and full-text repository for Diamond OA journals. As a technology provider, Redalyc supports publishers in adopting digital technology to increase their level of technical maturity and sustainability. One main aspect is, for example, the adoption of JATS XML, simplifying the processes for article submission and inclusion in the Redalyc indexing system. Based on JATS XML Redalyc provides additional services, such as visualising usage metrics, linked open data, and increasing the discoverability and reach of journals and their content.
 
