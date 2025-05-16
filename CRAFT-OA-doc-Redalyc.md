@@ -125,8 +125,7 @@ Relations
 Rights
 
 ### Additional Criteria
-
-*(Same categories as minimum requirements)*  
+ 
 **Editorial additional specifications**  
 Nine qualitative criteria will be evaluated by the index as mandatory. 59 criteria are evaluated in total, as can be found here:  
  [https://www.redalyc.org/postulacion.oa?q=criterios](https://www.redalyc.org/postulacion.oa?q=criterios)
