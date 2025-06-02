@@ -1,6 +1,6 @@
-# Index Documentation: Entry model for Github
+# ROAD
 
-Last version: 2025-01-15
+*Last version: 2025-06-02*
 
 ROAD provides a free access to those ISSN bibliographic records which describe scholarly resources in Open Access: journals, monographic series, conference proceedings, academic repositories and scholarly blogs. These records, created by the ISSN Network (93 National Centres worldwide \+ the International Centre), are enriched by information extracted from indexing and abstracting databases, directories (e.g. DOAJ, Latindex, The Keepers registry) and journals indicators (e.g. Scopus). ROAD only accepts journals with an ISSN.
 
@@ -55,35 +55,36 @@ ISSN-L record complete data view
 Publishers register journals through ISSN National centers (the options to get ISSN depends on the National Center; International organisations could register periodicals through ISSN International center)
 
 **Data Collection Process**  
+
 Publisher register its journal through ISSN National Centre, and ROAD collects the data automatically from the ISSN centre
 
 ### Minimum Requirements
 
 **Editorial minimum requirements**
 
-\- Types of resources: ROAD includes any type of scholarly resources: journals, blogs, monographic series, conferences, institutional repositories, ongoing integrating resources like databases.
+Types of resources: ROAD includes any type of scholarly resources: journals, blogs, monographic series, conferences, institutional repositories, ongoing integrating resources like databases.
 
-\- Accessibility: All content must be open access, excluding the need for registration.The resource must have a dedicated URL. (See Locating the resource).
+Accessibility: All content must be open access, excluding the need for registration.The resource must have a dedicated URL. (See Locating the resource).
 
-\- Licence statement: The open licence and open access policy should be described on the website.
+Licence statement: The open licence and open access policy should be described on the website.
 
-\- Definition of the resource: The resource should describe its aim or editorial line, its thematic coverage and its target audience, which should be primarily research level.
+Definition of the resource: The resource should describe its aim or editorial line, its thematic coverage and its target audience, which should be primarily research level.
 
-\- Content: The content must be of academic or scholarly nature in all fields of knowledge. Each issue of the resource must contain at least five (5) articles (originals, review articles or essays).
+Content: The content must be of academic or scholarly nature in all fields of knowledge. Each issue of the resource must contain at least five (5) articles (originals, review articles or essays).
 
-\- Editorial responsibility: The resource should mention by name the person who has editorial and scholarly responsibility and who manages the publication.
+Editorial responsibility: The resource should mention by name the person who has editorial and scholarly responsibility and who manages the publication.
 
-\- Academic affiliation: The resource must have a clearly expressed academic affiliation (full name, location).
+Academic affiliation: The resource must have a clearly expressed academic affiliation (full name, location).
 
-\- Publishing entity of the resource: Journals should prominently state the name of the issuing body or institution, as well as its full physical address and website.
+Publishing entity of the resource: Journals should prominently state the name of the issuing body or institution, as well as its full physical address and website.
 
-\- Locating the resource: The country indicated on the ISSN or ROAD application form and on the website of the resource is the country where the publisher or issuing body is registered and carries out its academic and publishing activities.
+Locating the resource: The country indicated on the ISSN or ROAD application form and on the website of the resource is the country where the publisher or issuing body is registered and carries out its academic and publishing activities.
 
-\- Peer review: For journals, the procedure used for the selection of articles for publication should be detailed on the journal's website.
+Peer review: For journals, the procedure used for the selection of articles for publication should be detailed on the journal's website.
 
-\- Code of ethics and indexing: The journal should mention the standards or codes of ethics it uses (COPE, OASPA, Think. Check. Submit., ...) and the indexing services that list it.
+Code of ethics and indexing: The journal should mention the standards or codes of ethics it uses (COPE, OASPA, Think. Check. Submit., ...) and the indexing services that list it.
 
-\- Instructions to authors: The journal should provide clear and comprehensive instructions to authors, including information on copyright and publication fees. If there are no fees, this should be clearly stated.
+Instructions to authors: The journal should provide clear and comprehensive instructions to authors, including information on copyright and publication fees. If there are no fees, this should be clearly stated.
 
 **Technical minimum requirements**
 
