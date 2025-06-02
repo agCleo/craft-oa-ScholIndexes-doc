@@ -17,7 +17,7 @@ ROAD provides a free access to those ISSN bibliographic records which describe s
 | **Number of items** | More than 64 000 OpenAccess publications |
 | **Access for index users** | Free for simple and advanced search Subscription required for additional services |
 | **Access for index data providers** | Access to ROAD is free but a paid-ISSN is required |
-| **Documentation** | Guidelines for publishers: [https://portal.issn.org/sites/default/files/guidelinespublishers\_merged-eng-final.pdf](https://portal.issn.org/sites/default/files/guidelinespublishers_merged-eng-final.pdf) <br> Manual for ISSN registration: [https://www.issn.org/wp-content/uploads/2025/05/ISSN\_Manual\_pdf\_en.html](https://www.issn.org/wp-content/uploads/2025/05/ISSN_Manual_pdf_en.html) |
+| **Documentation** | Guidelines for publishers: <br> [https://portal.issn.org/sites/default/files/guidelinespublishers\_merged-eng-final.pdf](https://portal.issn.org/sites/default/files/guidelinespublishers_merged-eng-final.pdf) <br> Manual for ISSN registration: <br> [https://www.issn.org/wp-content/uploads/2025/05/ISSN\_Manual\_pdf\_en.html](https://www.issn.org/wp-content/uploads/2025/05/ISSN_Manual_pdf_en.html) |
 | **Application form for providers** | [https://portal.issn.org/requesting-issn](https://portal.issn.org/requesting-issn) |
 
 ## Content and Service
