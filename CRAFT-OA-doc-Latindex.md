@@ -111,11 +111,11 @@ Keywords
 Keywords in 2 languages
 
 *Metadata optional fields*  
-none
+None
 
 *Other technical specifications*
 
-none
+None
 
 *SEO/UX requirements*
 
