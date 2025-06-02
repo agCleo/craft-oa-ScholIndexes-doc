@@ -127,17 +127,21 @@ Rights
 ### Additional Criteria
  
 **Editorial additional specifications**  
+
 Nine qualitative criteria will be evaluated by the index as mandatory. 59 criteria are evaluated in total, as can be found here:  
  [https://www.redalyc.org/postulacion.oa?q=criterios](https://www.redalyc.org/postulacion.oa?q=criterios)
 
 **Technical additional specifications**
 
 *Metadata recommended fields*  
+
 Complete list and explanations on quantitative highly valued criteria can be found here:  
 [https://www.redalyc.org/postulacion.oa?q=criterios](https://www.redalyc.org/postulacion.oa?q=criterios)  
+
 *Metadata optional fields*
 
 Redalyc\&AmeliCA knowledge base by SDGs such as: [http://sparql.amelica.org/knowledgebase/climateaction/datastore](http://sparql.amelica.org/knowledgebase/climateaction/datastore) 
 
 *SEO/UX requirements*  
+
 Some highly valued criteria are SEO/UX requirements: [https://www.redalyc.org/postulacion.oa?q=criterios](https://www.redalyc.org/postulacion.oa?q=criterios)
