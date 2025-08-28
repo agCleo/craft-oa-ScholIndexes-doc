@@ -1,6 +1,6 @@
 # Datacite
 
-Datacite enables the creation and management of DOI persistent identifiers (PIDs), integrates services to improve research workflows, and facilitates the discovery and reuse of research outputs and resources with metadata that connects research outputs and resources?from samples and images to data and preprints. 
+Datacite enables the creation and management of DOI persistent identifiers (PIDs), integrates services to improve research workflows, and facilitates the discovery and reuse of research outputs and resources with metadata that connects research outputs and resources-from samples and images to data and preprints. 
 
 
 ## SERVICE DESCRIPTION
@@ -15,7 +15,7 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 | Launch year | 2009 |
 | Scope | Any |
 | Access for index users | Free |
-| Access for data providers | Organizational membership only<br>Membership Fee ? 2.000?/year<br>Organization Fee ? 500?/year<br>DOI Fee ? depends on annual DOI range |
+| Access for data providers | Organizational membership only<br>Membership Fee - 2.000?/year<br>Organization Fee - 500?/year<br>DOI Fee - depends on annual DOI range |
 | Number of indexed items | Above 50 million DOIs and metadata records |
 | Documentation: general | About: https://support.datacite.org/ |
 | Documentation: technical | Documentation for Service Providers: https://support.datacite.org/docs/best-practices-for-service-providers <br>Documentation for developers: https://support.datacite.org/docs/api <br>API: https://support.datacite.org/reference/introduction    |
