@@ -40,7 +40,7 @@ Searchable bibliographic index that displays full text and metadata of scholarly
 
 | Element | Description |
 | :- | :- |
-| Joining options | Google Scholar uses automated software, known as ?robots? or ?crawlers?, to fetch files for inclusion in the search results. The journal?s website needs to be structured in a way that makes it possible to ?crawl? in this manner. Automatic crawlers need to be able to discover and fetch the URLs of all articles, as well as to periodically refresh their content from the journal website. |
+| Joining options | Google Scholar uses automated software, known as "robots" or "crawlers", to fetch files for inclusion in the search results. The journal's website needs to be structured in a way that makes it possible to "crawl" in this manner. Automatic crawlers need to be able to discover and fetch the URLs of all articles, as well as to periodically refresh their content from the journal website. |
 | Data collection process | Web crawling |
 | Application form for providers | None |
 | Contact information | None |
