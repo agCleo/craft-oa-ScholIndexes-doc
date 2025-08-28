@@ -53,7 +53,7 @@ Diamond open access journal indexing service. Quality index and full-text reposi
 | Data file format | PDF or XML JATS is required. Redalyc provides ePUB, HTML, and article readers.  |
 | Metadata standard | XML JATS, Dublin Core, SPARQL |
 | Metadata file format | XML JATS, OAI-PMH |
-| Minimum metadata | Header <br>identifier: composed of a prefix followed by a Redalyc?s id <br>datestamp: the day since it was available on the web <br>setSpec: the Redalyc?s id of journals<br>Metadata <br>Redalyc covers the following DC elements:  <br>Title <br>Creator <br>Subject<br>Contributor<br>Publisher<br>Date<br>Type<br>Format<br>Identifier<br>Relations<br>Rights |
+| Minimum metadata | Header <br>identifier: composed of a prefix followed by a Redalyc's id <br>datestamp: the day since it was available on the web <br>setSpec: the Redalyc's id of journals<br>Metadata <br>Redalyc covers the following DC elements:  <br>Title <br>Creator <br>Subject<br>Contributor<br>Publisher<br>Date<br>Type<br>Format<br>Identifier<br>Relations<br>Rights |
 
 ## ADDITIONAL CRITERIA
 
