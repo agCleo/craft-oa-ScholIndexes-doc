@@ -41,7 +41,7 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 | Element | Description |
 | :- | :- |
 | Joining options | By joining one of the datasources mentionned in the index sources |
-| Data collection process | Collection of data from other databases. <br>The data is converted to a common data model, cleaned, and then enriched so it is ready for use. The enrichment steps include disambiguation of people (?Researchers?) and Organizations, and categorizing the data into topics (?Categories?) through machine-learning based algorithmic classification. |
+| Data collection process | Collection of data from other databases. <br>The data is converted to a common data model, cleaned, and then enriched so it is ready for use. The enrichment steps include disambiguation of people ("Researchers") and Organizations, and categorizing the data into topics ("Categories") through machine-learning based algorithmic classification. |
 | Application form for providers | None |
 | Contact information | Contact e-mail: https://www.dimensions.ai/contact-us/ |
 
