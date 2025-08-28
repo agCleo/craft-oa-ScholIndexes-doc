@@ -1,130 +1,74 @@
 # Datacite
 
-*Last version: 2025-02-18*
+Datacite enables the creation and management of DOI persistent identifiers (PIDs), integrates services to improve research workflows, and facilitates the discovery and reuse of research outputs and resources with metadata that connects research outputs and resources?from samples and images to data and preprints. 
 
-Datacite enables the creation and management of DOI persistent identifiers (PIDs), integrates services to improve research workflows, and facilitates the discovery and reuse of research outputs and resources with metadata that connects research outputs and resources–from samples and images to data and preprints. 
 
-## General Information
+## SERVICE DESCRIPTION
 
+| Element | Description |
+| :- | :- |
 | Name | DataCite |
-| :---- | :---- |
-| **Website** | https://datacite.org/ |
-| **Owner** | DataCite \- International Data Citation Initiative |
-| **Owner type** | Non-profit international organization |
-| **Owner country** | Germany |
-| **Launch year** | 2009 |
-| **Scope** | Any |
-| **Number of items** | Above 50 million DOIs and metadata records |
-| **Access for index users** | Free |
-| **Access for index data providers** | Organizational membership only Membership Fee <br> 2.000€/year Organization Fee <br> 500€/year DOI Fee depends on annual DOI range |
-| **Documentation** | https://support.datacite.org/docs/best-practices-for-service-providers |
-| **Application form for providers** | Form to become a Datacite member: [https://formstack.io/50D06](https://formstack.io/50D06)  |
+| Website | https://datacite.org/ |
+| Owner | DataCite - International Data Citation Initiative |
+| Owner type | Non-profit international organization |
+| Owner country | Germany |
+| Launch year | 2009 |
+| Scope | Any |
+| Access for index users | Free |
+| Access for data providers | Organizational membership only<br>Membership Fee ? 2.000?/year<br>Organization Fee ? 500?/year<br>DOI Fee ? depends on annual DOI range |
+| Number of indexed items | Above 50 million DOIs and metadata records |
+| Documentation: general | About: https://support.datacite.org/ |
+| Documentation: technical | Documentation for Service Providers: https://support.datacite.org/docs/best-practices-for-service-providers <br>Documentation for developers: https://support.datacite.org/docs/api <br>API: https://support.datacite.org/reference/introduction    |
 
-## Content and Service
+## SERVICE PROVISION
 
+| Element | Description |
+| :- | :- |
 | Service type | PIDs registration agency |
-| :---- | :---- |
-| **Content type** | Many: dataset, instrument, software, article, book chapter, etc. |
-| **Content language** | Any |
-| **Content geographical provenance** | Any |
-| **Indexing level for publications** | Articles, journals |
-| **Full text** | None |
-| **Index sources** | Main sources include the "Datacite service providers": [https://datacite.org/service-providers/](https://datacite.org/service-providers/) Any Datacite member can be a provider of Datacite metadata  |
-| **Supported standards** | DataCite Metadata Schema: [https://schema.datacite.org/](https://schema.datacite.org/)  |
-| **Contact address for providers** | Contact e-mail: https://www.dimensions.ai/contact-us/ |
-| **Bibliodiversity support** | No limitation for country, langage, discipline and access right. Over 1400 organizations from 57 countries are connected through datacite around the world. Annual membership fee and additional service fee for DOI. |
+| Content type | Many: dataset, instrument, software, article, book chapter, etc. |
+| Content language | Any |
+| Content geographical provenance | Any |
+| Indexing level for publications | Articles, journals |
+| Full text | None |
+| Index sources | Main sources include the "Datacite service providers":<br>https://datacite.org/service-providers/ <br>Any Datacite member can be a provider of Datacite metadata  |
+| Data collected | Metadata |
+| Supported standard | DataCite Metadata Schema: https://schema.datacite.org/  |
+| Bibliodiversity support | No limitation for country, langage, discipline and access right. Over 1400 organizations from 57 countries are connected through datacite around the world. Annual membership fee and additional service fee for DOI. |
+| Additional services | DataCite Fabrica: https://doi.datacite.org/  <br>DataCite REST API: https://support.datacite.org/docs/api  |
 
-**Additional services**
+## INCLUSION PROCESS
 
-DataCite Fabrica:
+| Element | Description |
+| :- | :- |
+| Joining options | Upon submission by registered institutional users. The organizational membership enquiry can be completed here:<br>https://formstack.io/50D06  <br>It's also possible to contact directly the datacite support to have more informations about joining options: support@datacite.org   |
+| Data collection process | As a persistent identifiers registering agency, Datacite collects and updates resource's metadata attached to PIDs.<br>The created PIDs and their attached metadata are sent by Datacite members and recorded in the Datacite registry. |
+| Application form for providers | Form to become a Datacite member: https://formstack.io/50D06  |
+| Contact information | support@datacite.org (more info on https://support.datacite.org/docs/how-to-contact-datacite) |
 
-https://doi.datacite.org/
+## MINIMUM REQUIREMENTS
 
-DataCite REST API: 
+| Element | Description |
+| :- | :- |
+| Editorial | None |
+| Data file format | Formats that can be used to create DOIs and their attached metadata:<br>DataCite XML<br>RIS<br>BibTeX<br>Schema.org <br>JSON-LD<br>Citeproc JSON<br>Codemeta<br>Crossref XML |
+| Metadata standard | DataCite Metadata Schema: https://schema.datacite.org/  |
+| Metadata file format | Same as "data file format" |
+| Minimum metadata | Identifier<br>Creator<br>Title<br>Publisher<br>PublicationYear<br>ResourceType |
 
-https://support.datacite.org/docs/api
+## ADDITIONAL CRITERIA
 
-## Requirements for Academic Publications
+| Element | Description |
+| :- | :- |
+| Editorial Additional Specifications | None |
+| Recommended metadata | Subject<br>Contributor<br>Date<br>RelatedIdentifier<br>Description<br>GeoLocation |
+| Optional metadata | Language<br>AlternateIdentifier<br>Size<br>Format<br>Version<br>FundingReference<br>RelatedItem |
+| Other requirements | None |
+| SEO/UX requirements | None |
 
-### Joining Process
+## INFORMATION SOURCES
 
-Upon submission by registered institutional users. The organizational membership enquiry can be completed here: 
-
-[https://formstack.io/50D06](https://formstack.io/50D06)  
-
-It's also possible to contact directly the datacite support to have more informations about joining options: 
-
-support@datacite.org 
-
-**Data Collection Process**
-
-As a persistent identifiers registering agency, Datacite collects and updates resource's metadata attached to PIDs.  
-The created PIDs and their attached metadata are sent by Datacite members and recorded in the Datacite registry.
-
-### Minimum Requirements
-
-**Editorial minimum requirements**
-
-None
-
-**Technical minimum requirements**
-
-*Metadata standard*
-
-DataCite Metadata Schema: [https://schema.datacite.org/](https://schema.datacite.org/) 
-
-*Data file format* 
-
-Formats that can be used to create DOIs and their attached metadata:  
-DataCite XML  
-RIS  
-BibTeX  
-Schema.org <br>
-JSON-LD  
-Citeproc JSON  
-Codemeta  
-Crossref XML
-
-*Metadata file format*
-
-Same as "data file format"
-
-*Metadata mandatory fields*
-
-Identifier  
-Creator  
-Title  
-Publisher  
-PublicationYear  
-ResourceType
-
-### Additional Criteria
-
-**Editorial additional specifications**
-
-None
-
-**Technical additional specifications**
-
-*Metadata recommended fields*
-
-Subject  
-Contributor  
-Date  
-RelatedIdentifier  
-Description  
-GeoLocation
-
-*Metadata optional fields*
-
-Language  
-AlternateIdentifier  
-Size  
-Format  
-Version  
-FundingReference  
-RelatedItem
-
-*SEO/UX requirements*
-
-None
+| Element | Description |
+| :- | :- |
+| Wikipedia | https://en.wikipedia.org/wiki/DataCite |
+| Index web pages | https://datacite.org/  |
+| Index news page | https://datacite.org/blog/ |
