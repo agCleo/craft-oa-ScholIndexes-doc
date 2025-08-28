@@ -9,7 +9,7 @@ ROAD provides a free access to those ISSN bibliographic records which describe s
 | :- | :- |
 | Name | ROAD (the Directory of Open Acess Scholarly Resources) |
 | Website | https://road.issn.org/ |
-| Owner | The International Centre for the registration of serial publications ? CIEPS, also known as the ISSN International Centre |
+| Owner | The International Centre for the registration of serial publications - CIEPS, also known as the ISSN International Centre |
 | Owner type | Non-profit international organization |
 | Owner country | France |
 | Launch year | December 2013 |
