@@ -40,7 +40,7 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 
 | Element | Description |
 | :- | :- |
-| Joining options | If the publications are not already stored in GoTriple?s data sources, the main option is to register a new data source through the dedicated interface: https://pipeline.gotriple.eu/user/login?destination=/. |
+| Joining options | If the publications are not already stored in GoTriple's data sources, the main option is to register a new data source through the dedicated interface: https://pipeline.gotriple.eu/user/login?destination=/. |
 | Data collection process | In order to be referenced on GoTriple it is necessary to provide a standard access to standard metadata, i.e. providing an OAI-PMH repository with metadata in the standards supported by GoTriple.<br>It is also possible to send a file formatted according to the OpenAIRE format. |
 | Application form for providers | https://pipeline.gotriple.eu/user/login?destination=/ |
 | Contact information | Contact: <br>https://project.gotriple.eu/contact/  <br>Contact adress:<br>triple@operas-eu.org    |
@@ -61,7 +61,7 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 | :- | :- |
 | Editorial Additional Specifications | None |
 | Recommended metadata | Abstract<br>Access rights to the resource<br>Date of publication or creation<br>Keywords<br>Language of the resource<br>License<br>Publisher of the resource<br>Type of the resource<br>URL of the landing page<br>URL of the resource<br>URL of the source |
-| Optional metadata | Contributor to the resource?s creation<br>Format of the resource<br>Information on the source<br>Temporal coverage of the resource<br>Spatial coverage of the resource |
+| Optional metadata | Contributor to the resource's creation<br>Format of the resource<br>Information on the source<br>Temporal coverage of the resource<br>Spatial coverage of the resource |
 | Other requirements | none |
 | SEO/UX requirements | none |
 
