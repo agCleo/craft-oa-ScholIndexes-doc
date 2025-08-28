@@ -33,7 +33,7 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | Index sources | Journals' own information<br>Unpaywall (partial) |
 | Data collected | not communicated |
 | Supported standard | not communicated |
-| Bibliodiversity support | Uses of journal metrics (CiteScore).<br>Abstract and article titles in english. Scopus is considered to reference a low rate of ?research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences? (Tennant JP. Web of Science and Scopus are not global databases of knowledge. European Science Editing 2020;46. DOI: 10.3897/ese.2020.e51987) |
+| Bibliodiversity support | Uses of journal metrics (CiteScore).<br>Abstract and article titles in english. Scopus is considered to reference a low rate of "research produced in non-Western countries, non-English language research, and research from the arts, humanities, and social sciences" (Tennant JP. Web of Science and Scopus are not global databases of knowledge. European Science Editing 2020;46. DOI: 10.3897/ese.2020.e51987) |
 | Additional services | Scopus AI (Search tool powered by generative AI):<br>https://www.elsevier.com/products/scopus/scopus-ai <br><br>Scopus Author Profiles (Output and influence of researchers and institutions):<br>https://www.elsevier.com/products/scopus/author-profiles <br><br>Scopus Metrics (CiteScore):<br>https://www.elsevier.com/products/scopus/metrics#3-citescore <br><br>Scopus API and data:<br>https://www.elsevier.com/products/scopus/data#2-scopus-apis |
 
 ## INCLUSION PROCESS
@@ -41,7 +41,7 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 | Element | Description |
 | :- | :- |
 | Joining options | Application form for journal suggestion to the CSAB (Content Selection and Advisory Board):<br>https://suggestor.step.scopus.com/suggestTitle/step1.cfm and compliance with a set of editorial and technical requirements. |
-| Data collection process | Journals metadata is collected upon manual submission, and the journal?s records are then regularly updated through XML or PDF files retrieval. |
+| Data collection process | Journals metadata is collected upon manual submission, and the journal's records are then regularly updated through XML or PDF files retrieval. |
 | Application form for providers | https://suggestor.step.scopus.com/suggestTitle/step1.cfm  |
 | Contact information | https://service.elsevier.com/app/contact/supporthub/scopus/ |
 
@@ -49,11 +49,11 @@ Abstract and citation database which allows to search papers of peer-reviewed jo
 
 | Element | Description |
 | :- | :- |
-| Editorial | Journals shall have editorial boards or other governing bodies whose members are recognized experts in the subject areas included within the journal?s scope. The full names and affiliations of the journal?s editorial board or other governing body shall be provided on the journal?s website.<br>Journals shall provide the full names and affiliations of the journal?s editors on the journal website as well as contact information for the editorial office, including a full address.<br><br>Be published on a regular basis<br>The periodicity at which a journal publishes shall be clearly indicated.<br>Peer-review content and publicly available description of the peer review process<br>Have a publicly available publication ethics and publication malpractice statement<br>Have content that is relevant for and readable by an international audience, meaning: have English language abstracts and titles<br><br>The policy for copyright shall be clearly stated in the author guidelines and the copyright holder named on all published articles. Likewise, licensing information shall be clearly described in guidelines on the website, and licensing terms shall be indicated on all published articles, both HTML and PDFs. |
+| Editorial | Journals shall have editorial boards or other governing bodies whose members are recognized experts in the subject areas included within the journal's scope. The full names and affiliations of the journal's editorial board or other governing body shall be provided on the journal's website.<br>Journals shall provide the full names and affiliations of the journal's editors on the journal website as well as contact information for the editorial office, including a full address.<br><br>Be published on a regular basis<br>The periodicity at which a journal publishes shall be clearly indicated.<br>Peer-review content and publicly available description of the peer review process<br>Have a publicly available publication ethics and publication malpractice statement<br>Have content that is relevant for and readable by an international audience, meaning: have English language abstracts and titles<br><br>The policy for copyright shall be clearly stated in the author guidelines and the copyright holder named on all published articles. Likewise, licensing information shall be clearly described in guidelines on the website, and licensing terms shall be indicated on all published articles, both HTML and PDFs. |
 | Data file format | PDF<br>HTML |
 | Metadata standard | Not communicated |
 | Metadata file format | Not communicated |
-| Minimum metadata | ISSN (registered with the ISSN international Center)<br>Journal title<br>Abstract<br>Subject (main)<br>Journal?s start year |
+| Minimum metadata | ISSN (registered with the ISSN international Center)<br>Journal title<br>Abstract<br>Subject (main)<br>Journal's start year |
 
 ## ADDITIONAL CRITERIA
 
