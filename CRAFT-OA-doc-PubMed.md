@@ -1,6 +1,6 @@
 # PubMed
 
-PubMed is a free resource supporting the search and retrieval of biomedical and life sciences literature with the aim of improving health?both globally and personally. The PubMed database contains more than 37 million citations and abstracts of biomedical literature. It does not include full text journal articles; however, links to the full text are often present when available from other sources, such as the publisher's website or PubMed Central (PMC).
+PubMed is a free resource supporting the search and retrieval of biomedical and life sciences literature with the aim of improving health-both globally and personally. The PubMed database contains more than 37 million citations and abstracts of biomedical literature. It does not include full text journal articles; however, links to the full text are often present when available from other sources, such as the publisher's website or PubMed Central (PMC).
 
 
 ## SERVICE DESCRIPTION
@@ -49,7 +49,7 @@ PubMed is a free resource supporting the search and retrieval of biomedical and 
 
 | Element | Description |
 | :- | :- |
-| Editorial | The journal must have been published for at least 12 months in the format (print or electronic) that will be used for the review.<br>The journal must have published a minimum of 40 peer-reviewed articles (e.g., original research or review articles, clinical case reports) in final form.<br>The journal must publish abstracts for all peer-reviewed content. At a minimum, all peer-reviewed content published in the past 12 months must contain abstracts.<br>The journal must meet MEDLINE?s language guidelines. |
+| Editorial | The journal must have been published for at least 12 months in the format (print or electronic) that will be used for the review.<br>The journal must have published a minimum of 40 peer-reviewed articles (e.g., original research or review articles, clinical case reports) in final form.<br>The journal must publish abstracts for all peer-reviewed content. At a minimum, all peer-reviewed content published in the past 12 months must contain abstracts.<br>The journal must meet MEDLINE's language guidelines. |
 | Data file format | HTML (no PDF) |
 | Metadata standard | Not communicated |
 | Metadata file format | XML SGML TXT ZIP TAR |
