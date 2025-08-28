@@ -40,7 +40,7 @@ The Central and Eastern European Online Library (CEEOL) is a repository of full 
 
 | Element | Description |
 | :- | :- |
-| Joining options | Completion of the online application form for journals or e-books and evaluation by the CEEOL?s publisher support team. https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal    |
+| Joining options | Completion of the online application form for journals or e-books and evaluation by the CEEOL's publisher support team. https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal    |
 | Data collection process | Upon submission for journals and books |
 | Application form for providers | Application forms:<br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-journal  <br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-to-include-your-ebook <br>https://www.ceeol.com/for-publishers-editors/CEEOL-for-publishers/apply-for-participation-as-publisher  |
 | Contact information | For patrons of libraries and end users: user.support@ceeol.com  <br>For subscribing institutions: subscriber.support@ceeol.com <br>For publishers: publisher.support@ceeol.com <br>For technichal help: technical.support@ceeol.com <br>For any other question: info@ceeol.com  |
