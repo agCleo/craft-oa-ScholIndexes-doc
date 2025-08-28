@@ -40,7 +40,7 @@ The OpenAIRE Graph is an open resource that aggregates a collection of research 
 
 | Element | Description |
 | :- | :- |
-| Joining options | If the publications are not already stored in OpenAIRE?s data source (full list of data sources here: https://explore.openaire.eu/search/find/dataproviders), the main option is to register the data source via OpenAIRE PROVIDE (https://provide.openaire.eu/). The data source must be compliant with the OpenAIRE guidelines (https://guidelines.openaire.eu/). |
+| Joining options | If the publications are not already stored in OpenAIRE's data source (full list of data sources here: https://explore.openaire.eu/search/find/dataproviders), the main option is to register the data source via OpenAIRE PROVIDE (https://provide.openaire.eu/). The data source must be compliant with the OpenAIRE guidelines (https://guidelines.openaire.eu/). |
 | Data collection process | Upon submission by OpenAire PROVIDE<br>Automatic collection of metadata via OAI-PMH and REST APIs. The metadata provided need to follow OpenAIRE guidelines: https://guidelines.openaire.eu/en/latest/ |
 | Application form for providers | https://provide.openaire.eu/home |
 | Contact information | https://www.openaire.eu/helpdesk (Webform) |
