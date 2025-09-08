@@ -1,4 +1,4 @@
-# EBSCO
+# EBSCOHost
 
 EBSCO is a provider of research databases, e-journal and e-package subscription and acquisition management tools, and a provider of library technology and e-books. It provides its services to universities, colleges, hospitals, corporations, government, and public libraries worldwide. EBSCOHost is a closed service which provides access to full-text and includes EBSCO eBook Collection, EBSCO Academic Collection, EBSCO eBook Open Access Collection. EBSCO Discovery Service (EDS) is another service providing bibliographic information about publications. EBSCO provides other services, like for instance, AtoZ or Academic Search Ultimate. While operating mostly for institutions like libraries and universities, EBSCO also operates directly with journals and e-books publishers.
 
