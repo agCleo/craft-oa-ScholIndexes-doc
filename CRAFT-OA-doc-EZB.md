@@ -16,8 +16,8 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 | Access for index users | Free |
 | Access for data providers | Free |
 | Number of indexed items | 120,000 electronic journals |
-| Documentation: general | FAQ: [https://ezb.ur.de/hilfe.phtml?bibid=AAAAA\&colors=7\&lang=en](https://ezb.ur.de/hilfe.phtml?bibid=AAAAA&colors=7&lang=en)  |
-| Documentation: technical | Description of EZB Services: [https://ezb.ur.de/services/index.phtml?bibid=AAAAA\&colors=7\&lang=en](https://ezb.ur.de/services/index.phtml?bibid=AAAAA&colors=7&lang=en)  |
+| Documentation: general | FAQ: [https://ezb.ur.de/hilfe?lang=en](https://ezb.ur.de/hilfe?lang=en)  |
+| Documentation: technical | Description of EZB Services: [https://www.ur-library.de/en/ezb_en/](https://www.ur-library.de/en/ezb_en/)  |
 
 ## SERVICE PROVISION
 
@@ -33,13 +33,13 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 | Data collected | Metadata about scholarly resources |
 | Supported standard | KBART, MARCXML, Dublin Core |
 | Bibliodiversity support | Multilingual indexing, international indexing, free indexing, freely available and subscription journals, all areas of research, German and English user interface |
-| Additional services | "Title lists of journal collections:  [https://ezb.ur.de/services/collections?lang=en](https://ezb.ur.de/services/collections?lang=en)   Title lists of transformative agreements:  [https://ezb.ur.de/services/transformative?lang=en](https://ezb.ur.de/services/transformative?lang=en)      EZB Linking Service (linkresolver):  [https://ezb.ur.de/services/linkingdienst?lang=en](https://ezb.ur.de/services/linkingdienst?lang=en)   More services:  [https://ezb.ur.de/services?lang=en](https://ezb.ur.de/services?lang=en)  |
+| Additional services | "Title lists of journal collections:  [https://ezb.ur.de/services/collections?lang=en](https://ezb.ur.de/services/collections?lang=en)   Title lists of transformative agreements:  [https://ezb.ur.de/services/transformative?lang=en](https://ezb.ur.de/services/transformative?lang=en)      EZB Linking Service (linkresolver):  [https://www.ur-library.de/en/ezb-linking-service/](https://www.ur-library.de/en/ezb-linking-service/)   More services:  [https://ezb.ur.de/services?lang=en](https://www.ur-library.de/en/ezb_en/)  |
 
 ## INCLUSION PROCESS
 
 | Element | Description |
 | :---- | :---- |
-| Joining options | Participating EZB institutions collect journals and journal metadata ([https://ezb.ur.de/services/becomeuser](https://ezb.ur.de/services/becomeuser))  or Publishers have to register and complete an online application form ([https://ezb.ur.de/db\_prop?lang=en](https://ezb.ur.de/db_prop?lang=en)) and participating EZB institutions check, if journal is relevant for researchers |
+| Joining options | Participating EZB institutions collect journals and journal metadata ([https://www.ur-library.de/en/ezb_en/]([https://ezb.ur.de/services/becomeuser]))  or Publishers have to register and complete an online application form ([https://ezb.ur.de/db\_prop?lang=en](https://ezb.ur.de/db_prop?lang=en)) and participating EZB institutions check, if journal is relevant for researchers |
 | Data collection process | Participating institutions collect and maintain journal metadata (e.g., links to journals); Joint editing of journal entries; Discussion via EZB mailing list |
 | Application form for providers | [https://ezb.ur.de/db\_prop?lang=en](https://ezb.ur.de/db_prop?lang=en)  |
 | Contact information | for data provider: [info.ezb@ur.de](mailto:info.ezb@ur.de)  for user: local contact person (at home institution) |
