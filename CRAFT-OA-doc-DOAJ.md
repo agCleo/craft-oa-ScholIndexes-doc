@@ -34,14 +34,14 @@ Community-curated list of peer-reviewed open access journals, maintained by Infr
 | Data collected | Metadata |
 | Supported standard | Dublin Core, DOAJ and Crossref schemas |
 | Bibliodiversity support | World-wide coverage of countries and languages in OA (Gold and Diamond OA) |
-| Additional services | JASPER: <br>https://doaj.org/preservation/ <br><br>Transparency and best practice:<br>https://doaj.org/apply/transparency/ <br><br>Think. Check. Submit.:<br>https://thinkchecksubmit.org/ <br><br>Publishers Learning and Community Exchange:<br>https://theplace.discourse.group/ <br><br>Open Access Journals Toolkit:<br>https://www.oajournals-toolkit.org/fr  |
+| Additional services | JASPER: <br>https://doaj.org/preservation/ <br>Transparency and best practice:<br>https://doaj.org/apply/transparency/ <br>Think. Check. Submit.:<br>https://thinkchecksubmit.org/ <br>Publishers Learning and Community Exchange:<br>https://theplace.discourse.group/ <br>Open Access Journals Toolkit:<br>https://www.oajournals-toolkit.org/fr  |
 
 ## INCLUSION PROCESS
 
 | Element | Description |
 | :- | :- |
 | Joining options | Publishers have to register and complete an online application form: https://doaj.org/account/login?redirected=apply  <br>The admission requires compliance with a set of editorial and technical requirements. |
-| Data collection process | Journal information is recorded during the submission process, through an online web form in the first place.<br><br>Once this submission is validated article information can be then uploaded and updated in various ways:<br><br>Manually on DOAJ's website using a dedicated web form to enter metadata;<br>Through the DOAJ API using JSON files;<br><br>Through XML upload following DOAJ Native XML:<br><br>https://www.doaj.org/static/doaj/doajArticles.xsd<br><br>or Crossref schemas:<br><br>Crossref 5.3.1 XML:<br><br>https://www.doaj.org/static/crossref/crossref5.3.1.xsd<br><br>Crossref 4.4.2 XML:<br><br>https://www.doaj.org/static/crossref/crossref4.4.2.xsd;<br><br>Extensive details about these processes are available here:<br><br>https://doaj.org/docs/faq/ |
+| Data collection process | Journal information is recorded during the submission process, through an online web form in the first place.<br>Once this submission is validated article information can be then uploaded and updated in various ways:<br>Manually on DOAJ's website using a dedicated web form to enter metadata;<br>Through the DOAJ API using JSON files;<br>Through XML upload following DOAJ Native XML:<br>https://www.doaj.org/static/doaj/doajArticles.xsd<br>or Crossref schemas:<br>Crossref 5.3.1 XML:<br>https://www.doaj.org/static/crossref/crossref5.3.1.xsd<br>Crossref 4.4.2 XML:<br>https://www.doaj.org/static/crossref/crossref4.4.2.xsd;<br>Extensive details about these processes are available here:<br>https://doaj.org/docs/faq/ |
 | Application form for providers | https://doaj.org/account/login?redirected=apply |
 | Contact information | helpdesk@doaj.org<br>Contact page: https://doaj.org/contact/ |
 
