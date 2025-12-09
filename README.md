@@ -1,20 +1,21 @@
-# Catalog of documentations about Scholarly Publications Indexes
+# Guide to Scholarly Indexes
 
 ## About 
-This repository contains the documentations catalog about indexes for scholarly publications. It is meant to help publishers understand and select the appropriate index or aggregator for their publications, as well as the requirements they will have to meet.
+This repository contains the Guide to Scholarly Indexes, a catalog of synthetic documentations about indexes for scholarly publications. It is meant to help publishers selecting the appropriate index or aggregator for their publications, as well as understanding the requirements they will have to meet.
+
+The Guide has been established within the [CRAFT-OA](https://www.craft-oa.eu/) Horizon Europe project, a building project of the [European Diamond Capacity Hub](https://diamas.org/).
+
+The European Diamond Capacity Hub (EDCH) and the CRAFT-OA project aim at supporting the publishers and authors following the [Diamond Open Access model](https://diamas.org/diamond-open-access). The Guide to Scholarly Indexes is one aspect of such support.
+
+The Guide also exists as a public spreadsheet stored on Zenodo under the name [Knowledge Base](https://doi.org/10.5281/zenodo.17103786).
    
-The catalog has been established within the [CRAFT-OA](https://www.craft-oa.eu/) Horizon Europe project, as part of the WP5 lead by [Aix-Marseille University](https://www.univ-amu.fr/) / [OpenEdition](https://www.openedition.org/?lang=en). 
 
-CRAFT-OA is an [OPERAS RI](https://operas-eu.org/) project coordinated by the [University of Göttigen](https://www.uni-goettingen.de/en/1.html) and it aims at supporting the publishers and authors following the Diamond Open Access model. This catalog is one aspect of such support.
+## What contains the Guide?
+The catalog contains detailed, although not exhaustive, information about the main indexes referencing academic publications. 
 
-CRAFT-OA was funded in 2022 under the HORIZON-INFRA-2022-EOSC-01 framework with the Grant Agreement number 101094397.
+The indexes listed here correspond to the indexes either most used by any type of publisher, or most useful for Diamond Open Access journals, in order to facilitate their broadest dissemination. Given their increasing importance in various aggregation processes, PIDs registration agencies were also listed, be it only as an important piece of information.
 
-## What contains the catalog?
-The catalog contains detailed, although not exhaustive, information about the main indexes in the field of academic publishing. 
-
-The indexes listed here correspond to the indexes either most used generally, or most useful for Diamond Open Access journals, in order to facilitate their broadest dissemination. Given their increasing importance in various aggregation processes, PIDs registration agencies were also listed, be it only as an important piece of information.
-
-The term "index" was chosen as the broader term and can therefore correspond to a variety of types: repositories, aggregators, thematic indexes, etc. The documentation should help to identify and understand these differences. For the purpose of this catalog, the project team established the following typology:
+The term "index" was chosen as the broader term and can therefore correspond to a variety of service types: repositories, aggregators, thematic indexes, etc. The documentation should help to identify and understand these differences. For the purpose of this catalog, the project team established the following typology:
 - Automated aggregator with submission (such as BASE, GoTriple, OpenAIRE)
 - Fully automated aggregator (such as CORE, Gscholar, OpenAlex, Semantic scholar)
 - PIDs Registration agency (such as Crossref, Datacite)
@@ -22,7 +23,7 @@ The term "index" was chosen as the broader term and can therefore correspond to 
 - Selective bibliographic index and full text repository (such as CEEOL)
 - Selective bibliographic index (such as DOAJ, Ebsco, ERIH PLUS, Pubmed)
 
-## How to read the catalog?
+## How to read the Guide?
 Each index documentation corresponds to one specific file.
 
 Each index documentation follows the same structure:
@@ -59,6 +60,12 @@ CRAFT-OA deliverable version 2 containing the full catalog management framework:
 
 The catalog links are integrated in the DISCO OJS plugin developed for CRAFT-OA by the [Masaryk University](https://www.muni.cz/en): https://github.com/munipress/disco/tree/ojs-3-2-0.
 
-## COPYRIGHT
+## LICENSE and CREDITS
 
 This content is available under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
+
+The Guide to Scholarly Indexes is managed by [Aix-Marseille University](https://www.univ-amu.fr/) / [OpenEdition](https://www.openedition.org/?lang=en). 
+
+The Guide to Scholarly Indexes was developed collectively within the [CRAFT-OA](https://www.craft-oa.eu/) project. CRAFT-OA is an [OPERAS RI](https://operas-eu.org/) project coordinated by the [University of Göttigen](https://www.uni-goettingen.de/en/1.html).
+
+
