@@ -5,15 +5,12 @@ This repository contains the Guide to Scholarly Indexes, a catalog of synthetic 
 
 The Guide has been established within the [CRAFT-OA](https://www.craft-oa.eu/) Horizon Europe project, a building project of the [European Diamond Capacity Hub](https://diamas.org/).
 
-The European Diamond Capacity Hub (EDCH) and the CRAFT-OA project aim at supporting the publishers and authors following the [Diamond Open Access model](https://diamas.org/diamond-open-access). The Guide to Scholarly Indexes is one aspect of such support.
-
-The Guide also exists as a public spreadsheet stored on Zenodo under the name [Knowledge Base](https://doi.org/10.5281/zenodo.17103786).
-   
+The European Diamond Capacity Hub (EDCH) and the CRAFT-OA project aim at supporting the publishers and authors following the [Diamond Open Access model](https://diamas.org/diamond-open-access). The Guide to Scholarly Indexes is one aspect of such support.   
 
 ## What contains the Guide?
-The catalog contains detailed, although not exhaustive, information about the main indexes referencing academic publications. 
+The Guide contains detailed, although not exhaustive, information about the main indexes referencing academic publications. 
 
-The indexes listed here correspond to the indexes either most used by any type of publisher, or most useful for Diamond Open Access journals, in order to facilitate their broadest dissemination. Given their increasing importance in various aggregation processes, PIDs registration agencies were also listed, be it only as an important piece of information.
+The indexes listed here correspond to the indexes either most used by any type of publisher, or most useful for Diamond Open Access journals, in order to facilitate broader dissemination. Given their increasing importance in various aggregation processes, PIDs registration agencies were also listed, be it only as an important piece of information.
 
 The term "index" was chosen as the broader term and can therefore correspond to a variety of service types: repositories, aggregators, thematic indexes, etc. The documentation should help to identify and understand these differences. For the purpose of this catalog, the project team established the following typology:
 - Automated aggregator with submission (such as BASE, GoTriple, OpenAIRE)
@@ -28,37 +25,34 @@ Each index documentation corresponds to one specific file.
 
 Each index documentation follows the same structure:
 - Introduction
-- General information
-- Content and service
-- Requirements
-    - Joigning process
-    - Minimum requirements
-    - Additional criteria
+- Service Description
+- Service Provision
+- Inclusion process
+- Minimum Requirements
+- Additional Criteria
+- Information Sources
  
-The first section “General Information” gives a concise view of the global aspects of the index. It concerns administration and typology aspects of the index.
+The first two sections "Introduction" and "Service Description" give a concise view of the global aspects of the index. It concerns administration and typology aspects.
 
-The second section “Content and Service” explains which and how journal's information is displayed on the index. It describes the data selection and management. It also indicates, when available, some additional services of the index besides the indexing.
+The second section “Service Provision” explains which and how journal's information is displayed on the index. It describes the data selection and management. It also indicates, when available, some additional services of the index besides the indexing.
 
-The third and final section “Requirements for Academic Publications” exposes the requirements and selection criteria of the index. While some criteria will require a deeper look into the index own documentation, the catalog intends to give sufficient information to evaluate the feasibility for a given journal to meet the requirements.
+The sections “Inclusion process”, "Minimum Requirements" and "Additional Criteria" expose the requirements and selection criteria of the index. While some criteria will require a deeper look into the index own documentation, the Guide intends to give sufficient information to evaluate the feasibility for a given journal to meet the requirements.
 
-## How up-to-date is the catalog?
-Besides the automated version history integrated in Github, each catalog entry indicates the date of the last version.
+The last section "Information Sources" gives links to the main sources of information used to build the documentation.
 
-Furthermore, it was since the beginning the plan of CRAFT-OA to provide an easily updatable and scalable documentation about scholarly publications indexes. The independent files for each index, as well as the consistent and robust structure of each entry will precisely facilitate the collaborative updates. The storage on a github repository will in addition allow to keep track of all the changes.
+## Are there other versions of the Guide?
 
-## Are there other versions of the catalog?
+Spreasheet on Zenodo: https://doi.org/10.5281/zenodo.17103786
 
-Spreasheet: not yet, but soon.
-
-Gitbook: not yet, but soon.
+Honkit book version: in preparation.
 
 ## Additional information
 
 CRAFT-OA deliverable version 1 describing the designing of the catalog: [Zenodo file](https://doi.org/10.5281/zenodo.12634606).
 
-CRAFT-OA deliverable version 2 containing the full catalog management framework: ON-GOING
+CRAFT-OA deliverable version 2 containing the Guide's management framework: [Zenodo file ](https://doi.org/10.5281/zenodo.15836467)
 
-The catalog links are integrated in the DISCO OJS plugin developed for CRAFT-OA by the [Masaryk University](https://www.muni.cz/en): https://github.com/munipress/disco/tree/ojs-3-2-0.
+Links to the Guide are integrated in the DISCO OJS plugin developed for CRAFT-OA by the [Masaryk University](https://www.muni.cz/en): https://github.com/munipress/disco 
 
 ## LICENSE and CREDITS
 
