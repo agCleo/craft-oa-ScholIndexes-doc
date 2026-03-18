@@ -1,0 +1,54 @@
+name: Build & Deploy HonKit Documentation
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        working-directory: ./docs
+        run: |
+          npm ci || npm install honkit gh-pages --save-dev
+          
+      - name: Generate SUMMARY.md for each language
+        working-directory: ./docs
+        run: node generate-summary.js
+
+      - name: Commit updated SUMMARY.md files
+        working-directory: ./docs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add en/SUMMARY.md fr/SUMMARY.md
+          git commit -m "Auto-update SUMMARY.md for en/fr" || echo "No changes"
+          git push || echo "Nothing to push"
+          
+      - name: Build the book
+        working-directory: ./docs
+        run: |
+          npx honkit build
+          ls -R _book
+
+      - name: Add redirect index.html
+        working-directory: ./docs
+        run: |
+          cp redirect.html _book/index.html
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs/_book
+          force_orphan: true

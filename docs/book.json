@@ -1,0 +1,13 @@
+{
+  "title": "Guide to scholarly indexes",
+  "language": "en",
+  "root": ".",
+  "structure": {
+    "langs": "LANGS.md"
+  },
+  "plugins": [],
+  "pluginsConfig": {},
+  "variables": {
+    "basePath": "/guide_scholarly_indexes_test"
+  }
+}
