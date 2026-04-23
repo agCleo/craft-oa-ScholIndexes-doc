@@ -1,3 +1,8 @@
+> [!WARNING] 
+> THIS VERSION OF THE GUIDE TO SCHOLARLY INDEXES IS OBSOLETE
+> 
+> THE UP-TO-DATE VERSION IS ACCESSIBLE AT : https://github.com/operas-eu/GuideScholarlyIndexes
+
 # Guide to Scholarly Indexes
 
 ## About 
